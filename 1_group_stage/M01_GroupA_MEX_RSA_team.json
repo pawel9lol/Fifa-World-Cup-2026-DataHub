@@ -1,0 +1,178 @@
+{
+  "match_info": {
+    "match_id_or_code": "M01",
+    "date": "11 June 2026",
+    "stadium": "Mexico City Stadium",
+    "match": "Group A - Match 1",
+    "teams": {
+      "home": "Mexico",
+      "away": "South Africa"
+    }
+  },
+  "team_statistics": {
+    "phases_of_play": {
+      "in_possession_pct": {
+        "Mexico": "47%",
+        "South_Africa": "43%"
+      },
+      "in_possession_details": {
+        "build_up_unopposed": { "Mexico": "47%", "South_Africa": "30%" },
+        "build_up_opposed": { "Mexico": "13%", "South_Africa": "14%" },
+        "progression": { "Mexico": "16%", "South_Africa": "13%" },
+        "final_third": { "Mexico": "11%", "South_Africa": "14%" },
+        "long_ball": { "Mexico": "3%", "South_Africa": "7%" },
+        "attacking_transition": { "Mexico": "10%", "South_Africa": "6%" },
+        "counter_attack": { "Mexico": "1%", "South_Africa": "1%" },
+        "set_piece": { "Mexico": "2%", "South_Africa": "5%" }
+      },
+      "out_of_possession_pct": {
+        "Mexico": "30%",
+        "South_Africa": "43%"
+      },
+      "out_of_possession_details": {
+        "high_press": { "Mexico": "9%", "South_Africa": "5%" },
+        "mid_press": { "Mexico": "6%", "South_Africa": "13%" },
+        "low_press": { "Mexico": "3%", "South_Africa": "14%" },
+        "high_block": { "Mexico": "3%", "South_Africa": "7%" },
+        "mid_block": { "Mexico": "0%", "South_Africa": "6%" },
+        "low_block": { "Mexico": "1%", "South_Africa": "12%" },
+        "recovery": { "Mexico": "7%", "South_Africa": "9%" },
+        "defensive_transition": { "Mexico": "5%", "South_Africa": "6%" },
+        "counter_press": { "Mexico": "25%", "South_Africa": "11%" }
+      }
+    },
+    "line_breaks": {
+      "Mexico": {
+        "total_attempted": 136,
+        "total_completed": 105,
+        "by_units": {
+          "4_units": { "attempted": 3, "completed": 1 },
+          "3_units": { "attempted": 97, "completed": 74 },
+          "2_units": { "attempted": 36, "completed": 30 }
+        },
+        "by_shape": {
+          "inside_shape": { "attempted": 85, "completed": 64 },
+          "outside_shape": { "attempted": 51, "completed": 41 }
+        },
+        "by_direction": {
+          "through": { "attempted": 40, "completed": 36 },
+          "around": { "attempted": 52, "completed": 36 },
+          "over": { "attempted": 44, "completed": 33 }
+        }
+      },
+      "South_Africa": {
+        "total_attempted": 96,
+        "total_completed": 57,
+        "by_units": {
+          "4_units": { "attempted": 8, "completed": 5 },
+          "3_units": { "attempted": 64, "completed": 40 },
+          "2_units": { "attempted": 24, "completed": 12 }
+        },
+        "by_shape": {
+          "inside_shape": { "attempted": 48, "completed": 32 },
+          "outside_shape": { "attempted": 48, "completed": 25 }
+        },
+        "by_direction": {
+          "through": { "attempted": 22, "completed": 15 },
+          "around": { "attempted": 32, "completed": 26 },
+          "over": { "attempted": 42, "completed": 16 }
+        }
+      }
+    },
+    "offering_to_receive": {
+      "Mexico": {
+        "total_offers_made": 424,
+        "total_offers_received": 166,
+        "by_third": {
+          "defensive_third": 78,
+          "middle_third": 212,
+          "final_third": 134
+        },
+        "by_shape": {
+          "inside_shape": 211,
+          "outside_shape": 213
+        }
+      },
+      "South_Africa": {
+        "total_offers_made": 247,
+        "total_offers_received": 94,
+        "by_third": {
+          "defensive_third": 72,
+          "middle_third": 104,
+          "final_third": 71
+        },
+        "by_shape": {
+          "inside_shape": 123,
+          "outside_shape": 124
+        }
+      }
+    },
+    "movement_to_receive": {
+      "Mexico": {
+        "total_movements": 309,
+        "by_type": {
+          "in_front": 97,
+          "in_between": 86,
+          "out_to_in": 17,
+          "in_to_out": 18,
+          "in_behind": 91
+        },
+        "by_phase": {
+          "build_up_phase": { "total": 176, "in_front": 74, "in_between": 41, "out_to_in": 12, "in_to_out": 13, "in_behind": 36 },
+          "progression_phase": { "total": 96, "in_front": 22, "in_between": 27, "out_to_in": 4, "in_to_out": 4, "in_behind": 39 },
+          "final_third_phase": { "total": 65, "in_front": 7, "in_between": 16, "out_to_in": 1, "in_to_out": 1, "in_behind": 38 }
+        },
+        "by_pitch_third": {
+          "defensive_third": { "in_front": 28, "in_between": 11, "out_to_in": 2, "in_to_out": 1, "in_behind": 0 },
+          "middle_third": { "in_front": 62, "in_between": 49, "out_to_in": 10, "in_to_out": 13, "in_behind": 15 },
+          "final_third": { "in_front": 7, "in_between": 26, "out_to_in": 5, "in_to_out": 4, "in_behind": 76 }
+        }
+      },
+      "South_Africa": {
+        "total_movements": 179,
+        "by_type": {
+          "in_front": 63,
+          "in_between": 42,
+          "out_to_in": 7,
+          "in_to_out": 11,
+          "in_behind": 56
+        },
+        "by_phase": {
+          "build_up_phase": { "total": 103, "in_front": 53, "in_between": 23, "out_to_in": 1, "in_to_out": 7, "in_behind": 19 },
+          "progression_phase": { "total": 53, "in_front": 12, "in_between": 15, "out_to_in": 4, "in_to_out": 2, "in_behind": 20 },
+          "final_third_phase": { "total": 17, "in_front": 6, "in_between": 4, "out_to_in": 0, "in_to_out": 2, "in_behind": 5 }
+        },
+        "by_pitch_third": {
+          "defensive_third": { "in_front": 23, "in_between": 7, "out_to_in": 2, "in_to_out": 3, "in_behind": 0 },
+          "middle_third": { "in_front": 39, "in_between": 27, "out_to_in": 5, "in_to_out": 5, "in_behind": 5 },
+          "final_third": { "in_front": 1, "in_between": 8, "out_to_in": 0, "in_to_out": 3, "in_behind": 51 }
+        }
+      }
+    },
+    "defensive_actions": {
+      "forced_turnovers": { "Mexico": 31, "South_Africa": 32 },
+      "possession_regained": { "Mexico": 37, "South_Africa": 41 },
+      "interceptions": { "Mexico": 6, "South_Africa": 15 },
+      "tackles": { "Mexico": 16, "South_Africa": 29 },
+      "possession_actions_per_defensive_action": { "Mexico": 10.36, "South_Africa": 3.66 }
+    },
+    "defensive_contests_and_duels": {
+      "clearances": { "Mexico": 25, "South_Africa": 15 },
+      "blocks": { "Mexico": 13, "South_Africa": 11 },
+      "possession_contests": { "Mexico": 10, "South_Africa": 2 },
+      "physical_duels": { "Mexico": 7, "South_Africa": 7 },
+      "aerial_duels": { "Mexico": 33, "South_Africa": 35 },
+      "total_duels": { "Mexico": 40, "South_Africa": 42 }
+    },
+    "defensive_pressure": {
+      "total_pressures": { "Mexico": 170, "South_Africa": 306 },
+      "direct_pressures": { "Mexico": 26, "South_Africa": 45 },
+      "avg_pressure_duration": { "Mexico": "1.57s", "South_Africa": "1.43s" },
+      "ball_recovery_time": { "Mexico": "14.38s", "South_Africa": "22.45s" },
+      "pushing_on_into_pressing": { "Mexico": 79, "South_Africa": 141 },
+      "pushing_on": { "Mexico": 200, "South_Africa": 329 },
+      "pressing_direction_inside": { "Mexico": 29, "South_Africa": 54 },
+      "pressing_direction_outside": { "Mexico": 96, "South_Africa": 168 }
+    }
+  }
+}

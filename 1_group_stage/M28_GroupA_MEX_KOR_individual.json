@@ -1,0 +1,305 @@
+{
+  "match_info": {
+    "date": "18 June 2026",
+    "stadium": "Guadalajara Stadium",
+    "match": "Group A - Match 28",
+    "teams": {
+      "home": "Mexico",
+      "away": "Korea Republic"
+    }
+  },
+  "individual_player_data": {
+    "Mexico": [
+      {
+        "player": "Raul RANGEL",
+        "in_possession": {
+          "passes_attempted": 35, "passes_completed": 21, "pass_completion_pct": "60%", "switches_of_play": 0, "crosses_attempted": 0, "crosses_completed": 0, "line_breaks_attempted": 18, "line_breaks_completed": 8, "line_break_completion_pct": "44%", "ball_progressions": 0, "take_ons": 0, "step_ins": 0, "attempts_at_goal": 0, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 26, "offers_in_front": 1, "offers_in_between": 0, "offers_out_to_in": 0, "offers_in_to_out": 0, "offers_in_behind": 1, "offers_no_movement": 24, "offers_received": 6 }
+        },
+        "out_of_possession": { "tackles_made_won": "0/0", "blocks": 0, "interceptions": 0, "pressing_direct": 0, "pressing_indirect": 0, "duels_won_aerial": 0, "duels_won_physical": 0, "possession_contests_won": 0, "clearances": 0, "loose_ball_receptions": 6, "pushing_on": 0, "pushing_on_into_pressing": 0, "possession_regains": 9, "possession_interrupted": 0 },
+        "physical_data": { "total_distance_m": 5313.6, "zone_1_m": 4084.8, "zone_2_m": 1083.9, "zone_3_m": 144.0, "zone_4_m": 0.9, "zone_5_m": 0.0, "high_speed_runs": 19.0, "sprints": 0.0, "top_speed_kmh": 20.1 }
+      },
+      {
+        "player": "Jorge SANCHEZ",
+        "in_possession": {
+          "passes_attempted": 32, "passes_completed": 30, "pass_completion_pct": "94%", "switches_of_play": 0, "crosses_attempted": 0, "crosses_completed": 0, "line_breaks_attempted": 7, "line_breaks_completed": 6, "line_break_completion_pct": "86%", "ball_progressions": 1, "take_ons": 1, "step_ins": 0, "attempts_at_goal": 0, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 35, "offers_in_front": 5, "offers_in_between": 0, "offers_out_to_in": 0, "offers_in_to_out": 0, "offers_in_behind": 13, "offers_no_movement": 17, "offers_received": 8 }
+        },
+        "out_of_possession": { "tackles_made_won": "2/0", "blocks": 1, "interceptions": 1, "pressing_direct": 6, "pressing_indirect": 20, "duels_won_aerial": 0, "duels_won_physical": 0, "possession_contests_won": 0, "clearances": 0, "loose_ball_receptions": 3, "pushing_on": 40, "pushing_on_into_pressing": 17, "possession_regains": 2, "possession_interrupted": 0 },
+        "physical_data": { "total_distance_m": 11744.6, "zone_1_m": 3735.4, "zone_2_m": 5321.6, "zone_3_m": 1721.2, "zone_4_m": 704.1, "zone_5_m": 262.3, "high_speed_runs": 158.0, "sprints": 60.0, "top_speed_kmh": 30.6 }
+      },
+      {
+        "player": "Edson ALVAREZ",
+        "in_possession": {
+          "passes_attempted": 75, "passes_completed": 68, "pass_completion_pct": "91%", "switches_of_play": 0, "crosses_attempted": 0, "crosses_completed": 0, "line_breaks_attempted": 23, "line_breaks_completed": 15, "line_break_completion_pct": "65%", "ball_progressions": 1, "take_ons": 1, "step_ins": 0, "attempts_at_goal": 0, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 17, "offers_in_front": 3, "offers_in_between": 0, "offers_out_to_in": 0, "offers_in_to_out": 0, "offers_in_behind": 0, "offers_no_movement": 14, "offers_received": 9 }
+        },
+        "out_of_possession": { "tackles_made_won": "3/2", "blocks": 0, "interceptions": 1, "pressing_direct": 2, "pressing_indirect": 1, "duels_won_aerial": 2, "duels_won_physical": 0, "possession_contests_won": 2, "clearances": 7, "loose_ball_receptions": 6, "pushing_on": 11, "pushing_on_into_pressing": 1, "possession_regains": 6, "possession_interrupted": 3 },
+        "physical_data": { "total_distance_m": 10219.2, "zone_1_m": 3927.1, "zone_2_m": 4411.0, "zone_3_m": 1330.7, "zone_4_m": 368.3, "zone_5_m": 182.1, "high_speed_runs": 125.0, "sprints": 38.0, "top_speed_kmh": 30.8 }
+      },
+      {
+        "player": "Johan VASQUEZ",
+        "in_possession": {
+          "passes_attempted": 52, "passes_completed": 48, "pass_completion_pct": "92%", "switches_of_play": 0, "crosses_attempted": 0, "crosses_completed": 0, "line_breaks_attempted": 6, "line_breaks_completed": 5, "line_break_completion_pct": "83%", "ball_progressions": 0, "take_ons": 0, "step_ins": 0, "attempts_at_goal": 0, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 11, "offers_in_front": 2, "offers_in_between": 0, "offers_out_to_in": 0, "offers_in_to_out": 0, "offers_in_behind": 0, "offers_no_movement": 9, "offers_received": 5 }
+        },
+        "out_of_possession": { "tackles_made_won": "0/0", "blocks": 3, "interceptions": 0, "pressing_direct": 0, "pressing_indirect": 3, "duels_won_aerial": 1, "duels_won_physical": 0, "possession_contests_won": 1, "clearances": 6, "loose_ball_receptions": 8, "pushing_on": 16, "pushing_on_into_pressing": 1, "possession_regains": 2, "possession_interrupted": 4 },
+        "physical_data": { "total_distance_m": 10744.8, "zone_1_m": 4017.6, "zone_2_m": 4711.7, "zone_3_m": 1587.5, "zone_4_m": 365.6, "zone_5_m": 62.4, "high_speed_runs": 133.0, "sprints": 31.0, "top_speed_kmh": 27.9 }
+      },
+      {
+        "player": "Erik LIRA",
+        "in_possession": {
+          "passes_attempted": 47, "passes_completed": 41, "pass_completion_pct": "87%", "switches_of_play": 0, "crosses_attempted": 0, "crosses_completed": 0, "line_breaks_attempted": 13, "line_breaks_completed": 9, "line_break_completion_pct": "69%", "ball_progressions": 1, "take_ons": 1, "step_ins": 0, "attempts_at_goal": 0, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 36, "offers_in_front": 15, "offers_in_between": 17, "offers_out_to_in": 0, "offers_in_to_out": 1, "offers_in_behind": 0, "offers_no_movement": 3, "offers_received": 16 }
+        },
+        "out_of_possession": { "tackles_made_won": "3/1", "blocks": 2, "interceptions": 2, "pressing_direct": 9, "pressing_indirect": 25, "duels_won_aerial": 0, "duels_won_physical": 0, "possession_contests_won": 0, "clearances": 3, "loose_ball_receptions": 6, "pushing_on": 48, "pushing_on_into_pressing": 19, "possession_regains": 3, "possession_interrupted": 7 },
+        "physical_data": { "total_distance_m": 11868.5, "zone_1_m": 3945.5, "zone_2_m": 5683.4, "zone_3_m": 1710.7, "zone_4_m": 460.6, "zone_5_m": 68.4, "high_speed_runs": 140.0, "sprints": 35.0, "top_speed_kmh": 30.5 }
+      },
+      {
+        "player": "Luis ROMO",
+        "in_possession": {
+          "passes_attempted": 37, "passes_completed": 32, "pass_completion_pct": "86%", "switches_of_play": 0, "crosses_attempted": 0, "crosses_completed": 0, "line_breaks_attempted": 10, "line_breaks_completed": 7, "line_break_completion_pct": "70%", "ball_progressions": 0, "take_ons": 0, "step_ins": 0, "attempts_at_goal": 1, "goals": 1,
+          "offers_and_receptions": { "total_offers_made": 53, "offers_in_front": 19, "offers_in_between": 20, "offers_out_to_in": 0, "offers_in_to_out": 0, "offers_in_behind": 7, "offers_no_movement": 7, "offers_received": 19 }
+        },
+        "out_of_possession": { "tackles_made_won": "5/1", "blocks": 3, "interceptions": 0, "pressing_direct": 4, "pressing_indirect": 20, "duels_won_aerial": 1, "duels_won_physical": 0, "possession_contests_won": 3, "clearances": 0, "loose_ball_receptions": 6, "pushing_on": 34, "pushing_on_into_pressing": 6, "possession_regains": 3, "possession_interrupted": 3 },
+        "physical_data": { "total_distance_m": 9079.4, "zone_1_m": 2771.1, "zone_2_m": 4179.0, "zone_3_m": 1541.1, "zone_4_m": 507.5, "zone_5_m": 80.8, "high_speed_runs": 143.0, "sprints": 38.0, "top_speed_kmh": 28.9 }
+      },
+      {
+        "player": "Raul JIMENEZ",
+        "in_possession": {
+          "passes_attempted": 19, "passes_completed": 15, "pass_completion_pct": "79%", "switches_of_play": 0, "crosses_attempted": 0, "crosses_completed": 0, "line_breaks_attempted": 2, "line_breaks_completed": 1, "line_break_completion_pct": "50%", "ball_progressions": 0, "take_ons": 0, "step_ins": 0, "attempts_at_goal": 2, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 44, "offers_in_front": 3, "offers_in_between": 12, "offers_out_to_in": 1, "offers_in_to_out": 1, "offers_in_behind": 23, "offers_no_movement": 4, "offers_received": 17 }
+        },
+        "out_of_possession": { "tackles_made_won": "0/0", "blocks": 1, "interceptions": 0, "pressing_direct": 1, "pressing_indirect": 22, "duels_won_aerial": 2, "duels_won_physical": 1, "possession_contests_won": 3, "clearances": 0, "loose_ball_receptions": 2, "pushing_on": 29, "pushing_on_into_pressing": 9, "possession_regains": 1, "possession_interrupted": 0 },
+        "physical_data": { "total_distance_m": 8127.5, "zone_1_m": 3733.3, "zone_2_m": 2867.9, "zone_3_m": 1020.2, "zone_4_m": 339.0, "zone_5_m": 167.2, "high_speed_runs": 78.0, "sprints": 35.0, "top_speed_kmh": 31.2 }
+      },
+      {
+        "player": "Julian QUINONES",
+        "in_possession": {
+          "passes_attempted": 26, "passes_completed": 20, "pass_completion_pct": "77%", "switches_of_play": 0, "crosses_attempted": 1, "crosses_completed": 1, "line_breaks_attempted": 4, "line_breaks_completed": 2, "line_break_completion_pct": "50%", "ball_progressions": 3, "take_ons": 3, "step_ins": 0, "attempts_at_goal": 1, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 79, "offers_in_front": 6, "offers_in_between": 17, "offers_out_to_in": 4, "offers_in_to_out": 5, "offers_in_behind": 33, "offers_no_movement": 14, "offers_received": 21 }
+        },
+        "out_of_possession": { "tackles_made_won": "1/0", "blocks": 2, "interceptions": 0, "pressing_direct": 0, "pressing_indirect": 39, "duels_won_aerial": 2, "duels_won_physical": 0, "possession_contests_won": 2, "clearances": 0, "loose_ball_receptions": 4, "pushing_on": 46, "pushing_on_into_pressing": 25, "possession_regains": 1, "possession_interrupted": 1 },
+        "physical_data": { "total_distance_m": 9934.3, "zone_1_m": 3761.5, "zone_2_m": 3902.2, "zone_3_m": 1478.6, "zone_4_m": 549.7, "zone_5_m": 242.3, "high_speed_runs": 132.0, "sprints": 55.0, "top_speed_kmh": 32.1 }
+      },
+      {
+        "player": "Jesus GALLARDO",
+        "in_possession": {
+          "passes_attempted": 44, "passes_completed": 34, "pass_completion_pct": "77%", "switches_of_play": 1, "crosses_attempted": 2, "crosses_completed": 1, "line_breaks_attempted": 21, "line_breaks_completed": 13, "line_break_completion_pct": "62%", "ball_progressions": 5, "take_ons": 3, "step_ins": 2, "attempts_at_goal": 1, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 31, "offers_in_front": 9, "offers_in_between": 0, "offers_out_to_in": 0, "offers_in_to_out": 2, "offers_in_behind": 3, "offers_no_movement": 17, "offers_received": 11 }
+        },
+        "out_of_possession": { "tackles_made_won": "3/0", "blocks": 3, "interceptions": 1, "pressing_direct": 7, "pressing_indirect": 15, "duels_won_aerial": 2, "duels_won_physical": 0, "possession_contests_won": 3, "clearances": 10, "loose_ball_receptions": 2, "pushing_on": 25, "pushing_on_into_pressing": 15, "possession_regains": 3, "possession_interrupted": 6 },
+        "physical_data": { "total_distance_m": 10511.7, "zone_1_m": 4201.7, "zone_2_m": 4676.7, "zone_3_m": 1092.6, "zone_4_m": 384.2, "zone_5_m": 156.6, "high_speed_runs": 93.0, "sprints": 35.0, "top_speed_kmh": 31.3 }
+      },
+      {
+        "player": "Roberto ALVARADO",
+        "in_possession": {
+          "passes_attempted": 25, "passes_completed": 18, "pass_completion_pct": "72%", "switches_of_play": 0, "crosses_attempted": 2, "crosses_completed": 1, "line_breaks_attempted": 7, "line_breaks_completed": 2, "line_break_completion_pct": "29%", "ball_progressions": 1, "take_ons": 1, "step_ins": 0, "attempts_at_goal": 1, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 32, "offers_in_front": 3, "offers_in_between": 6, "offers_out_to_in": 0, "offers_in_to_out": 0, "offers_in_behind": 9, "offers_no_movement": 14, "offers_received": 7 }
+        },
+        "out_of_possession": { "tackles_made_won": "1/1", "blocks": 4, "interceptions": 0, "pressing_direct": 3, "pressing_indirect": 17, "duels_won_aerial": 1, "duels_won_physical": 1, "possession_contests_won": 1, "clearances": 2, "loose_ball_receptions": 4, "pushing_on": 22, "pushing_on_into_pressing": 10, "possession_regains": 3, "possession_interrupted": 3 },
+        "physical_data": { "total_distance_m": 8885.6, "zone_1_m": 3498.0, "zone_2_m": 3492.1, "zone_3_m": 1073.4, "zone_4_m": 575.8, "zone_5_m": 246.3, "high_speed_runs": 89.0, "sprints": 44.0, "top_speed_kmh": 33.2 }
+      },
+      {
+        "player": "Brian GUTIERREZ",
+        "in_possession": {
+          "passes_attempted": 17, "passes_completed": 15, "pass_completion_pct": "88%", "switches_of_play": 0, "crosses_attempted": 0, "crosses_completed": 0, "line_breaks_attempted": 4, "line_breaks_completed": 3, "line_break_completion_pct": "75%", "ball_progressions": 2, "take_ons": 0, "step_ins": 2, "attempts_at_goal": 1, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 53, "offers_in_front": 8, "offers_in_between": 29, "offers_out_to_in": 7, "offers_in_to_out": 1, "offers_in_behind": 7, "offers_no_movement": 1, "offers_received": 13 }
+        },
+        "out_of_possession": { "tackles_made_won": "1/0", "blocks": 11, "interceptions": 1, "pressing_direct": 3, "pressing_indirect": 24, "duels_won_aerial": 2, "duels_won_physical": 0, "possession_contests_won": 2, "clearances": 0, "loose_ball_receptions": 4, "pushing_on": 41, "pushing_on_into_pressing": 14, "possession_regains": 1, "possession_interrupted": 11 },
+        "physical_data": { "total_distance_m": 8307.3, "zone_1_m": 3043.5, "zone_2_m": 3469.0, "zone_3_m": 1332.6, "zone_4_m": 388.3, "zone_5_m": 74.0, "high_speed_runs": 115.0, "sprints": 36.0, "top_speed_kmh": 30.7 }
+      },
+      {
+        "player": "Santiago GIMENEZ",
+        "in_possession": {
+          "passes_attempted": 4, "passes_completed": 2, "pass_completion_pct": "50%", "switches_of_play": 0, "crosses_attempted": 0, "crosses_completed": 0, "line_breaks_attempted": 0, "line_breaks_completed": 0, "line_break_completion_pct": "0%", "ball_progressions": 0, "take_ons": 0, "step_ins": 0, "attempts_at_goal": 0, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 6, "offers_in_front": 0, "offers_in_between": 3, "offers_out_to_in": 0, "offers_in_to_out": 0, "offers_in_behind": 3, "offers_no_movement": 0, "offers_received": 1 }
+        },
+        "out_of_possession": { "tackles_made_won": "0/0", "blocks": 1, "interceptions": 0, "pressing_direct": 0, "pressing_indirect": 7, "duels_won_aerial": 0, "duels_won_physical": 0, "possession_contests_won": 1, "clearances": 0, "loose_ball_receptions": 1, "pushing_on": 6, "pushing_on_into_pressing": 3, "possession_regains": 0, "possession_interrupted": 0 },
+        "physical_data": { "total_distance_m": 1943.6, "zone_1_m": 561.9, "zone_2_m": 941.0, "zone_3_m": 252.4, "zone_4_m": 104.8, "zone_5_m": 83.4, "high_speed_runs": 31.0, "sprints": 8.0, "top_speed_kmh": 30.9 }
+      },
+      {
+        "player": "Israel REYES",
+        "in_possession": {
+          "passes_attempted": 3, "passes_completed": 2, "pass_completion_pct": "67%", "switches_of_play": 0, "crosses_attempted": 0, "crosses_completed": 0, "line_breaks_attempted": 2, "line_breaks_completed": 1, "line_break_completion_pct": "50%", "ball_progressions": 0, "take_ons": 0, "step_ins": 0, "attempts_at_goal": 0, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 1, "offers_in_front": 0, "offers_in_between": 0, "offers_out_to_in": 0, "offers_in_to_out": 0, "offers_in_behind": 0, "offers_no_movement": 1, "offers_received": 11 }
+        },
+        "out_of_possession": { "tackles_made_won": "1/0", "blocks": 1, "interceptions": 1, "pressing_direct": 2, "pressing_indirect": 3, "duels_won_aerial": 1, "duels_won_physical": 0, "possession_contests_won": 0, "clearances": 1, "loose_ball_receptions": 11, "pushing_on": 10, "pushing_on_into_pressing": 5, "possession_regains": 2, "possession_interrupted": 1 },
+        "physical_data": { "total_distance_m": 1887.9, "zone_1_m": 605.7, "zone_2_m": 958.8, "zone_3_m": 249.1, "zone_4_m": 74.2, "zone_5_m": 0.0, "high_speed_runs": 21.0, "sprints": 4.0, "top_speed_kmh": 22.9 }
+      },
+      {
+        "player": "Orbelin PINEDA",
+        "in_possession": {
+          "passes_attempted": 3, "passes_completed": 3, "pass_completion_pct": "100%", "switches_of_play": 0, "crosses_attempted": 0, "crosses_completed": 0, "line_breaks_attempted": 1, "line_breaks_completed": 1, "line_break_completion_pct": "100%", "ball_progressions": 1, "take_ons": 0, "step_ins": 1, "attempts_at_goal": 0, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 17, "offers_in_front": 3, "offers_in_between": 6, "offers_out_to_in": 0, "offers_in_to_out": 4, "offers_in_behind": 4, "offers_no_movement": 0, "offers_received": 3 }
+        },
+        "out_of_possession": { "tackles_made_won": "0/0", "blocks": 11, "interceptions": 0, "pressing_direct": 0, "pressing_indirect": 23, "duels_won_aerial": 0, "duels_won_physical": 0, "possession_contests_won": 0, "clearances": 1, "loose_ball_receptions": 1, "pushing_on": 15, "pushing_on_into_pressing": 10, "possession_regains": 0, "possession_interrupted": 1 },
+        "physical_data": { "total_distance_m": 3297.1, "zone_1_m": 944.1, "zone_2_m": 1524.6, "zone_3_m": 583.7, "zone_4_m": 160.9, "zone_5_m": 83.9, "high_speed_runs": 55.0, "sprints": 14.0, "top_speed_kmh": 31.3 }
+      },
+      {
+        "player": "Obed VARGAS",
+        "in_possession": {
+          "passes_attempted": 11, "passes_completed": 9, "pass_completion_pct": "82%", "switches_of_play": 0, "crosses_attempted": 0, "crosses_completed": 0, "line_breaks_attempted": 5, "line_breaks_completed": 3, "line_break_completion_pct": "60%", "ball_progressions": 3, "take_ons": 2, "step_ins": 1, "attempts_at_goal": 1, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 12, "offers_in_front": 5, "offers_in_between": 5, "offers_out_to_in": 0, "offers_in_to_out": 1, "offers_in_behind": 0, "offers_no_movement": 1, "offers_received": 4 }
+        },
+        "out_of_possession": { "tackles_made_won": "0/0", "blocks": 0, "interceptions": 0, "pressing_direct": 1, "pressing_indirect": 4, "duels_won_aerial": 1, "duels_won_physical": 0, "possession_contests_won": 1, "clearances": 0, "loose_ball_receptions": 3, "pushing_on": 11, "pushing_on_into_pressing": 2, "possession_regains": 0, "possession_interrupted": 0 },
+        "physical_data": { "total_distance_m": 3104.4, "zone_1_m": 840.9, "zone_2_m": 1439.2, "zone_3_m": 555.0, "zone_4_m": 209.7, "zone_5_m": 59.6, "high_speed_runs": 51.0, "sprints": 12.0, "top_speed_kmh": 31.5 }
+      },
+      {
+        "player": "Cesar HUERTA",
+        "in_possession": {
+          "passes_attempted": 2, "passes_completed": 2, "pass_completion_pct": "100%", "switches_of_play": 0, "crosses_attempted": 0, "crosses_completed": 0, "line_breaks_attempted": 0, "line_breaks_completed": 0, "line_break_completion_pct": "0%", "ball_progressions": 0, "take_ons": 0, "step_ins": 0, "attempts_at_goal": 0, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 3, "offers_in_front": 0, "offers_in_between": 0, "offers_out_to_in": 0, "offers_in_to_out": 0, "offers_in_behind": 3, "offers_no_movement": 0, "offers_received": 0 }
+        },
+        "out_of_possession": { "tackles_made_won": "0/0", "blocks": 0, "interceptions": 0, "pressing_direct": 1, "pressing_indirect": 3, "duels_won_aerial": 0, "duels_won_physical": 0, "possession_contests_won": 1, "clearances": 0, "loose_ball_receptions": 0, "pushing_on": 4, "pushing_on_into_pressing": 0, "possession_regains": 2, "possession_interrupted": 0 },
+        "physical_data": { "total_distance_m": 1580.4, "zone_1_m": 446.5, "zone_2_m": 726.4, "zone_3_m": 270.3, "zone_4_m": 98.9, "zone_5_m": 38.3, "high_speed_runs": 21.0, "sprints": 7.0, "top_speed_kmh": 28.4 }
+      }
+    ],
+    "Korea_Republic": [
+      {
+        "player": "KIM Seunggyu",
+        "in_possession": {
+          "passes_attempted": 41, "passes_completed": 29, "pass_completion_pct": "71%", "switches_of_play": 1, "crosses_attempted": 0, "crosses_completed": 0, "line_breaks_attempted": 15, "line_breaks_completed": 3, "line_break_completion_pct": "20%", "ball_progressions": 0, "take_ons": 0, "step_ins": 0, "attempts_at_goal": 0, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 16, "offers_in_front": 0, "offers_in_between": 0, "offers_out_to_in": 0, "offers_in_to_out": 0, "offers_in_behind": 0, "offers_no_movement": 16, "offers_received": 5 }
+        },
+        "out_of_possession": { "tackles_made_won": "0/0", "blocks": 0, "interceptions": 0, "pressing_direct": 0, "pressing_indirect": 0, "duels_won_aerial": 0, "duels_won_physical": 0, "possession_contests_won": 0, "clearances": 2, "loose_ball_receptions": 7, "pushing_on": 0, "pushing_on_into_pressing": 0, "possession_regains": 9, "possession_interrupted": 2 },
+        "physical_data": { "total_distance_m": 5398.0, "zone_1_m": 3978.7, "zone_2_m": 1210.3, "zone_3_m": 145.6, "zone_4_m": 62.1, "zone_5_m": 1.4, "high_speed_runs": 12.0, "sprints": 5.0, "top_speed_kmh": 25.1 }
+      },
+      {
+        "player": "LEE Hanbeom",
+        "in_possession": {
+          "passes_attempted": 60, "passes_completed": 53, "pass_completion_pct": "88%", "switches_of_play": 0, "crosses_attempted": 1, "crosses_completed": 0, "line_breaks_attempted": 17, "line_breaks_completed": 10, "line_break_completion_pct": "59%", "ball_progressions": 0, "take_ons": 0, "step_ins": 0, "attempts_at_goal": 1, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 17, "offers_in_front": 6, "offers_in_between": 0, "offers_out_to_in": 0, "offers_in_to_out": 0, "offers_in_behind": 3, "offers_no_movement": 8, "offers_received": 7 }
+        },
+        "out_of_possession": { "tackles_made_won": "4/1", "blocks": 2, "interceptions": 0, "pressing_direct": 12, "pressing_indirect": 5, "duels_won_aerial": 6, "duels_won_physical": 0, "possession_contests_won": 6, "clearances": 5, "loose_ball_receptions": 5, "pushing_on": 27, "pushing_on_into_pressing": 10, "possession_regains": 6, "possession_interrupted": 5 },
+        "physical_data": { "total_distance_m": 10482.6, "zone_1_m": 3994.6, "zone_2_m": 4588.9, "zone_3_m": 1364.3, "zone_4_m": 392.9, "zone_5_m": 141.9, "high_speed_runs": 130.0, "sprints": 30.0, "top_speed_kmh": 32.1 }
+      },
+      {
+        "player": "LEE Gihyuk",
+        "in_possession": {
+          "passes_attempted": 85, "passes_completed": 75, "pass_completion_pct": "88%", "switches_of_play": 1, "crosses_attempted": 0, "crosses_completed": 0, "line_breaks_attempted": 22, "line_breaks_completed": 14, "line_break_completion_pct": "64%", "ball_progressions": 1, "take_ons": 0, "step_ins": 1, "attempts_at_goal": 0, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 24, "offers_in_front": 6, "offers_in_between": 0, "offers_out_to_in": 0, "offers_in_to_out": 0, "offers_in_behind": 0, "offers_no_movement": 18, "offers_received": 13 }
+        },
+        "out_of_possession": { "tackles_made_won": "3/2", "blocks": 2, "interceptions": 3, "pressing_direct": 3, "pressing_indirect": 5, "duels_won_aerial": 1, "duels_won_physical": 0, "possession_contests_won": 1, "clearances": 7, "loose_ball_receptions": 7, "pushing_on": 13, "pushing_on_into_pressing": 4, "possession_regains": 9, "possession_interrupted": 7 },
+        "physical_data": { "total_distance_m": 10167.2, "zone_1_m": 3575.7, "zone_2_m": 4613.5, "zone_3_m": 1364.2, "zone_4_m": 426.3, "zone_5_m": 187.6, "high_speed_runs": 117.0, "sprints": 35.0, "top_speed_kmh": 31.6 }
+      },
+      {
+        "player": "KIM Minjae",
+        "in_possession": {
+          "passes_attempted": 94, "passes_completed": 90, "pass_completion_pct": "96%", "switches_of_play": 0, "crosses_attempted": 0, "crosses_completed": 0, "line_breaks_attempted": 9, "line_breaks_completed": 6, "line_break_completion_pct": "67%", "ball_progressions": 1, "take_ons": 0, "step_ins": 1, "attempts_at_goal": 0, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 14, "offers_in_front": 1, "offers_in_between": 0, "offers_out_to_in": 0, "offers_in_to_out": 0, "offers_in_behind": 0, "offers_no_movement": 13, "offers_received": 9 }
+        },
+        "out_of_possession": { "tackles_made_won": "1/1", "blocks": 2, "interceptions": 3, "pressing_direct": 1, "pressing_indirect": 5, "duels_won_aerial": 2, "duels_won_physical": 0, "possession_contests_won": 2, "clearances": 4, "loose_ball_receptions": 4, "pushing_on": 19, "pushing_on_into_pressing": 3, "possession_regains": 8, "possession_interrupted": 3 },
+        "physical_data": { "total_distance_m": 9969.0, "zone_1_m": 4035.7, "zone_2_m": 4365.5, "zone_3_m": 971.9, "zone_4_m": 345.4, "zone_5_m": 250.4, "high_speed_runs": 85.0, "sprints": 33.0, "top_speed_kmh": 34.4 }
+      },
+      {
+        "player": "HWANG Inbeom",
+        "in_possession": {
+          "passes_attempted": 60, "passes_completed": 52, "pass_completion_pct": "87%", "switches_of_play": 0, "crosses_attempted": 0, "crosses_completed": 0, "line_breaks_attempted": 13, "line_breaks_completed": 10, "line_break_completion_pct": "77%", "ball_progressions": 1, "take_ons": 1, "step_ins": 0, "attempts_at_goal": 1, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 35, "offers_in_front": 23, "offers_in_between": 7, "offers_out_to_in": 0, "offers_in_to_out": 1, "offers_in_behind": 1, "offers_no_movement": 3, "offers_received": 22 }
+        },
+        "out_of_possession": { "tackles_made_won": "3/0", "blocks": 2, "interceptions": 1, "pressing_direct": 4, "pressing_indirect": 14, "duels_won_aerial": 1, "duels_won_physical": 0, "possession_contests_won": 2, "clearances": 0, "loose_ball_receptions": 3, "pushing_on": 30, "pushing_on_into_pressing": 9, "possession_regains": 2, "possession_interrupted": 2 },
+        "physical_data": { "total_distance_m": 11491.9, "zone_1_m": 3566.4, "zone_2_m": 6028.7, "zone_3_m": 1395.3, "zone_4_m": 401.4, "zone_5_m": 100.1, "high_speed_runs": 132.0, "sprints": 27.0, "top_speed_kmh": 30.6 }
+      },
+      {
+        "player": "SON Heungmin",
+        "in_possession": {
+          "passes_attempted": 12, "passes_completed": 9, "pass_completion_pct": "75%", "switches_of_play": 0, "crosses_attempted": 0, "crosses_completed": 0, "line_breaks_attempted": 0, "line_breaks_completed": 0, "line_break_completion_pct": "0%", "ball_progressions": 3, "take_ons": 3, "step_ins": 0, "attempts_at_goal": 0, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 36, "offers_in_front": 3, "offers_in_between": 11, "offers_out_to_in": 0, "offers_in_to_out": 0, "offers_in_behind": 20, "offers_no_movement": 2, "offers_received": 7 }
+        },
+        "out_of_possession": { "tackles_made_won": "1/0", "blocks": 0, "interceptions": 0, "pressing_direct": 0, "pressing_indirect": 25, "duels_won_aerial": 0, "duels_won_physical": 0, "possession_contests_won": 0, "clearances": 0, "loose_ball_receptions": 2, "pushing_on": 18, "pushing_on_into_pressing": 14, "possession_regains": 0, "possession_interrupted": 1 },
+        "physical_data": { "total_distance_m": 6444.9, "zone_1_m": 2513.1, "zone_2_m": 2565.9, "zone_3_m": 720.2, "zone_4_m": 366.1, "zone_5_m": 279.5, "high_speed_runs": 64.0, "sprints": 34.0, "top_speed_kmh": 33.7 }
+      },
+      {
+        "player": "PAIK Seungho",
+        "in_possession": {
+          "passes_attempted": 47, "passes_completed": 43, "pass_completion_pct": "91%", "switches_of_play": 0, "crosses_attempted": 0, "crosses_completed": 0, "line_breaks_attempted": 5, "line_breaks_completed": 3, "line_break_completion_pct": "60%", "ball_progressions": 0, "take_ons": 0, "step_ins": 0, "attempts_at_goal": 0, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 62, "offers_in_front": 39, "offers_in_between": 11, "offers_out_to_in": 0, "offers_in_to_out": 0, "offers_in_behind": 2, "offers_no_movement": 10, "offers_received": 25 }
+        },
+        "out_of_possession": { "tackles_made_won": "2/1", "blocks": 0, "interceptions": 0, "pressing_direct": 5, "pressing_indirect": 7, "duels_won_aerial": 2, "duels_won_physical": 0, "possession_contests_won": 3, "clearances": 5, "loose_ball_receptions": 4, "pushing_on": 42, "pushing_on_into_pressing": 5, "possession_regains": 4, "possession_interrupted": 3 },
+        "physical_data": { "total_distance_m": 8930.1, "zone_1_m": 3014.2, "zone_2_m": 4457.0, "zone_3_m": 1101.2, "zone_4_m": 295.5, "zone_5_m": 62.0, "high_speed_runs": 94.0, "sprints": 25.0, "top_speed_kmh": 28.9 }
+      },
+      {
+        "player": "LEE Jaesung",
+        "in_possession": {
+          "passes_attempted": 27, "passes_completed": 21, "pass_completion_pct": "78%", "switches_of_play": 0, "crosses_attempted": 0, "crosses_completed": 0, "line_breaks_attempted": 4, "line_breaks_completed": 3, "line_break_completion_pct": "75%", "ball_progressions": 0, "take_ons": 0, "step_ins": 0, "attempts_at_goal": 0, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 33, "offers_in_front": 5, "offers_in_between": 10, "offers_out_to_in": 2, "offers_in_to_out": 4, "offers_in_behind": 7, "offers_no_movement": 5, "offers_received": 11 }
+        },
+        "out_of_possession": { "tackles_made_won": "5/3", "blocks": 2, "interceptions": 0, "pressing_direct": 5, "pressing_indirect": 26, "duels_won_aerial": 0, "duels_won_physical": 0, "possession_contests_won": 1, "clearances": 0, "loose_ball_receptions": 4, "pushing_on": 17, "pushing_on_into_pressing": 13, "possession_regains": 3, "possession_interrupted": 1 },
+        "physical_data": { "total_distance_m": 6971.5, "zone_1_m": 2375.9, "zone_2_m": 2929.7, "zone_3_m": 1057.1, "zone_4_m": 523.8, "zone_5_m": 85.1, "high_speed_runs": 95.0, "sprints": 41.0, "top_speed_kmh": 29.4 }
+      },
+      {
+        "player": "KIM Moonhwan",
+        "in_possession": {
+          "passes_attempted": 25, "passes_completed": 22, "pass_completion_pct": "88%", "switches_of_play": 0, "crosses_attempted": 0, "crosses_completed": 0, "line_breaks_attempted": 3, "line_breaks_completed": 1, "line_break_completion_pct": "33%", "ball_progressions": 0, "take_ons": 0, "step_ins": 0, "attempts_at_goal": 0, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 27, "offers_in_front": 4, "offers_in_between": 2, "offers_out_to_in": 0, "offers_in_to_out": 2, "offers_in_behind": 14, "offers_no_movement": 5, "offers_received": 7 }
+        },
+        "out_of_possession": { "tackles_made_won": "2/0", "blocks": 11, "interceptions": 1, "pressing_direct": 2, "pressing_indirect": 17, "duels_won_aerial": 0, "duels_won_physical": 0, "possession_contests_won": 0, "clearances": 1, "loose_ball_receptions": 3, "pushing_on": 29, "pushing_on_into_pressing": 14, "possession_regains": 1, "possession_interrupted": 1 },
+        "physical_data": { "total_distance_m": 8571.4, "zone_1_m": 3153.3, "zone_2_m": 3331.7, "zone_3_m": 1273.5, "zone_4_m": 604.8, "zone_5_m": 208.1, "high_speed_runs": 109.0, "sprints": 52.0, "top_speed_kmh": 32.1 }
+      },
+      {
+        "player": "LEE Kangin",
+        "in_possession": {
+          "passes_attempted": 59, "passes_completed": 49, "pass_completion_pct": "83%", "switches_of_play": 3, "crosses_attempted": 3, "crosses_completed": 3, "line_breaks_attempted": 16, "line_breaks_completed": 10, "line_break_completion_pct": "62%", "ball_progressions": 5, "take_ons": 5, "step_ins": 0, "attempts_at_goal": 2, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 48, "offers_in_front": 28, "offers_in_between": 6, "offers_out_to_in": 0, "offers_in_to_out": 4, "offers_in_behind": 2, "offers_no_movement": 8, "offers_received": 29 }
+        },
+        "out_of_possession": { "tackles_made_won": "2/0", "blocks": 11, "interceptions": 0, "pressing_direct": 1, "pressing_indirect": 30, "duels_won_aerial": 1, "duels_won_physical": 0, "possession_contests_won": 2, "clearances": 0, "loose_ball_receptions": 4, "pushing_on": 23, "pushing_on_into_pressing": 15, "possession_regains": 0, "possession_interrupted": 1 },
+        "physical_data": { "total_distance_m": 9414.8, "zone_1_m": 4034.0, "zone_2_m": 4207.2, "zone_3_m": 895.6, "zone_4_m": 257.1, "zone_5_m": 20.9, "high_speed_runs": 82.0, "sprints": 25.0, "top_speed_kmh": 26.4 }
+      },
+      {
+        "player": "SEOL Youngwoo",
+        "in_possession": {
+          "passes_attempted": 38, "passes_completed": 32, "pass_completion_pct": "84%", "switches_of_play": 0, "crosses_attempted": 2, "crosses_completed": 0, "line_breaks_attempted": 11, "line_breaks_completed": 9, "line_break_completion_pct": "82%", "ball_progressions": 0, "take_ons": 0, "step_ins": 0, "attempts_at_goal": 1, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 15, "offers_in_front": 0, "offers_in_between": 0, "offers_out_to_in": 0, "offers_in_to_out": 0, "offers_in_behind": 11, "offers_no_movement": 4, "offers_received": 5 }
+        },
+        "out_of_possession": { "tackles_made_won": "0/0", "blocks": 1, "interceptions": 0, "pressing_direct": 0, "pressing_indirect": 6, "duels_won_aerial": 0, "duels_won_physical": 0, "possession_contests_won": 0, "clearances": 1, "loose_ball_receptions": 6, "pushing_on": 18, "pushing_on_into_pressing": 5, "possession_regains": 1, "possession_interrupted": 1 },
+        "physical_data": { "total_distance_m": 8019.5, "zone_1_m": 3179.8, "zone_2_m": 3169.9, "zone_3_m": 923.8, "zone_4_m": 493.1, "zone_5_m": 252.8, "high_speed_runs": 71.0, "sprints": 43.0, "top_speed_kmh": 33.5 }
+      },
+      {
+        "player": "CHO Guesung",
+        "in_possession": {
+          "passes_attempted": 1, "passes_completed": 0, "pass_completion_pct": "0%", "switches_of_play": 0, "crosses_attempted": 0, "crosses_completed": 0, "line_breaks_attempted": 0, "line_breaks_completed": 0, "line_break_completion_pct": "0%", "ball_progressions": 0, "take_ons": 0, "step_ins": 0, "attempts_at_goal": 2, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 7, "offers_in_front": 0, "offers_in_between": 1, "offers_out_to_in": 0, "offers_in_to_out": 0, "offers_in_behind": 5, "offers_no_movement": 1, "offers_received": 0 }
+        },
+        "out_of_possession": { "tackles_made_won": "0/0", "blocks": 0, "interceptions": 0, "pressing_direct": 1, "pressing_indirect": 8, "duels_won_aerial": 0, "duels_won_physical": 0, "possession_contests_won": 0, "clearances": 0, "loose_ball_receptions": 0, "pushing_on": 10, "pushing_on_into_pressing": 7, "possession_regains": 11, "possession_interrupted": 0 },
+        "physical_data": { "total_distance_m": 2071.3, "zone_1_m": 774.8, "zone_2_m": 951.5, "zone_3_m": 234.0, "zone_4_m": 100.9, "zone_5_m": 10.2, "high_speed_runs": 21.0, "sprints": 9.0, "top_speed_kmh": 26.7 }
+      },
+      {
+        "player": "HWANG Heechan",
+        "in_possession": {
+          "passes_attempted": 20, "passes_completed": 17, "pass_completion_pct": "85%", "switches_of_play": 0, "crosses_attempted": 0, "crosses_completed": 0, "line_breaks_attempted": 5, "line_breaks_completed": 4, "line_break_completion_pct": "80%", "ball_progressions": 2, "take_ons": 1, "step_ins": 1, "attempts_at_goal": 0, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 19, "offers_in_front": 6, "offers_in_between": 5, "offers_out_to_in": 0, "offers_in_to_out": 1, "offers_in_behind": 3, "offers_no_movement": 4, "offers_received": 12 }
+        },
+        "out_of_possession": { "tackles_made_won": "1/0", "blocks": 0, "interceptions": 0, "pressing_direct": 1, "pressing_indirect": 9, "duels_won_aerial": 0, "duels_won_physical": 0, "possession_contests_won": 0, "clearances": 0, "loose_ball_receptions": 1, "pushing_on": 4, "pushing_on_into_pressing": 3, "possession_regains": 11, "possession_interrupted": 0 },
+        "physical_data": { "total_distance_m": 4224.6, "zone_1_m": 1516.9, "zone_2_m": 1764.1, "zone_3_m": 564.0, "zone_4_m": 267.8, "zone_5_m": 111.8, "high_speed_runs": 48.0, "sprints": 21.0, "top_speed_kmh": 30.0 }
+      },
+      {
+        "player": "OH Hyeongyu",
+        "in_possession": {
+          "passes_attempted": 5, "passes_completed": 3, "pass_completion_pct": "60%", "switches_of_play": 0, "crosses_attempted": 0, "crosses_completed": 0, "line_breaks_attempted": 0, "line_breaks_completed": 0, "line_break_completion_pct": "0%", "ball_progressions": 2, "take_ons": 2, "step_ins": 0, "attempts_at_goal": 1, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 14, "offers_in_front": 0, "offers_in_between": 5, "offers_out_to_in": 0, "offers_in_to_out": 0, "offers_in_behind": 9, "offers_no_movement": 0, "offers_received": 3 }
+        },
+        "out_of_possession": { "tackles_made_won": "1/1", "blocks": 11, "interceptions": 0, "pressing_direct": 1, "pressing_indirect": 14, "duels_won_aerial": 1, "duels_won_physical": 0, "possession_contests_won": 1, "clearances": 0, "loose_ball_receptions": 0, "pushing_on": 10, "pushing_on_into_pressing": 6, "possession_regains": 1, "possession_interrupted": 0 },
+        "physical_data": { "total_distance_m": 3960.1, "zone_1_m": 1616.2, "zone_2_m": 1530.8, "zone_3_m": 507.0, "zone_4_m": 227.3, "zone_5_m": 78.8, "high_speed_runs": 45.0, "sprints": 19.0, "top_speed_kmh": 29.6 }
+      },
+      {
+        "player": "YANG Hyunjun",
+        "in_possession": {
+          "passes_attempted": 13, "passes_completed": 9, "pass_completion_pct": "69%", "switches_of_play": 0, "crosses_attempted": 0, "crosses_completed": 0, "line_breaks_attempted": 1, "line_breaks_completed": 0, "line_break_completion_pct": "0%", "ball_progressions": 0, "take_ons": 0, "step_ins": 0, "attempts_at_goal": 1, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 9, "offers_in_front": 3, "offers_in_between": 0, "offers_out_to_in": 0, "offers_in_to_out": 0, "offers_in_behind": 1, "offers_no_movement": 5, "offers_received": 3 }
+        },
+        "out_of_possession": { "tackles_made_won": "3/0", "blocks": 0, "interceptions": 0, "pressing_direct": 1, "pressing_indirect": 9, "duels_won_aerial": 0, "duels_won_physical": 0, "possession_contests_won": 0, "clearances": 1, "loose_ball_receptions": 4, "pushing_on": 10, "pushing_on_into_pressing": 7, "possession_regains": 0, "possession_interrupted": 3 },
+        "physical_data": { "total_distance_m": 2936.4, "zone_1_m": 882.2, "zone_2_m": 1329.5, "zone_3_m": 454.1, "zone_4_m": 212.3, "zone_5_m": 58.3, "high_speed_runs": 37.0, "sprints": 21.0, "top_speed_kmh": 32.9 }
+      },
+      {
+        "player": "EOM Jisung",
+        "in_possession": {
+          "passes_attempted": 6, "passes_completed": 6, "pass_completion_pct": "100%", "switches_of_play": 0, "crosses_attempted": 2, "crosses_completed": 1, "line_breaks_attempted": 3, "line_breaks_completed": 2, "line_break_completion_pct": "67%", "ball_progressions": 1, "take_ons": 1, "step_ins": 0, "attempts_at_goal": 0, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 5, "offers_in_front": 2, "offers_in_between": 0, "offers_out_to_in": 0, "offers_in_to_out": 1, "offers_in_behind": 1, "offers_no_movement": 1, "offers_received": 3 }
+        },
+        "out_of_possession": { "tackles_made_won": "0/0", "blocks": 0, "interceptions": 0, "pressing_direct": 0, "pressing_indirect": 0, "duels_won_aerial": 1, "duels_won_physical": 0, "possession_contests_won": 1, "clearances": 0, "loose_ball_receptions": 1, "pushing_on": 0, "pushing_on_into_pressing": 0, "possession_regains": 0, "possession_interrupted": 0 },
+        "physical_data": { "total_distance_m": 3054.6, "zone_1_m": 1037.6, "zone_2_m": 1060.2, "zone_3_m": 529.1, "zone_4_m": 322.5, "zone_5_m": 105.2, "high_speed_runs": 32.0, "sprints": 23.0, "top_speed_kmh": 30.9 }
+      }
+    ]
+  }
+}

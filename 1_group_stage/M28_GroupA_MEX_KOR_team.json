@@ -1,0 +1,177 @@
+{
+  "match_info": {
+    "date": "18 June 2026",
+    "stadium": "Guadalajara Stadium",
+    "match": "Group A - Match 28",
+    "teams": {
+      "home": "Mexico",
+      "away": "Korea Republic"
+    }
+  },
+  "team_statistics": {
+    "phases_of_play": {
+      "in_possession_pct": {
+        "Mexico": "39%",
+        "Korea_Republic": "48%"
+      },
+      "in_possession_details": {
+        "build_up_unopposed": { "Mexico": "39%", "Korea_Republic": "39%" },
+        "build_up_opposed": { "Mexico": "16%", "Korea_Republic": "15%" },
+        "progression": { "Mexico": "17%", "Korea_Republic": "13%" },
+        "final_third": { "Mexico": "6%", "Korea_Republic": "9%" },
+        "long_ball": { "Mexico": "6%", "Korea_Republic": "5%" },
+        "attacking_transition": { "Mexico": "14%", "Korea_Republic": "9%" },
+        "counter_attack": { "Mexico": "1%", "Korea_Republic": "0%" },
+        "set_piece": { "Mexico": "5%", "Korea_Republic": "5%" }
+      },
+      "out_of_possession_pct": {
+        "Mexico": "30%",
+        "Korea_Republic": "29%"
+      },
+      "out_of_possession_details": {
+        "high_press": { "Mexico": "4%", "Korea_Republic": "11%" },
+        "mid_press": { "Mexico": "5%", "Korea_Republic": "5%" },
+        "low_press": { "Mexico": "0%", "Korea_Republic": "0%" },
+        "high_block": { "Mexico": "4%", "Korea_Republic": "6%" },
+        "mid_block": { "Mexico": "30%", "Korea_Republic": "29%" },
+        "low_block": { "Mexico": "22%", "Korea_Republic": "8%" },
+        "recovery": { "Mexico": "4%", "Korea_Republic": "2%" },
+        "defensive_transition": { "Mexico": "9%", "Korea_Republic": "14%" },
+        "counter_press": { "Mexico": "6%", "Korea_Republic": "9%" }
+      }
+    },
+    "line_breaks": {
+      "Mexico": {
+        "total_attempted": 123,
+        "total_completed": 76, 
+        "by_units": {
+          "4_units": { "attempted": 5, "completed": 2 },
+          "3_units": { "attempted": 93, "completed": 59 },
+          "2_units": { "attempted": 25, "completed": 15 }
+        },
+        "by_shape": {
+          "inside_shape": { "attempted": 84, "completed": 55 },
+          "outside_shape": { "attempted": 39, "completed": 21 }
+        },
+        "by_direction": {
+          "through": { "attempted": 34, "completed": 27 },
+          "around": { "attempted": 29, "completed": 23 },
+          "over": { "attempted": 60, "completed": 26 }
+        }
+      },
+      "Korea_Republic": {
+        "total_attempted": 124,
+        "total_completed": 75,
+        "by_units": {
+          "4_units": { "attempted": 5, "completed": 2 },
+          "3_units": { "attempted": 78, "completed": 42 },
+          "2_units": { "attempted": 41, "completed": 31 }
+        },
+        "by_shape": {
+          "inside_shape": { "attempted": 78, "completed": 48 },
+          "outside_shape": { "attempted": 46, "completed": 27 }
+        },
+        "by_direction": {
+          "through": { "attempted": 18, "completed": 13 },
+          "around": { "attempted": 38, "completed": 37 },
+          "over": { "attempted": 68, "completed": 25 }
+        }
+      }
+    },
+    "offering_to_receive": {
+      "Mexico": {
+        "total_offers_made": 456,
+        "total_offers_received": 140,
+        "by_third": {
+          "defensive_third": 87,
+          "middle_third": 241,
+          "final_third": 128
+        },
+        "by_shape": {
+          "inside_shape": 214,
+          "outside_shape": 242
+        }
+      },
+      "Korea_Republic": {
+        "total_offers_made": 381,
+        "total_offers_received": 161,
+        "by_third": {
+          "defensive_third": 72,
+          "middle_third": 210,
+          "final_third": 198
+        },
+        "by_shape": {
+          "inside_shape": 171,
+          "outside_shape": 210
+        }
+      }
+    },
+    "movement_to_receive": {
+      "Mexico": {
+        "total_movements": 330,
+        "by_type": {
+          "in_front": 82,
+          "in_between": 115,
+          "out_to_in": 12,
+          "in_to_out": 15,
+          "in_behind": 106
+        },
+        "by_phase": {
+          "build_up_phase": { "total": 202, "in_front": 65, "in_between": 58, "out_to_in": 8, "in_to_out": 11, "in_behind": 60 },
+          "progression_phase": { "total": 106, "in_front": 18, "in_between": 45, "out_to_in": 4, "in_to_out": 4, "in_behind": 35 },
+          "final_third_phase": { "total": 41, "in_front": 7, "in_between": 16, "out_to_in": 1, "in_to_out": 0, "in_behind": 17 }
+        },
+        "by_pitch_third": {
+          "defensive_third": { "in_front": 22, "in_between": 10, "out_to_in": 0, "in_to_out": 1, "in_behind": 0 },
+          "middle_third": { "in_front": 55, "in_between": 79, "out_to_in": 11, "in_to_out": 13, "in_behind": 23 },
+          "final_third": { "in_front": 5, "in_between": 26, "out_to_in": 1, "in_to_out": 1, "in_behind": 83 }
+        }
+      },
+      "Korea_Republic": {
+        "total_movements": 278,
+        "by_type": {
+          "in_front": 126,
+          "in_between": 58,
+          "out_to_in": 2,
+          "in_to_out": 13,
+          "in_behind": 79
+        },
+        "by_phase": {
+          "build_up_phase": { "total": 205, "in_front": 111, "in_between": 30, "out_to_in": 0, "in_to_out": 9, "in_behind": 54 },
+          "progression_phase": { "total": 64, "in_front": 12, "in_between": 21, "out_to_in": 0, "in_to_out": 3, "in_behind": 28 },
+          "final_third_phase": { "total": 40, "in_front": 13, "in_between": 10, "out_to_in": 2, "in_to_out": 1, "in_behind": 17 }
+        },
+        "by_pitch_third": {
+          "defensive_third": { "in_front": 28, "in_between": 5, "out_to_in": 0, "in_to_out": 1, "in_behind": 0 },
+          "middle_third": { "in_front": 86, "in_between": 34, "out_to_in": 0, "in_to_out": 9, "in_behind": 19 },
+          "final_third": { "in_front": 12, "in_between": 19, "out_to_in": 2, "in_to_out": 3, "in_behind": 60 }
+        }
+      }
+    },
+    "defensive_actions": {
+      "forced_turnovers": { "Mexico": 46, "Korea_Republic": 48 },
+      "possession_regained": { "Mexico": 38, "Korea_Republic": 44 },
+      "interceptions": { "Mexico": 7, "Korea_Republic": 8 },
+      "tackles": { "Mexico": 20, "Korea_Republic": 28 },
+      "possession_actions_per_defensive_action": { "Mexico": 4.42, "Korea_Republic": 6.66 }
+    },
+    "defensive_contests_and_duels": {
+      "clearances": { "Mexico": 12, "Korea_Republic": 9 },
+      "blocks": { "Mexico": 3, "Korea_Republic": 1 },
+      "possession_contests": { "Mexico": 20, "Korea_Republic": 44 },
+      "physical_duels": { "Mexico": 2, "Korea_Republic": 2 },
+      "aerial_duels": { "Mexico": 9, "Korea_Republic": 9 },
+      "total_duels": { "Mexico": 41, "Korea_Republic": 33 }
+    },
+    "defensive_pressure": {
+      "total_pressures": { "Mexico": 265, "Korea_Republic": 217 },
+      "direct_pressures": { "Mexico": 39, "Korea_Republic": 37 },
+      "avg_pressure_duration": { "Mexico": "1.66s", "Korea_Republic": "1.46s" },
+      "ball_recovery_time": { "Mexico": "14.39s", "Korea_Republic": "17.59s" },
+      "pushing_on_into_pressing": { "Mexico": 137, "Korea_Republic": 115 },
+      "pushing_on": { "Mexico": 358, "Korea_Republic": 270 },
+      "pressing_direction_inside": { "Mexico": 37, "Korea_Republic": 33 },
+      "pressing_direction_outside": { "Mexico": 157, "Korea_Republic": 108 }
+    }
+  }
+}

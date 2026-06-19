@@ -1,0 +1,178 @@
+{
+  "match_info": {
+    "match_id_or_code": "M25",
+    "date": "18 June 2026",
+    "stadium": "Atlanta Stadium",
+    "match": "Group A - Match 25",
+    "teams": {
+      "home": "Czechia",
+      "away": "South Africa"
+    }
+  },
+  "team_statistics": {
+    "phases_of_play": {
+      "in_possession_pct": {
+        "Czechia": "41%",
+        "South_Africa": "47%"
+      },
+      "in_possession_details": {
+        "build_up_unopposed": { "Czechia": "41%", "South_Africa": "39%" },
+        "build_up_opposed": { "Czechia": "15%", "South_Africa": "15%" },
+        "progression": { "Czechia": "14%", "South_Africa": "13%" },
+        "final_third": { "Czechia": "11%", "South_Africa": "9%" },
+        "long_ball": { "Czechia": "4%", "South_Africa": "5%" },
+        "attacking_transition": { "Czechia": "11%", "South_Africa": "14%" },
+        "counter_attack": { "Czechia": "0%", "South_Africa": "0%" },
+        "set_piece": { "Czechia": "4%", "South_Africa": "5%" }
+      },
+      "out_of_possession_pct": {
+        "Czechia": "39%",
+        "South_Africa": "33%"
+      },
+      "out_of_possession_details": {
+        "high_press": { "Czechia": "8%", "South_Africa": "11%" },
+        "mid_press": { "Czechia": "11%", "South_Africa": "5%" },
+        "low_press": { "Czechia": "1%", "South_Africa": "0%" },
+        "high_block": { "Czechia": "5%", "South_Africa": "6%" },
+        "mid_block": { "Czechia": "26%", "South_Africa": "29%" },
+        "low_block": { "Czechia": "22%", "South_Africa": "8%" },
+        "recovery": { "Czechia": "6%", "South_Africa": "2%" },
+        "defensive_transition": { "Czechia": "9%", "South_Africa": "14%" },
+        "counter_press": { "Czechia": "12%", "South_Africa": "9%" }
+      }
+    },
+    "line_breaks": {
+      "Czechia": {
+        "total_attempted": 133,
+        "total_completed": 102,
+        "by_units": {
+          "4_units": { "attempted": 3, "completed": 1 },
+          "3_units": { "attempted": 96, "completed": 71 },
+          "2_units": { "attempted": 34, "completed": 30 }
+        },
+        "by_shape": {
+          "inside_shape": { "attempted": 85, "completed": 71 },
+          "outside_shape": { "attempted": 48, "completed": 31 }
+        },
+        "by_direction": {
+          "through": { "attempted": 42, "completed": 31 },
+          "around": { "attempted": 52, "completed": 41 },
+          "over": { "attempted": 39, "completed": 30 }
+        }
+      },
+      "South_Africa": {
+        "total_attempted": 124,
+        "total_completed": 75,
+        "by_units": {
+          "4_units": { "attempted": 5, "completed": 2 },
+          "3_units": { "attempted": 78, "completed": 42 },
+          "2_units": { "attempted": 41, "completed": 31 }
+        },
+        "by_shape": {
+          "inside_shape": { "attempted": 78, "completed": 48 },
+          "outside_shape": { "attempted": 46, "completed": 27 }
+        },
+        "by_direction": {
+          "through": { "attempted": 18, "completed": 13 },
+          "around": { "attempted": 38, "completed": 37 },
+          "over": { "attempted": 68, "completed": 25 }
+        }
+      }
+    },
+    "offering_to_receive": {
+      "Czechia": {
+        "total_offers_made": 424,
+        "total_offers_received": 166,
+        "by_third": {
+          "defensive_third": 78,
+          "middle_third": 212,
+          "final_third": 134
+        },
+        "by_shape": {
+          "inside_shape": 211,
+          "outside_shape": 213
+        }
+      },
+      "South_Africa": {
+        "total_offers_made": 381,
+        "total_offers_received": 161,
+        "by_third": {
+          "defensive_third": 72,
+          "middle_third": 210,
+          "final_third": 198
+        },
+        "by_shape": {
+          "inside_shape": 171,
+          "outside_shape": 210
+        }
+      }
+    },
+    "movement_to_receive": {
+      "Czechia": {
+        "total_movements": 330,
+        "by_type": {
+          "in_front": 97,
+          "in_between": 86,
+          "out_to_in": 17,
+          "in_to_out": 18,
+          "in_behind": 91
+        },
+        "by_phase": {
+          "build_up_phase": { "total": 176, "in_front": 74, "in_between": 41, "out_to_in": 12, "in_to_out": 13, "in_behind": 36 },
+          "progression_phase": { "total": 96, "in_front": 22, "in_between": 27, "out_to_in": 4, "in_to_out": 4, "in_behind": 39 },
+          "final_third_phase": { "total": 65, "in_front": 7, "in_between": 16, "out_to_in": 1, "in_to_out": 1, "in_behind": 38 }
+        },
+        "by_pitch_third": {
+          "defensive_third": { "in_front": 28, "in_between": 11, "out_to_in": 2, "in_to_out": 1, "in_behind": 0 },
+          "middle_third": { "in_front": 62, "in_between": 49, "out_to_in": 10, "in_to_out": 13, "in_behind": 15 },
+          "final_third": { "in_front": 7, "in_between": 26, "out_to_in": 5, "in_to_out": 4, "in_behind": 76 }
+        }
+      },
+      "South_Africa": {
+        "total_movements": 278,
+        "by_type": {
+          "in_front": 126,
+          "in_between": 58,
+          "out_to_in": 2,
+          "in_to_out": 13,
+          "in_behind": 79
+        },
+        "by_phase": {
+          "build_up_phase": { "total": 205, "in_front": 111, "in_between": 30, "out_to_in": 0, "in_to_out": 9, "in_behind": 54 },
+          "progression_phase": { "total": 64, "in_front": 12, "in_between": 21, "out_to_in": 0, "in_to_out": 3, "in_behind": 28 },
+          "final_third_phase": { "total": 40, "in_front": 13, "in_between": 10, "out_to_in": 2, "in_to_out": 1, "in_behind": 17 }
+        },
+        "by_pitch_third": {
+          "defensive_third": { "in_front": 28, "in_between": 5, "out_to_in": 0, "in_to_out": 1, "in_behind": 0 },
+          "middle_third": { "in_front": 86, "in_between": 34, "out_to_in": 0, "in_to_out": 9, "in_behind": 19 },
+          "final_third": { "in_front": 12, "in_between": 19, "out_to_in": 2, "in_to_out": 3, "in_behind": 60 }
+        }
+      }
+    },
+    "defensive_actions": {
+      "forced_turnovers": { "Czechia": 31, "South_Africa": 32 },
+      "possession_regained": { "Czechia": 37, "South_Africa": 41 },
+      "interceptions": { "Czechia": 6, "South_Africa": 15 },
+      "tackles": { "Czechia": 16, "South_Africa": 29 },
+      "possession_actions_per_defensive_action": { "Czechia": 10.36, "South_Africa": 3.66 }
+    },
+    "defensive_contests_and_duels": {
+      "clearances": { "Czechia": 25, "South_Africa": 15 },
+      "blocks": { "Czechia": 13, "South_Africa": 11 },
+      "possession_contests": { "Czechia": 10, "South_Africa": 2 },
+      "physical_duels": { "Czechia": 7, "South_Africa": 7 },
+      "aerial_duels": { "Czechia": 33, "South_Africa": 35 },
+      "total_duels": { "Czechia": 40, "South_Africa": 42 }
+    },
+    "defensive_pressure": {
+      "total_pressures": { "Czechia": 170, "South_Africa": 306 },
+      "direct_pressures": { "Czechia": 26, "South_Africa": 45 },
+      "avg_pressure_duration": { "Czechia": "1.57s", "South_Africa": "1.43s" },
+      "ball_recovery_time": { "Czechia": "14.38s", "South_Africa": "22.45s" },
+      "pushing_on_into_pressing": { "Czechia": 79, "South_Africa": 141 },
+      "pushing_on": { "Czechia": 200, "South_Africa": 329 },
+      "pressing_direction_inside": { "Czechia": 29, "South_Africa": 54 },
+      "pressing_direction_outside": { "Czechia": 96, "South_Africa": 168 }
+    }
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "match_info": {
+    "match_id_or_code": "M30",
+    "date": "19 June 2026",
+    "stadium": "Boston Stadium",
+    "match": "Group C - Match 30",
+    "teams": {
+      "home": "Scotland",
+      "away": "Morocco"
+    }
+  },
+  "team_statistics": {
+    "phases_of_play": {
+      "in_possession_pct": {
+        "Scotland": "39.1%",
+        "Morocco": "54.8%"
+      },
+      "in_possession_details": {
+        "build_up_unopposed": { "Scotland": "43%", "Morocco": "48%" },
+        "build_up_opposed": { "Scotland": "17%", "Morocco": "17%" },
+        "progression": { "Scotland": "15%", "Morocco": "15%" },
+        "final_third": { "Scotland": "10%", "Morocco": "10%" },
+        "long_ball": { "Scotland": "4%", "Morocco": "4%" },
+        "attacking_transition": { "Scotland": "11%", "Morocco": "9%" },
+        "counter_attack": { "Scotland": "1%", "Morocco": "2%" },
+        "set_piece": { "Scotland": "3%", "Morocco": "4%" }
+      },
+      "out_of_possession_pct": {
+        "Scotland": "54.8%",
+        "Morocco": "39.1%"
+      },
+      "out_of_possession_details": {
+        "high_press": { "Scotland": "6%", "Morocco": "7%" },
+        "mid_press": { "Scotland": "4%", "Morocco": "4%" },
+        "low_press": { "Scotland": "1%", "Morocco": "1%" },
+        "high_block": { "Scotland": "5%", "Morocco": "7%" },
+        "mid_block": { "Scotland": "36%", "Morocco": "28%" },
+        "low_block": { "Scotland": "15%", "Morocco": "12%" },
+        "recovery": { "Scotland": "4%", "Morocco": "4%" },
+        "defensive_transition": { "Scotland": "9%", "Morocco": "11%" },
+        "counter_press": { "Scotland": "8%", "Morocco": "9%" }
+      }
+    },
+    "line_breaks": {
+      "Scotland": {
+        "total_attempted": 116,
+        "total_completed": 76,
+        "by_units": {
+          "4_units": { "attempted": 7, "completed": 2 },
+          "3_units": { "attempted": 76, "completed": 51 },
+          "2_units": { "attempted": 33, "completed": 24 }
+        },
+        "by_shape": {
+          "inside_shape": { "attempted": 5, "completed": 45 },
+          "outside_shape": { "attempted": 2, "completed": 31 }
+        },
+        "by_direction": {
+          "through": { "attempted": 27, "completed": 22 },
+          "around": { "attempted": 45, "completed": 42 },
+          "over": { "attempted": 44, "completed": 23 }
+        }
+      },
+      "Morocco": {
+        "total_attempted": 128,
+        "total_completed": 75,
+        "by_units": {
+          "4_units": { "attempted": 3, "completed": 1 },
+          "3_units": { "attempted": 75, "completed": 45 },
+          "2_units": { "attempted": 50, "completed": 28 }
+        },
+        "by_shape": {
+          "inside_shape": { "attempted": 1, "completed": 45 },
+          "outside_shape": { "attempted": 2, "completed": 30 }
+        },
+        "by_direction": {
+          "through": { "attempted": 43, "completed": 36 },
+          "around": { "attempted": 47, "completed": 38 },
+          "over": { "attempted": 38, "completed": 9 }
+        }
+      }
+    },
+    "offering_to_receive": {
+      "Scotland": {
+        "total_offers_made": 354,
+        "total_offers_received": 133,
+        "by_third": { "defensive_third": 164, "middle_third": 176, "final_third": 91 },
+        "by_shape": { "inside_shape": 91, "outside_shape": 190 }
+      },
+      "Morocco": {
+        "total_offers_made": 460,
+        "total_offers_received": 209,
+        "by_third": { "defensive_third": 200, "middle_third": 243, "final_third": 138 },
+        "by_shape": { "inside_shape": 260, "outside_shape": 243 }
+      }
+    },
+    "defensive_actions": {
+      "forced_turnovers": { "Scotland": 39, "Morocco": 40 },
+      "possession_regained": { "Scotland": 46, "Morocco": 45 },
+      "interceptions": { "Scotland": 11, "Morocco": 27 },
+      "tackles": { "Scotland": 31, "Morocco": 8.09 }
+    },
+    "defensive_pressure": {
+      "total_pressures": { "Scotland": 304, "Morocco": 260 },
+      "direct_pressures": { "Scotland": 36, "Morocco": 56 },
+      "ball_recovery_time": { "Scotland": "25.46s", "Morocco": "17.19s" }
+    }
+  }
+}

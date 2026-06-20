@@ -1,0 +1,120 @@
+{
+  "match_info": {
+    "match_id_or_code": "M32",
+    "teams": { "home": "USA", "away": "Australia" }
+  },
+  "individual_player_data": {
+    "USA": [
+      {
+        "player": "Sergino DEST",
+        "in_possession": { "passes_attempted": 24, "passes_completed": 22, "pass_completion_pct": "92%", "line_breaks_completed": 5, "attempts_at_goal": 3, "offers_and_receptions": { "total_offers_made": 59, "offers_received": 15 } },
+        "out_of_possession": { "tackles_made_won": "1/0", "blocks": 2, "interceptions": 0, "possession_regains": 3 },
+        "physical_data": { "total_distance_m": 9205.5, "high_speed_runs": 110.0, "sprints": 58.0, "top_speed_kmh": 32.5 }
+      },
+      {
+        "player": "Chris RICHARDS",
+        "in_possession": { "passes_attempted": 93, "passes_completed": 90, "pass_completion_pct": "97%", "line_breaks_completed": 7, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 7, "offers_received": 2 } },
+        "out_of_possession": { "tackles_made_won": "2/2", "blocks": 3, "interceptions": 0, "possession_regains": 10 },
+        "physical_data": { "total_distance_m": 10339.4, "high_speed_runs": 111.0, "sprints": 26.0, "top_speed_kmh": 30.6 }
+      },
+      {
+        "player": "Tyler ADAMS",
+        "in_possession": { "passes_attempted": 66, "passes_completed": 59, "pass_completion_pct": "89%", "line_breaks_completed": 12, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 54, "offers_received": 27 } },
+        "out_of_possession": { "tackles_made_won": "6/0", "blocks": 3, "interceptions": 1, "possession_regains": 7 },
+        "physical_data": { "total_distance_m": 10560.8, "high_speed_runs": 136.0, "sprints": 41.0, "top_speed_kmh": 31.4 }
+      },
+      {
+        "player": "Antonee ROBINSON",
+        "in_possession": { "passes_attempted": 51, "passes_completed": 46, "pass_completion_pct": "90%", "line_breaks_completed": 14, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 26, "offers_received": 16 } },
+        "out_of_possession": { "tackles_made_won": "6/1", "blocks": 1, "interceptions": 1, "possession_regains": 3 },
+        "physical_data": { "total_distance_m": 9192.3, "high_speed_runs": 102.0, "sprints": 37.0, "top_speed_kmh": 32.9 }
+      },
+      {
+        "player": "Weston McKENNIE",
+        "in_possession": { "passes_attempted": 38, "passes_completed": 31, "pass_completion_pct": "82%", "line_breaks_completed": 6, "attempts_at_goal": 2, "offers_and_receptions": { "total_offers_made": 59, "offers_received": 20 } },
+        "out_of_possession": { "tackles_made_won": "4/1", "blocks": 1, "interceptions": 0, "possession_regains": 2 },
+        "physical_data": { "total_distance_m": 10736.8, "high_speed_runs": 127.0, "sprints": 44.0, "top_speed_kmh": 32.4 }
+      },
+      {
+        "player": "Ricardo PEPI",
+        "in_possession": { "passes_attempted": 13, "passes_completed": 11, "pass_completion_pct": "85%", "line_breaks_completed": 2, "attempts_at_goal": 2, "offers_and_receptions": { "total_offers_made": 31, "offers_received": 4 } },
+        "out_of_possession": { "tackles_made_won": "1/0", "blocks": 0, "interceptions": 0, "possession_regains": 0 },
+        "physical_data": { "total_distance_m": 8450.8, "high_speed_runs": 99.0, "sprints": 43.0, "top_speed_kmh": 33.2 }
+      },
+      {
+        "player": "Alex FREEMAN",
+        "in_possession": { "passes_attempted": 69, "passes_completed": 64, "pass_completion_pct": "93%", "line_breaks_completed": 17, "attempts_at_goal": 1, "goals": 1, "offers_and_receptions": { "total_offers_made": 25, "offers_received": 10 } },
+        "out_of_possession": { "tackles_made_won": "6/2", "blocks": 4, "interceptions": 0, "possession_regains": 6 },
+        "physical_data": { "total_distance_m": 11063.4, "high_speed_runs": 126.0, "sprints": 43.0, "top_speed_kmh": 33.5 }
+      },
+      {
+        "player": "Malik TILLMAN",
+        "in_possession": { "passes_attempted": 49, "passes_completed": 40, "pass_completion_pct": "82%", "line_breaks_completed": 13, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 29, "offers_received": 8 } },
+        "out_of_possession": { "tackles_made_won": "6/1", "blocks": 3, "interceptions": 2, "possession_regains": 5 },
+        "physical_data": { "total_distance_m": 10637.9, "high_speed_runs": 140.0, "sprints": 51.0, "top_speed_kmh": 32.1 }
+      }
+    ],
+    "Australia": [
+      {
+        "player": "Alessandro CIRCATI",
+        "in_possession": { "passes_attempted": 31, "passes_completed": 25, "pass_completion_pct": "81%", "line_breaks_completed": 6, "attempts_at_goal": 1, "offers_and_receptions": { "total_offers_made": 4, "offers_received": 1 } },
+        "out_of_possession": { "tackles_made_won": "2/1", "blocks": 6, "interceptions": 2, "possession_regains": 8 },
+        "physical_data": { "total_distance_m": 10209.1, "high_speed_runs": 96.0, "sprints": 43.0, "top_speed_kmh": 33.4 }
+      },
+      {
+        "player": "Jacob ITALIANO",
+        "in_possession": { "passes_attempted": 26, "passes_completed": 19, "pass_completion_pct": "73%", "line_breaks_completed": 5, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 29, "offers_received": 8 } },
+        "out_of_possession": { "tackles_made_won": "6/1", "blocks": 2, "interceptions": 1, "possession_regains": 2 },
+        "physical_data": { "total_distance_m": 11841.8, "high_speed_runs": 171.0, "sprints": 76.0, "top_speed_kmh": 32.5 }
+      },
+      {
+        "player": "Jordan BOS",
+        "in_possession": { "passes_attempted": 29, "passes_completed": 25, "pass_completion_pct": "86%", "line_breaks_completed": 3, "attempts_at_goal": 2, "offers_and_receptions": { "total_offers_made": 21, "offers_received": 7 } },
+        "out_of_possession": { "tackles_made_won": "4/0", "blocks": 1, "interceptions": 1, "possession_regains": 3 },
+        "physical_data": { "total_distance_m": 10655.4, "high_speed_runs": 109.0, "sprints": 69.0, "top_speed_kmh": 33.4 }
+      },
+      {
+        "player": "Mathew LECKIE",
+        "in_possession": { "passes_attempted": 10, "passes_completed": 7, "pass_completion_pct": "70%", "line_breaks_completed": 2, "attempts_at_goal": 1, "offers_and_receptions": { "total_offers_made": 7, "offers_received": 2 } },
+        "out_of_possession": { "tackles_made_won": "1/0", "blocks": 2, "interceptions": 0, "possession_regains": 1 },
+        "physical_data": { "total_distance_m": 7358.5, "high_speed_runs": 100.0, "sprints": 31.0, "top_speed_kmh": 32.4 }
+      },
+      {
+        "player": "Aiden ONEILL",
+        "in_possession": { "passes_attempted": 36, "passes_completed": 27, "pass_completion_pct": "75%", "line_breaks_completed": 11, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 22, "offers_received": 10 } },
+        "out_of_possession": { "tackles_made_won": "4/1", "blocks": 2, "interceptions": 2, "possession_regains": 5 },
+        "physical_data": { "total_distance_m": 11534.2, "high_speed_runs": 171.0, "sprints": 50.0, "top_speed_kmh": 29.3 }
+      },
+      {
+        "player": "Harry SOUTTAR",
+        "in_possession": { "passes_attempted": 27, "passes_completed": 20, "pass_completion_pct": "74%", "line_breaks_completed": 8, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 7, "offers_received": 2 } },
+        "out_of_possession": { "tackles_made_won": "0/0", "blocks": 4, "interceptions": 0, "possession_regains": 5 },
+        "physical_data": { "total_distance_m": 9697.6, "high_speed_runs": 96.0, "sprints": 24.0, "top_speed_kmh": 30.7 }
+      },
+      {
+        "player": "Paul OKON-ENGSTLER",
+        "in_possession": { "passes_attempted": 35, "passes_completed": 33, "pass_completion_pct": "94%", "line_breaks_completed": 9, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 14, "offers_received": 2 } },
+        "out_of_possession": { "tackles_made_won": "5/1", "blocks": 1, "interceptions": 1, "possession_regains": 5 },
+        "physical_data": { "total_distance_m": 9802.2, "high_speed_runs": 155.0, "sprints": 43.0, "top_speed_kmh": 32.5 }
+      },
+      {
+        "player": "Jason GERIA",
+        "in_possession": { "passes_attempted": 19, "passes_completed": 15, "pass_completion_pct": "79%", "line_breaks_completed": 8, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 1, "offers_received": 1 } },
+        "out_of_possession": { "tackles_made_won": "3/2", "blocks": 2, "interceptions": 0, "possession_regains": 4 },
+        "physical_data": { "total_distance_m": 5328.9, "high_speed_runs": 62.0, "sprints": 19.0, "top_speed_kmh": 31.6 }
+      },
+      {
+        "player": "Connor METCALFE",
+        "in_possession": { "passes_attempted": 16, "passes_completed": 13, "pass_completion_pct": "81%", "line_breaks_completed": 2, "attempts_at_goal": 1, "offers_and_receptions": { "total_offers_made": 16, "offers_received": 8 } },
+        "out_of_possession": { "tackles_made_won": "1/1", "blocks": 2, "interceptions": 2, "possession_regains": 5 },
+        "physical_data": { "total_distance_m": 5621.9, "high_speed_runs": 78.0, "sprints": 29.0, "top_speed_kmh": 32.3 }
+      },
+      {
+        "player": "Cristian VOLPATO",
+        "in_possession": { "passes_attempted": 17, "passes_completed": 15, "pass_completion_pct": "88%", "line_breaks_completed": 4, "attempts_at_goal": 1, "offers_and_receptions": { "total_offers_made": 7, "offers_received": 5 } },
+        "out_of_possession": { "tackles_made_won": "1/0", "blocks": 1, "interceptions": 0, "possession_regains": 1 },
+        "physical_data": { "total_distance_m": 4151.0, "high_speed_runs": 60.0, "sprints": 24.0, "top_speed_kmh": 28.4 }
+      }
+    ]
+  }
+}

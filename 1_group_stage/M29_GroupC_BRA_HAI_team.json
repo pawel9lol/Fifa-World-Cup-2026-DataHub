@@ -1,0 +1,108 @@
+{
+  "match_info": {
+    "match_id_or_code": "M29",
+    "date": "19 June 2026",
+    "stadium": "Philadelphia Stadium",
+    "match": "Group C - Match 29",
+    "teams": {
+      "home": "Brazil",
+      "away": "Haiti"
+    }
+  },
+  "team_statistics": {
+    "phases_of_play": {
+      "in_possession_pct": {
+        "Brazil": "49%",
+        "Haiti": "43.2%"
+      },
+      "in_possession_details": {
+        "build_up_unopposed": { "Brazil": "39%", "Haiti": "32%" },
+        "build_up_opposed": { "Brazil": "14%", "Haiti": "12%" },
+        "progression": { "Brazil": "21%", "Haiti": "17%" },
+        "final_third": { "Brazil": "11%", "Haiti": "14%" },
+        "long_ball": { "Brazil": "3%", "Haiti": "5%" },
+        "attacking_transition": { "Brazil": "12%", "Haiti": "10%" },
+        "counter_attack": { "Brazil": "2%", "Haiti": "2%" },
+        "set_piece": { "Brazil": "5%", "Haiti": "7%" }
+      },
+      "out_of_possession_pct": {
+        "Brazil": "43.2%",
+        "Haiti": "49%"
+      },
+      "out_of_possession_details": {
+        "high_press": { "Brazil": "3%", "Haiti": "6%" },
+        "mid_press": { "Brazil": "3%", "Haiti": "6%" },
+        "low_press": { "Brazil": "1%", "Haiti": "1%" },
+        "high_block": { "Brazil": "6%", "Haiti": "7%" },
+        "mid_block": { "Brazil": "22%", "Haiti": "32%" },
+        "low_block": { "Brazil": "29%", "Haiti": "15%" },
+        "recovery": { "Brazil": "6%", "Haiti": "4%" },
+        "defensive_transition": { "Brazil": "10%", "Haiti": "12%" },
+        "counter_press": { "Brazil": "7%", "Haiti": "8%" }
+      }
+    },
+    "line_breaks": {
+      "Brazil": {
+        "total_attempted": 134,
+        "total_completed": 105,
+        "by_units": {
+          "4_units": { "attempted": 6, "completed": 4 },
+          "3_units": { "attempted": 95, "completed": 84 },
+          "2_units": { "attempted": 33, "completed": 17 }
+        },
+        "by_shape": {
+          "inside_shape": { "attempted": 52, "completed": 28 },
+          "outside_shape": { "attempted": 43, "completed": 25 }
+        },
+        "by_direction": {
+          "through": { "attempted": 16, "completed": 9 },
+          "around": { "attempted": 36, "completed": 26 },
+          "over": { "attempted": 43, "completed": 39 }
+        }
+      },
+      "Haiti": {
+        "total_attempted": 124,
+        "total_completed": 89,
+        "by_units": {
+          "4_units": { "attempted": 4, "completed": 0 },
+          "3_units": { "attempted": 89, "completed": 61 },
+          "2_units": { "attempted": 31, "completed": 28 }
+        },
+        "by_shape": {
+          "inside_shape": { "attempted": 41, "completed": 22 },
+          "outside_shape": { "attempted": 48, "completed": 40 }
+        },
+        "by_direction": {
+          "through": { "attempted": 33, "completed": 22 },
+          "around": { "attempted": 43, "completed": 41 },
+          "over": { "attempted": 36, "completed": 21 }
+        }
+      }
+    },
+    "offering_to_receive": {
+      "Brazil": {
+        "total_offers_made": 437,
+        "total_offers_received": 146,
+        "by_third": { "defensive_third": 175, "middle_third": 262, "final_third": 150 },
+        "by_shape": { "inside_shape": 224, "outside_shape": 224 }
+      },
+      "Haiti": {
+        "total_offers_made": 402,
+        "total_offers_received": 135,
+        "by_third": { "defensive_third": 183, "middle_third": 219, "final_third": 44 },
+        "by_shape": { "inside_shape": 158, "outside_shape": 183 }
+      }
+    },
+    "defensive_actions": {
+      "forced_turnovers": { "Brazil": 39, "Haiti": 34 },
+      "possession_regained": { "Brazil": 46, "Haiti": 39 },
+      "interceptions": { "Brazil": 32, "Haiti": 5 },
+      "tackles": { "Brazil": 4.97, "Haiti": 3.81 }
+    },
+    "defensive_pressure": {
+      "total_pressures": { "Brazil": 195, "Haiti": 294 },
+      "direct_pressures": { "Brazil": 32, "Haiti": 58 },
+      "ball_recovery_time": { "Brazil": "16.92s", "Haiti": "18.9s" }
+    }
+  }
+}

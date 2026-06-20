@@ -1,0 +1,126 @@
+{
+  "match_info": {
+    "match_id_or_code": "M30",
+    "teams": { "home": "Scotland", "away": "Morocco" }
+  },
+  "individual_player_data": {
+    "Scotland": [
+      {
+        "player": "Andy ROBERTSON",
+        "in_possession": { "passes_attempted": 62, "passes_completed": 53, "pass_completion_pct": "85%", "line_breaks_completed": 13, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 14, "offers_received": 6 } },
+        "out_of_possession": { "tackles_made_won": "1/0", "blocks": 2, "interceptions": 1, "possession_regains": 1 },
+        "physical_data": { "total_distance_m": 10256.3, "high_speed_runs": 101.0, "sprints": 42.0, "top_speed_kmh": 33.9 }
+      },
+      {
+        "player": "Scott McTOMINAY",
+        "in_possession": { "passes_attempted": 37, "passes_completed": 33, "pass_completion_pct": "89%", "line_breaks_completed": 7, "attempts_at_goal": 2, "offers_and_receptions": { "total_offers_made": 33, "offers_received": 16 } },
+        "out_of_possession": { "tackles_made_won": "2/1", "blocks": 1, "interceptions": 0, "possession_regains": 2 },
+        "physical_data": { "total_distance_m": 12369.1, "high_speed_runs": 181.0, "sprints": 55.0, "top_speed_kmh": 27.9 }
+      },
+      {
+        "player": "Grant HANLEY",
+        "in_possession": { "passes_attempted": 53, "passes_completed": 50, "pass_completion_pct": "94%", "line_breaks_completed": 12, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 26, "offers_received": 12 } },
+        "out_of_possession": { "tackles_made_won": "0/0", "blocks": 3, "interceptions": 1, "possession_regains": 4 },
+        "physical_data": { "total_distance_m": 9897.7, "high_speed_runs": 84.0, "sprints": 26.0, "top_speed_kmh": 32.4 }
+      },
+      {
+        "player": "Kieran TIERNEY",
+        "in_possession": { "passes_attempted": 17, "passes_completed": 12, "pass_completion_pct": "71%", "line_breaks_completed": 3, "attempts_at_goal": 1, "offers_and_receptions": { "total_offers_made": 23, "offers_received": 6 } },
+        "out_of_possession": { "tackles_made_won": "4/1", "blocks": 3, "interceptions": 2, "possession_regains": 4 },
+        "physical_data": { "total_distance_m": 6844.1, "high_speed_runs": 68.0, "sprints": 39.0, "top_speed_kmh": 33.4 }
+      },
+      {
+        "player": "John McGINN",
+        "in_possession": { "passes_attempted": 14, "passes_completed": 9, "pass_completion_pct": "64%", "line_breaks_completed": 4, "attempts_at_goal": 1, "offers_and_receptions": { "total_offers_made": 17, "offers_received": 4 } },
+        "out_of_possession": { "tackles_made_won": "1/1", "blocks": 2, "interceptions": 0, "possession_regains": 3 },
+        "physical_data": { "total_distance_m": 9788.5, "high_speed_runs": 127.0, "sprints": 34.0, "top_speed_kmh": 30.9 }
+      },
+      {
+        "player": "Ryan CHRISTIE",
+        "in_possession": { "passes_attempted": 26, "passes_completed": 22, "pass_completion_pct": "85%", "line_breaks_completed": 4, "attempts_at_goal": 1, "offers_and_receptions": { "total_offers_made": 25, "offers_received": 11 } },
+        "out_of_possession": { "tackles_made_won": "3/2", "blocks": 2, "interceptions": 1, "possession_regains": 4 },
+        "physical_data": { "total_distance_m": 9255.4, "high_speed_runs": 130.0, "sprints": 30.0, "top_speed_kmh": 28.8 }
+      },
+      {
+        "player": "Jack HENDRY",
+        "in_possession": { "passes_attempted": 72, "passes_completed": 69, "pass_completion_pct": "96%", "line_breaks_completed": 12, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 15, "offers_received": 9 } },
+        "out_of_possession": { "tackles_made_won": "2/1", "blocks": 3, "interceptions": 0, "possession_regains": 5 },
+        "physical_data": { "total_distance_m": 10285.9, "high_speed_runs": 126.0, "sprints": 43.0, "top_speed_kmh": 32.5 }
+      },
+      {
+        "player": "Lewis FERGUSON",
+        "in_possession": { "passes_attempted": 65, "passes_completed": 60, "pass_completion_pct": "92%", "line_breaks_completed": 15, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 76, "offers_received": 34 } },
+        "out_of_possession": { "tackles_made_won": "12/2", "blocks": 3, "interceptions": 2, "possession_regains": 9 },
+        "physical_data": { "total_distance_m": 12738.9, "high_speed_runs": 180.0, "sprints": 48.0, "top_speed_kmh": 30.5 }
+      },
+      {
+        "player": "Nathan PATTERSON",
+        "in_possession": { "passes_attempted": 37, "passes_completed": 30, "pass_completion_pct": "81%", "line_breaks_completed": 5, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 25, "offers_received": 17 } },
+        "out_of_possession": { "tackles_made_won": "1/0", "blocks": 1, "interceptions": 2, "possession_regains": 2 },
+        "physical_data": { "total_distance_m": 9775.3, "high_speed_runs": 128.0, "sprints": 41.0, "top_speed_kmh": 32.1 }
+      }
+    ],
+    "Morocco": [
+      {
+        "player": "Achraf HAKIMI",
+        "in_possession": { "passes_attempted": 89, "passes_completed": 84, "pass_completion_pct": "94%", "line_breaks_completed": 14, "attempts_at_goal": 2, "offers_and_receptions": { "total_offers_made": 60, "offers_received": 31 } },
+        "out_of_possession": { "tackles_made_won": "2/0", "blocks": 1, "interceptions": 1, "possession_regains": 4 },
+        "physical_data": { "total_distance_m": 10810.0, "high_speed_runs": 112.0, "sprints": 53.0, "top_speed_kmh": 30.8 }
+      },
+      {
+        "player": "Noussair MAZRAOUI",
+        "in_possession": { "passes_attempted": 58, "passes_completed": 56, "pass_completion_pct": "97%", "line_breaks_completed": 10, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 8, "offers_received": 3 } },
+        "out_of_possession": { "tackles_made_won": "4/2", "blocks": 4, "interceptions": 2, "possession_regains": 3 },
+        "physical_data": { "total_distance_m": 9682.4, "high_speed_runs": 79.0, "sprints": 33.0, "top_speed_kmh": 31.3 }
+      },
+      {
+        "player": "Ayyoub BOUADDI",
+        "in_possession": { "passes_attempted": 65, "passes_completed": 60, "pass_completion_pct": "92%", "line_breaks_completed": 5, "attempts_at_goal": 1, "offers_and_receptions": { "total_offers_made": 28, "offers_received": 14 } },
+        "out_of_possession": { "tackles_made_won": "1/0", "blocks": 1, "interceptions": 2, "possession_regains": 0 },
+        "physical_data": { "total_distance_m": 11743.4, "high_speed_runs": 142.0, "sprints": 42.0, "top_speed_kmh": 31.6 }
+      },
+      {
+        "player": "Azzedine OUNAHI",
+        "in_possession": { "passes_attempted": 74, "passes_completed": 67, "pass_completion_pct": "91%", "line_breaks_completed": 16, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 91, "offers_received": 43 } },
+        "out_of_possession": { "tackles_made_won": "1/0", "blocks": 1, "interceptions": 0, "possession_regains": 0 },
+        "physical_data": { "total_distance_m": 11936.6, "high_speed_runs": 100.0, "sprints": 37.0, "top_speed_kmh": 30.7 }
+      },
+      {
+        "player": "Brahim DIAZ",
+        "in_possession": { "passes_attempted": 41, "passes_completed": 39, "pass_completion_pct": "95%", "line_breaks_completed": 6, "attempts_at_goal": 1, "offers_and_receptions": { "total_offers_made": 27, "offers_received": 15 } },
+        "out_of_possession": { "tackles_made_won": "0/0", "blocks": 1, "interceptions": 0, "possession_regains": 2 },
+        "physical_data": { "total_distance_m": 8479.0, "high_speed_runs": 83.0, "sprints": 32.0, "top_speed_kmh": 33.1 }
+      },
+      {
+        "player": "Ismael SAIBARI",
+        "in_possession": { "passes_attempted": 25, "passes_completed": 21, "pass_completion_pct": "84%", "line_breaks_completed": 2, "attempts_at_goal": 2, "goals": 1, "offers_and_receptions": { "total_offers_made": 55, "offers_received": 13 } },
+        "out_of_possession": { "tackles_made_won": "3/1", "blocks": 1, "interceptions": 0, "possession_regains": 4 },
+        "physical_data": { "total_distance_m": 10124.4, "high_speed_runs": 120.0, "sprints": 76.0, "top_speed_kmh": 33.7 }
+      },
+      {
+        "player": "Issa DIOP",
+        "in_possession": { "passes_attempted": 86, "passes_completed": 78, "pass_completion_pct": "91%", "line_breaks_completed": 12, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 12, "offers_received": 10 } },
+        "out_of_possession": { "tackles_made_won": "0/0", "blocks": 1, "interceptions": 1, "possession_regains": 5 },
+        "physical_data": { "total_distance_m": 9457.2, "high_speed_runs": 93.0, "sprints": 19.0, "top_speed_kmh": 28.5 }
+      },
+      {
+        "player": "Chadi RIAD",
+        "in_possession": { "passes_attempted": 67, "passes_completed": 64, "pass_completion_pct": "96%", "line_breaks_completed": 0, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 53, "offers_received": 30 } },
+        "out_of_possession": { "tackles_made_won": "2/0", "blocks": 4, "interceptions": 2, "possession_regains": 3 },
+        "physical_data": { "total_distance_m": 10585.4, "high_speed_runs": 103.0, "sprints": 20.0, "top_speed_kmh": 28.5 }
+      },
+      {
+        "player": "Bilal EL KHANNOUSS",
+        "in_possession": { "passes_attempted": 41, "passes_completed": 32, "pass_completion_pct": "78%", "line_breaks_completed": 4, "attempts_at_goal": 2, "offers_and_receptions": { "total_offers_made": 26, "offers_received": 5 } },
+        "out_of_possession": { "tackles_made_won": "2/0", "blocks": 2, "interceptions": 0, "possession_regains": 2 },
+        "physical_data": { "total_distance_m": 8747.0, "high_speed_runs": 114.0, "sprints": 38.0, "top_speed_kmh": 33.2 }
+      },
+      {
+        "player": "Neil EL AYNAOUI",
+        "in_possession": { "passes_attempted": 78, "passes_completed": 73, "pass_completion_pct": "94%", "line_breaks_completed": 10, "attempts_at_goal": 1, "offers_and_receptions": { "total_offers_made": 67, "offers_received": 34 } },
+        "out_of_possession": { "tackles_made_won": "11/5", "blocks": 4, "interceptions": 1, "possession_regains": 8 },
+        "physical_data": { "total_distance_m": 12290.8, "high_speed_runs": 134.0, "sprints": 46.0, "top_speed_kmh": 33.4 }
+      }
+    ]
+  }
+}

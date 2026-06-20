@@ -1,0 +1,108 @@
+{
+  "match_info": {
+    "match_id_or_code": "M31",
+    "date": "19 June 2026",
+    "stadium": "San Francisco Bay Area Stadium",
+    "match": "Group D - Match 31",
+    "teams": {
+      "home": "Türkiye",
+      "away": "Paraguay"
+    }
+  },
+  "team_statistics": {
+    "phases_of_play": {
+      "in_possession_pct": {
+        "Türkiye": "67.7%",
+        "Paraguay": "19.2%"
+      },
+      "in_possession_details": {
+        "build_up_unopposed": { "Türkiye": "39%", "Paraguay": "11%" },
+        "build_up_opposed": { "Türkiye": "15%", "Paraguay": "4%" },
+        "progression": { "Türkiye": "20%", "Paraguay": "7%" },
+        "final_third": { "Türkiye": "32%", "Paraguay": "9%" },
+        "long_ball": { "Türkiye": "1%", "Paraguay": "16%" },
+        "attacking_transition": { "Türkiye": "11%", "Paraguay": "35%" },
+        "counter_attack": { "Türkiye": "1%", "Paraguay": "3%" },
+        "set_piece": { "Türkiye": "9%", "Paraguay": "11%" }
+      },
+      "out_of_possession_pct": {
+        "Türkiye": "20%",
+        "Paraguay": "35%"
+      },
+      "out_of_possession_details": {
+        "high_press": { "Türkiye": "2%", "Paraguay": "1%" },
+        "mid_press": { "Türkiye": "1%", "Paraguay": "1%" },
+        "low_press": { "Türkiye": "0%", "Paraguay": "1%" },
+        "high_block": { "Türkiye": "2%", "Paraguay": "1%" },
+        "mid_block": { "Türkiye": "7%", "Paraguay": "12%" },
+        "low_block": { "Türkiye": "2%", "Paraguay": "46%" },
+        "recovery": { "Türkiye": "8%", "Paraguay": "6%" },
+        "defensive_transition": { "Türkiye": "35%", "Paraguay": "11%" },
+        "counter_press": { "Türkiye": "20%", "Paraguay": "8%" }
+      }
+    },
+    "line_breaks": {
+      "Türkiye": {
+        "total_attempted": 195,
+        "total_completed": 153,
+        "by_units": {
+          "4_units": { "attempted": 1, "completed": 0 },
+          "3_units": { "attempted": 75, "completed": 49 },
+          "2_units": { "attempted": 119, "completed": 79 }
+        },
+        "by_shape": {
+          "inside_shape": { "attempted": 32, "completed": 26 },
+          "outside_shape": { "attempted": 102, "completed": 96 }
+        },
+        "by_direction": {
+          "through": { "attempted": 61, "completed": 31 },
+          "around": { "attempted": 91, "completed": 85 },
+          "over": { "attempted": 43, "completed": 12 }
+        }
+      },
+      "Paraguay": {
+        "total_attempted": 90,
+        "total_completed": 45,
+        "by_units": {
+          "4_units": { "attempted": 8, "completed": 4 },
+          "3_units": { "attempted": 47, "completed": 35 },
+          "2_units": { "attempted": 35, "completed": 32 }
+        },
+        "by_shape": {
+          "inside_shape": { "attempted": 16, "completed": 10 },
+          "outside_shape": { "attempted": 11, "completed": 7 }
+        },
+        "by_direction": {
+          "through": { "attempted": 63, "completed": 28 },
+          "around": { "attempted": 33, "completed": 19 },
+          "over": { "attempted": 2, "completed": 0 }
+        }
+      }
+    },
+    "offering_to_receive": {
+      "Türkiye": {
+        "total_offers_made": 467,
+        "total_offers_received": 174,
+        "by_third": { "defensive_third": 245, "middle_third": 222, "final_third": 116 },
+        "by_shape": { "inside_shape": 312, "outside_shape": 245 }
+      },
+      "Paraguay": {
+        "total_offers_made": 97,
+        "total_offers_received": 24,
+        "by_third": { "defensive_third": 58, "middle_third": 15, "final_third": 35 },
+        "by_shape": { "inside_shape": 47, "outside_shape": 39 }
+      }
+    },
+    "defensive_actions": {
+      "forced_turnovers": { "Türkiye": 41, "Paraguay": 50 },
+      "possession_regained": { "Türkiye": 52, "Paraguay": 53 },
+      "interceptions": { "Türkiye": 32, "Paraguay": 10 },
+      "tackles": { "Türkiye": 61, "Paraguay": 33 }
+    },
+    "defensive_pressure": {
+      "total_pressures": { "Türkiye": 101, "Paraguay": 367 },
+      "direct_pressures": { "Türkiye": 36, "Paraguay": 69 },
+      "ball_recovery_time": { "Türkiye": "7.09s", "Paraguay": "18.41s" }
+    }
+  }
+}

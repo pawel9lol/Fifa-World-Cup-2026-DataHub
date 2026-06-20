@@ -1,0 +1,108 @@
+{
+  "match_info": {
+    "match_id_or_code": "M32",
+    "date": "19 June 2026",
+    "stadium": "Seattle Stadium",
+    "match": "Group D - Match 32",
+    "teams": {
+      "home": "USA",
+      "away": "Australia"
+    }
+  },
+  "team_statistics": {
+    "phases_of_play": {
+      "in_possession_pct": {
+        "USA": "56%",
+        "Australia": "30.3%"
+      },
+      "in_possession_details": {
+        "build_up_unopposed": { "USA": "41%", "Australia": "15%" },
+        "build_up_opposed": { "USA": "15%", "Australia": "12%" },
+        "progression": { "USA": "15%", "Australia": "16%" },
+        "final_third": { "USA": "16%", "Australia": "18%" },
+        "long_ball": { "USA": "4%", "Australia": "5%" },
+        "attacking_transition": { "USA": "12%", "Australia": "29%" },
+        "counter_attack": { "USA": "2%", "Australia": "2%" },
+        "set_piece": { "USA": "7%", "Australia": "11%" }
+      },
+      "out_of_possession_pct": {
+        "USA": "30.3%",
+        "Australia": "56%"
+      },
+      "out_of_possession_details": {
+        "high_press": { "USA": "6%", "Australia": "6%" },
+        "mid_press": { "USA": "5%", "Australia": "3%" },
+        "low_press": { "USA": "2%", "Australia": "1%" },
+        "high_block": { "USA": "5%", "Australia": "3%" },
+        "mid_block": { "USA": "6%", "Australia": "24%" },
+        "low_block": { "USA": "16%", "Australia": "28%" },
+        "recovery": { "USA": "0%", "Australia": "5%" },
+        "defensive_transition": { "USA": "29%", "Australia": "12%" },
+        "counter_press": { "USA": "15%", "Australia": "10%" }
+      }
+    },
+    "line_breaks": {
+      "USA": {
+        "total_attempted": 136,
+        "total_completed": 95,
+        "by_units": {
+          "4_units": { "attempted": 6, "completed": 6 },
+          "3_units": { "attempted": 79, "completed": 68 },
+          "2_units": { "attempted": 51, "completed": 40 }
+        },
+        "by_shape": {
+          "inside_shape": { "attempted": 3, "completed": 42 },
+          "outside_shape": { "attempted": 3, "completed": 37 }
+        },
+        "by_direction": {
+          "through": { "attempted": 28, "completed": 21 },
+          "around": { "attempted": 57, "completed": 50 },
+          "over": { "attempted": 51, "completed": 24 }
+        }
+      },
+      "Australia": {
+        "total_attempted": 116,
+        "total_completed": 71,
+        "by_units": {
+          "4_units": { "attempted": 13, "completed": 7 },
+          "3_units": { "attempted": 66, "completed": 37 },
+          "2_units": { "attempted": 37, "completed": 26 }
+        },
+        "by_shape": {
+          "inside_shape": { "attempted": 7, "completed": 37 },
+          "outside_shape": { "attempted": 6, "completed": 29 }
+        },
+        "by_direction": {
+          "through": { "attempted": 30, "completed": 21 },
+          "around": { "attempted": 41, "completed": 34 },
+          "over": { "attempted": 45, "completed": 16 }
+        }
+      }
+    },
+    "offering_to_receive": {
+      "USA": {
+        "total_offers_made": 347,
+        "total_offers_received": 127,
+        "by_third": { "defensive_third": 167, "middle_third": 180, "final_third": 149 },
+        "by_shape": { "inside_shape": 160, "outside_shape": 187 }
+      },
+      "Australia": {
+        "total_offers_made": 158,
+        "total_offers_received": 56,
+        "by_third": { "defensive_third": 68, "middle_third": 90, "final_third": 54 },
+        "by_shape": { "inside_shape": 29, "outside_shape": 78 }
+      }
+    },
+    "defensive_actions": {
+      "forced_turnovers": { "USA": 39, "Australia": 40 },
+      "possession_regained": { "USA": 51, "Australia": 49 },
+      "interceptions": { "USA": 5, "Australia": 10 },
+      "tackles": { "USA": 37, "Australia": 38 }
+    },
+    "defensive_pressure": {
+      "total_pressures": { "USA": 167, "Australia": 262 },
+      "direct_pressures": { "USA": 50, "Australia": 40 },
+      "ball_recovery_time": { "USA": "10.52s", "Australia": "15.89s" }
+    }
+  }
+}

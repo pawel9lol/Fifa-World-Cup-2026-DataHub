@@ -1,0 +1,65 @@
+{
+  "match_info": {
+    "match_id_or_code": "M05",
+    "date": "13 June 2026",
+    "stadium": "Boston Stadium",
+    "match": "Group C - Match 5",
+    "teams": { "home": "Haiti", "away": "Scotland" }
+  },
+  "team_statistics": {
+    "phases_of_play": {
+      "in_possession_pct": { "Haiti": "44%", "Scotland": "40.5%" },
+      "in_possession_details": {
+        "build_up_unopposed": { "Haiti": "44%", "Scotland": "33%" },
+        "build_up_opposed": { "Haiti": "9%", "Scotland": "9%" },
+        "progression": { "Haiti": "19%", "Scotland": "19%" },
+        "final_third": { "Haiti": "19%", "Scotland": "9%" },
+        "long_ball": { "Haiti": "2%", "Scotland": "8%" },
+        "attacking_transition": { "Haiti": "12%", "Scotland": "11%" },
+        "counter_attack": { "Haiti": "2%", "Scotland": "0%" },
+        "set_piece": { "Haiti": "6%", "Scotland": "10%" }
+      },
+      "out_of_possession_pct": { "Haiti": "25%", "Scotland": "34%" },
+      "out_of_possession_details": {
+        "high_press": { "Haiti": "5%", "Scotland": "1%" },
+        "mid_press": { "Haiti": "7%", "Scotland": "1%" },
+        "low_press": { "Haiti": "1%", "Scotland": "1%" },
+        "high_block": { "Haiti": "6%", "Scotland": "4%" },
+        "mid_block": { "Haiti": "25%", "Scotland": "21%" },
+        "low_block": { "Haiti": "8%", "Scotland": "34%" },
+        "recovery": { "Haiti": "5%", "Scotland": "8%" },
+        "defensive_transition": { "Haiti": "11%", "Scotland": "12%" },
+        "counter_press": { "Haiti": "7%", "Scotland": "8%" }
+      }
+    },
+    "line_breaks": {
+      "Haiti": {
+        "total_attempted": 114, "total_completed": 84,
+        "by_units": { "4_units": { "attempted": 5, "completed": 0 }, "3_units": { "attempted": 64, "completed": 51 }, "2_units": { "attempted": 45, "completed": 16 } },
+        "by_shape": { "inside_shape": { "attempted": 5, "completed": 5 }, "outside_shape": { "attempted": 37, "completed": 27 } },
+        "by_direction": { "through": { "attempted": 17, "completed": 17 }, "around": { "attempted": 55, "completed": 51 }, "over": { "attempted": 42, "completed": 16 } }
+      },
+      "Scotland": {
+        "total_attempted": 124, "total_completed": 86,
+        "by_units": { "4_units": { "attempted": 8, "completed": 5 }, "3_units": { "attempted": 95, "completed": 55 }, "2_units": { "attempted": 21, "completed": 12 } },
+        "by_shape": { "inside_shape": { "attempted": 21, "completed": 16 }, "outside_shape": { "attempted": 45, "completed": 43 } },
+        "by_direction": { "through": { "attempted": 15, "completed": 5 }, "around": { "attempted": 44, "completed": 30 }, "over": { "attempted": 36, "completed": 31 } }
+      }
+    },
+    "offering_to_receive": {
+      "Haiti": { "total_offers_made": 267, "total_offers_received": 94, "by_third": { "defensive_third": 15, "middle_third": 94, "final_third": 158 }, "by_shape": { "inside_shape": 129, "outside_shape": 138 } },
+      "Scotland": { "total_offers_made": 329, "total_offers_received": 115, "by_third": { "defensive_third": 47, "middle_third": 159, "final_third": 123 }, "by_shape": { "inside_shape": 167, "outside_shape": 162 } }
+    },
+    "defensive_actions": {
+      "forced_turnovers": { "Haiti": 29, "Scotland": 35 },
+      "possession_regained": { "Haiti": 40, "Scotland": 39 },
+      "interceptions": { "Haiti": 7, "Scotland": 3 },
+      "tackles": { "Haiti": 22, "Scotland": 24 }
+    },
+    "defensive_pressure": {
+      "total_pressures": { "Haiti": 185, "Scotland": 230 },
+      "direct_pressures": { "Haiti": 35, "Scotland": 39 },
+      "ball_recovery_time": { "Haiti": "14.86s", "Scotland": "21.55s" }
+    }
+  }
+}

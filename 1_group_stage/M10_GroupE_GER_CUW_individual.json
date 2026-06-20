@@ -1,0 +1,123 @@
+{
+  "match_info": { "match_id_or_code": "M10", "teams": { "home": "Germany", "away": "Curaçao" } },
+  "individual_player_data": {
+    "Germany": [
+      {
+        "player": "Jonathan TAH",
+        "in_possession": { "passes_attempted": 71, "passes_completed": 68, "pass_completion_pct": "96%", "line_breaks_completed": 11, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 10, "offers_received": 7 } },
+        "out_of_possession": { "tackles_made_won": "1/0", "blocks": 0, "interceptions": 0, "possession_regains": 1 },
+        "physical_data": { "total_distance_m": 7906.0, "high_speed_runs": 76.0, "sprints": 27.0, "top_speed_kmh": 30.0 }
+      },
+      {
+        "player": "Aleksandar PAVLOVIC",
+        "in_possession": { "passes_attempted": 72, "passes_completed": 68, "pass_completion_pct": "94%", "line_breaks_completed": 21, "attempts_at_goal": 2, "goals": 0, "offers_and_receptions": { "total_offers_made": 56, "offers_received": 18 } },
+        "out_of_possession": { "tackles_made_won": "4/2", "blocks": 1, "interceptions": 0, "possession_regains": 3 },
+        "physical_data": { "total_distance_m": 12135.1, "high_speed_runs": 180.0, "sprints": 59.0, "top_speed_kmh": 29.8 }
+      },
+      {
+        "player": "Joshua KIMMICH",
+        "in_possession": { "passes_attempted": 79, "passes_completed": 69, "pass_completion_pct": "87%", "line_breaks_completed": 17, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 21, "offers_received": 4 } },
+        "out_of_possession": { "tackles_made_won": "1/0", "blocks": 2, "interceptions": 1, "possession_regains": 3 },
+        "physical_data": { "total_distance_m": 9636.7, "high_speed_runs": 101.0, "sprints": 40.0, "top_speed_kmh": 29.9 }
+      },
+      {
+        "player": "Kai HAVERTZ",
+        "in_possession": { "passes_attempted": 40, "passes_completed": 38, "pass_completion_pct": "95%", "line_breaks_completed": 2, "attempts_at_goal": 4, "goals": 2, "offers_and_receptions": { "total_offers_made": 65, "offers_received": 20 } },
+        "out_of_possession": { "tackles_made_won": "1/0", "blocks": 1, "interceptions": 1, "possession_regains": 0 },
+        "physical_data": { "total_distance_m": 11602.0, "high_speed_runs": 150.0, "sprints": 55.0, "top_speed_kmh": 32.9 }
+      },
+      {
+        "player": "Jamal MUSIALA",
+        "in_possession": { "passes_attempted": 24, "passes_completed": 14, "pass_completion_pct": "58%", "line_breaks_completed": 6, "attempts_at_goal": 3, "goals": 1, "offers_and_receptions": { "total_offers_made": 61, "offers_received": 25 } },
+        "out_of_possession": { "tackles_made_won": "6/2", "blocks": 0, "interceptions": 1, "possession_regains": 3 },
+        "physical_data": { "total_distance_m": 7874.6, "high_speed_runs": 90.0, "sprints": 30.0, "top_speed_kmh": 31.8 }
+      },
+      {
+        "player": "Nico SCHLOTTERBECK",
+        "in_possession": { "passes_attempted": 81, "passes_completed": 75, "pass_completion_pct": "93%", "line_breaks_completed": 22, "attempts_at_goal": 2, "goals": 1, "offers_and_receptions": { "total_offers_made": 22, "offers_received": 7 } },
+        "out_of_possession": { "tackles_made_won": "6/1", "blocks": 3, "interceptions": 4, "possession_regains": 7 },
+        "physical_data": { "total_distance_m": 9931.9, "high_speed_runs": 95.0, "sprints": 26.0, "top_speed_kmh": 31.8 }
+      },
+      {
+        "player": "Florian WIRTZ",
+        "in_possession": { "passes_attempted": 67, "passes_completed": 58, "pass_completion_pct": "87%", "line_breaks_completed": 12, "attempts_at_goal": 3, "goals": 0, "offers_and_receptions": { "total_offers_made": 48, "offers_received": 18 } },
+        "out_of_possession": { "tackles_made_won": "3/2", "blocks": 3, "interceptions": 0, "possession_regains": 4 },
+        "physical_data": { "total_distance_m": 11086.3, "high_speed_runs": 146.0, "sprints": 46.0, "top_speed_kmh": 28.5 }
+      },
+      {
+        "player": "Nathaniel BROWN",
+        "in_possession": { "passes_attempted": 39, "passes_completed": 36, "pass_completion_pct": "92%", "line_breaks_completed": 5, "attempts_at_goal": 2, "goals": 1, "offers_and_receptions": { "total_offers_made": 40, "offers_received": 12 } },
+        "out_of_possession": { "tackles_made_won": "5/2", "blocks": 3, "interceptions": 0, "possession_regains": 2 },
+        "physical_data": { "total_distance_m": 8798.9, "high_speed_runs": 111.0, "sprints": 38.0, "top_speed_kmh": 33.8 }
+      },
+      {
+        "player": "Leroy SANE",
+        "in_possession": { "passes_attempted": 50, "passes_completed": 41, "pass_completion_pct": "82%", "line_breaks_completed": 3, "attempts_at_goal": 3, "goals": 0, "offers_and_receptions": { "total_offers_made": 51, "offers_received": 16 } },
+        "out_of_possession": { "tackles_made_won": "2/2", "blocks": 3, "interceptions": 0, "possession_regains": 2 },
+        "physical_data": { "total_distance_m": 10238.6, "high_speed_runs": 122.0, "sprints": 59.0, "top_speed_kmh": 33.5 }
+      },
+      {
+        "player": "Felix NMECHA",
+        "in_possession": { "passes_attempted": 37, "passes_completed": 36, "pass_completion_pct": "97%", "line_breaks_completed": 9, "attempts_at_goal": 4, "goals": 1, "offers_and_receptions": { "total_offers_made": 31, "offers_received": 8 } },
+        "out_of_possession": { "tackles_made_won": "4/2", "blocks": 2, "interceptions": 0, "possession_regains": 6 },
+        "physical_data": { "total_distance_m": 8346.9, "high_speed_runs": 111.0, "sprints": 35.0, "top_speed_kmh": 31.0 }
+      }
+    ],
+    "Curaçao": [
+      {
+        "player": "Eloy ROOM",
+        "in_possession": { "passes_attempted": 35, "passes_completed": 20, "pass_completion_pct": "57%", "line_breaks_completed": 4, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 2, "offers_received": 2 } },
+        "out_of_possession": { "tackles_made_won": "0/0", "blocks": 0, "interceptions": 0, "possession_regains": 7 },
+        "physical_data": { "total_distance_m": 5089.7, "high_speed_runs": 7.0, "sprints": 0.0, "top_speed_kmh": 22.0 }
+      },
+      {
+        "player": "Sherel FLORANUS",
+        "in_possession": { "passes_attempted": 35, "passes_completed": 30, "pass_completion_pct": "86%", "line_breaks_completed": 5, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 21, "offers_received": 3 } },
+        "out_of_possession": { "tackles_made_won": "3/0", "blocks": 2, "interceptions": 0, "possession_regains": 0 },
+        "physical_data": { "total_distance_m": 10463.9, "high_speed_runs": 119.0, "sprints": 50.0, "top_speed_kmh": 33.3 }
+      },
+      {
+        "player": "Juninho BACUNA",
+        "in_possession": { "passes_attempted": 35, "passes_completed": 29, "pass_completion_pct": "83%", "line_breaks_completed": 13, "attempts_at_goal": 1, "goals": 0, "offers_and_receptions": { "total_offers_made": 13, "offers_received": 5 } },
+        "out_of_possession": { "tackles_made_won": "3/0", "blocks": 8, "interceptions": 2, "possession_regains": 5 },
+        "physical_data": { "total_distance_m": 10064.9, "high_speed_runs": 109.0, "sprints": 49.0, "top_speed_kmh": 30.7 }
+      },
+      {
+        "player": "Livano COMENENCIA",
+        "in_possession": { "passes_attempted": 27, "passes_completed": 20, "pass_completion_pct": "74%", "line_breaks_completed": 4, "attempts_at_goal": 2, "goals": 1, "offers_and_receptions": { "total_offers_made": 40, "offers_received": 11 } },
+        "out_of_possession": { "tackles_made_won": "1/1", "blocks": 12, "interceptions": 3, "possession_regains": 12 },
+        "physical_data": { "total_distance_m": 10853.1, "high_speed_runs": 124.0, "sprints": 47.0, "top_speed_kmh": 32.0 }
+      },
+      {
+        "player": "Juergen LOCADIA",
+        "in_possession": { "passes_attempted": 15, "passes_completed": 13, "pass_completion_pct": "87%", "line_breaks_completed": 0, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 22, "offers_received": 7 } },
+        "out_of_possession": { "tackles_made_won": "0/0", "blocks": 3, "interceptions": 0, "possession_regains": 1 },
+        "physical_data": { "total_distance_m": 6563.1, "high_speed_runs": 72.0, "sprints": 28.0, "top_speed_kmh": 32.6 }
+      },
+      {
+        "player": "Leandro BACUNA",
+        "in_possession": { "passes_attempted": 56, "passes_completed": 48, "pass_completion_pct": "86%", "line_breaks_completed": 9, "attempts_at_goal": 2, "goals": 0, "offers_and_receptions": { "total_offers_made": 20, "offers_received": 10 } },
+        "out_of_possession": { "tackles_made_won": "7/3", "blocks": 3, "interceptions": 2, "possession_regains": 10 },
+        "physical_data": { "total_distance_m": 9305.0, "high_speed_runs": 82.0, "sprints": 26.0, "top_speed_kmh": 31.8 }
+      },
+      {
+        "player": "Sontje HANSEN",
+        "in_possession": { "passes_attempted": 6, "passes_completed": 5, "pass_completion_pct": "83%", "line_breaks_completed": 0, "attempts_at_goal": 1, "goals": 0, "offers_and_receptions": { "total_offers_made": 21, "offers_received": 1 } },
+        "out_of_possession": { "tackles_made_won": "2/1", "blocks": 0, "interceptions": 0, "possession_regains": 2 },
+        "physical_data": { "total_distance_m": 4910.8, "high_speed_runs": 59.0, "sprints": 26.0, "top_speed_kmh": 33.1 }
+      },
+      {
+        "player": "Armando OBISPO",
+        "in_possession": { "passes_attempted": 40, "passes_completed": 37, "pass_completion_pct": "92%", "line_breaks_completed": 13, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 6, "offers_received": 3 } },
+        "out_of_possession": { "tackles_made_won": "4/0", "blocks": 5, "interceptions": 5, "possession_regains": 8 },
+        "physical_data": { "total_distance_m": 8686.7, "high_speed_runs": 55.0, "sprints": 17.0, "top_speed_kmh": 33.2 }
+      },
+      {
+        "player": "Tahith CHONG",
+        "in_possession": { "passes_attempted": 19, "passes_completed": 13, "pass_completion_pct": "68%", "line_breaks_completed": 2, "attempts_at_goal": 1, "goals": 0, "offers_and_receptions": { "total_offers_made": 36, "offers_received": 16 } },
+        "out_of_possession": { "tackles_made_won": "1/0", "blocks": 1, "interceptions": 0, "possession_regains": 1 },
+        "physical_data": { "total_distance_m": 8768.7, "high_speed_runs": 82.0, "sprints": 31.0, "top_speed_kmh": 30.0 }
+      }
+    ]
+  }
+}

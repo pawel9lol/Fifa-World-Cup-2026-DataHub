@@ -1,0 +1,65 @@
+{
+  "match_info": {
+    "match_id_or_code": "M09",
+    "date": "14 June 2026",
+    "stadium": "Philadelphia Stadium",
+    "match": "Group E - Match 9",
+    "teams": { "home": "Côte d'Ivoire", "away": "Ecuador" }
+  },
+  "team_statistics": {
+    "phases_of_play": {
+      "in_possession_pct": { "Côte_d_Ivoire": "41.9%", "Ecuador": "49.9%" },
+      "in_possession_details": {
+        "build_up_unopposed": { "Côte_d_Ivoire": "27%", "Ecuador": "38%" },
+        "build_up_opposed": { "Côte_d_Ivoire": "14%", "Ecuador": "12%" },
+        "progression": { "Côte_d_Ivoire": "18%", "Ecuador": "20%" },
+        "final_third": { "Côte_d_Ivoire": "22%", "Ecuador": "11%" },
+        "long_ball": { "Côte_d_Ivoire": "3%", "Ecuador": "5%" },
+        "attacking_transition": { "Côte_d_Ivoire": "16%", "Ecuador": "14%" },
+        "counter_attack": { "Côte_d_Ivoire": "1%", "Ecuador": "0%" },
+        "set_piece": { "Côte_d_Ivoire": "5%", "Ecuador": "4%" }
+      },
+      "out_of_possession_pct": { "Côte_d_Ivoire": "49.9%", "Ecuador": "41.9%" },
+      "out_of_possession_details": {
+        "high_press": { "Côte_d_Ivoire": "5%", "Ecuador": "6%" },
+        "mid_press": { "Côte_d_Ivoire": "5%", "Ecuador": "4%" },
+        "low_press": { "Côte_d_Ivoire": "0%", "Ecuador": "1%" },
+        "high_block": { "Côte_d_Ivoire": "11%", "Ecuador": "4%" },
+        "mid_block": { "Côte_d_Ivoire": "27%", "Ecuador": "19%" },
+        "low_block": { "Côte_d_Ivoire": "12%", "Ecuador": "24%" },
+        "recovery": { "Côte_d_Ivoire": "4%", "Ecuador": "4%" },
+        "defensive_transition": { "Côte_d_Ivoire": "14%", "Ecuador": "16%" },
+        "counter_press": { "Côte_d_Ivoire": "9%", "Ecuador": "12%" }
+      }
+    },
+    "line_breaks": {
+      "Côte_d_Ivoire": {
+        "total_attempted": 144, "total_completed": 108,
+        "by_units": { "4_units": { "attempted": 1, "completed": 1 }, "3_units": { "attempted": 41, "completed": 27 }, "2_units": { "attempted": 59, "completed": 53 } },
+        "by_shape": { "inside_shape": { "attempted": 75, "completed": 68 }, "outside_shape": { "attempted": 40, "completed": 22 } },
+        "by_direction": { "through": { "attempted": 9, "completed": 5 }, "around": { "attempted": 21, "completed": 17 }, "over": { "attempted": 53, "completed": 30 } }
+      },
+      "Ecuador": {
+        "total_attempted": 147, "total_completed": 104,
+        "by_units": { "4_units": { "attempted": 3, "completed": 1 }, "3_units": { "attempted": 46, "completed": 31 }, "2_units": { "attempted": 45, "completed": 42 } },
+        "by_shape": { "inside_shape": { "attempted": 52, "completed": 52 }, "outside_shape": { "attempted": 52, "completed": 19 } },
+        "by_direction": { "through": { "attempted": 4, "completed": 1 }, "around": { "attempted": 28, "completed": 22 }, "over": { "attempted": 32, "completed": 13 } }
+      }
+    },
+    "offering_to_receive": {
+      "Côte_d_Ivoire": { "total_offers_made": 333, "total_offers_received": 128, "by_third": { "defensive_third": 46, "middle_third": 148, "final_third": 139 }, "by_shape": { "inside_shape": 154, "outside_shape": 179 } },
+      "Ecuador": { "total_offers_made": 339, "total_offers_received": 147, "by_third": { "defensive_third": 65, "middle_third": 166, "final_third": 108 }, "by_shape": { "inside_shape": 174, "outside_shape": 165 } }
+    },
+    "defensive_actions": {
+      "forced_turnovers": { "Côte_d_Ivoire": 44, "Ecuador": 49 },
+      "possession_regained": { "Côte_d_Ivoire": 44, "Ecuador": 50 },
+      "interceptions": { "Côte_d_Ivoire": 11, "Ecuador": 8 },
+      "tackles": { "Côte_d_Ivoire": 23, "Ecuador": 37 }
+    },
+    "defensive_pressure": {
+      "total_pressures": { "Côte_d_Ivoire": 288, "Ecuador": 280 },
+      "direct_pressures": { "Côte_d_Ivoire": 31, "Ecuador": 61 },
+      "ball_recovery_time": { "Côte_d_Ivoire": "17.27s", "Ecuador": "15.65s" }
+    }
+  }
+}

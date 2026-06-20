@@ -1,0 +1,65 @@
+{
+  "match_info": {
+    "match_id_or_code": "M07",
+    "date": "13 June 2026",
+    "stadium": "New York/New Jersey Stadium",
+    "match": "Group C - Match 7",
+    "teams": { "home": "Brazil", "away": "Morocco" }
+  },
+  "team_statistics": {
+    "phases_of_play": {
+      "in_possession_pct": { "Brazil": "41%", "Morocco": "44%" },
+      "in_possession_details": {
+        "build_up_unopposed": { "Brazil": "41%", "Morocco": "31%" },
+        "build_up_opposed": { "Brazil": "13%", "Morocco": "14%" },
+        "progression": { "Brazil": "18%", "Morocco": "15%" },
+        "final_third": { "Brazil": "11%", "Morocco": "17%" },
+        "long_ball": { "Brazil": "2%", "Morocco": "5%" },
+        "attacking_transition": { "Brazil": "12%", "Morocco": "16%" },
+        "counter_attack": { "Brazil": "1%", "Morocco": "2%" },
+        "set_piece": { "Brazil": "2%", "Morocco": "0%" }
+      },
+      "out_of_possession_pct": { "Brazil": "44%", "Morocco": "31%" },
+      "out_of_possession_details": {
+        "high_press": { "Brazil": "7%", "Morocco": "4%" },
+        "mid_press": { "Brazil": "3%", "Morocco": "4%" },
+        "low_press": { "Brazil": "0%", "Morocco": "1%" },
+        "high_block": { "Brazil": "0%", "Morocco": "3%" },
+        "mid_block": { "Brazil": "16%", "Morocco": "34%" },
+        "low_block": { "Brazil": "19%", "Morocco": "20%" },
+        "recovery": { "Brazil": "6%", "Morocco": "5%" },
+        "defensive_transition": { "Brazil": "16%", "Morocco": "12%" },
+        "counter_press": { "Brazil": "10%", "Morocco": "8%" }
+      }
+    },
+    "line_breaks": {
+      "Brazil": {
+        "total_attempted": 119, "total_completed": 89,
+        "by_units": { "4_units": { "attempted": 4, "completed": 1 }, "3_units": { "attempted": 84, "completed": 65 }, "2_units": { "attempted": 31, "completed": 23 } },
+        "by_shape": { "inside_shape": { "attempted": 62, "completed": 55 }, "outside_shape": { "attempted": 57, "completed": 34 } },
+        "by_direction": { "through": { "attempted": 10, "completed": 5 }, "around": { "attempted": 29, "completed": 17 }, "over": { "attempted": 45, "completed": 43 } }
+      },
+      "Morocco": {
+        "total_attempted": 132, "total_completed": 81,
+        "by_units": { "4_units": { "attempted": 5, "completed": 2 }, "3_units": { "attempted": 90, "completed": 52 }, "2_units": { "attempted": 37, "completed": 27 } },
+        "by_shape": { "inside_shape": { "attempted": 31, "completed": 25 }, "outside_shape": { "attempted": 60, "completed": 52 } },
+        "by_direction": { "through": { "attempted": 9, "completed": 4 }, "around": { "attempted": 47, "completed": 23 }, "over": { "attempted": 34, "completed": 26 } }
+      }
+    },
+    "offering_to_receive": {
+      "Brazil": { "total_offers_made": 348, "total_offers_received": 155, "by_third": { "defensive_third": 44, "middle_third": 174, "final_third": 126 }, "by_shape": { "inside_shape": 174, "outside_shape": 178 } },
+      "Morocco": { "total_offers_made": 400, "total_offers_received": 148, "by_third": { "defensive_third": 60, "middle_third": 159, "final_third": 181 }, "by_shape": { "inside_shape": 226, "outside_shape": 174 } }
+    },
+    "defensive_actions": {
+      "forced_turnovers": { "Brazil": 41, "Morocco": 50 },
+      "possession_regained": { "Brazil": 48, "Morocco": 47 },
+      "interceptions": { "Brazil": 15, "Morocco": 10 },
+      "tackles": { "Brazil": 54, "Morocco": 33 }
+    },
+    "defensive_pressure": {
+      "total_pressures": { "Brazil": 315, "Morocco": 285 },
+      "direct_pressures": { "Brazil": 54, "Morocco": 41 },
+      "ball_recovery_time": { "Brazil": "18.03s", "Morocco": "16.83s" }
+    }
+  }
+}

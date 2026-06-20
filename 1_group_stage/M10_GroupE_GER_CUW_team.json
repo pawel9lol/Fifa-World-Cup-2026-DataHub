@@ -1,0 +1,65 @@
+{
+  "match_info": {
+    "match_id_or_code": "M10",
+    "date": "14 June 2026",
+    "stadium": "Houston Stadium",
+    "match": "Group E - Match 10",
+    "teams": { "home": "Germany", "away": "Curaçao" }
+  },
+  "team_statistics": {
+    "phases_of_play": {
+      "in_possession_pct": { "Germany": "57.8%", "Curaçao": "35.3%" },
+      "in_possession_details": {
+        "build_up_unopposed": { "Germany": "35%", "Curaçao": "25%" },
+        "build_up_opposed": { "Germany": "17%", "Curaçao": "15%" },
+        "progression": { "Germany": "19%", "Curaçao": "19%" },
+        "final_third": { "Germany": "23%", "Curaçao": "0%" },
+        "long_ball": { "Germany": "1%", "Curaçao": "5%" },
+        "attacking_transition": { "Germany": "13%", "Curaçao": "20%" },
+        "counter_attack": { "Germany": "0%", "Curaçao": "1%" },
+        "set_piece": { "Germany": "7%", "Curaçao": "6%" }
+      },
+      "out_of_possession_pct": { "Germany": "35.3%", "Curaçao": "57.8%" },
+      "out_of_possession_details": {
+        "high_press": { "Germany": "9%", "Curaçao": "2%" },
+        "mid_press": { "Germany": "6%", "Curaçao": "2%" },
+        "low_press": { "Germany": "0%", "Curaçao": "1%" },
+        "high_block": { "Germany": "8%", "Curaçao": "1%" },
+        "mid_block": { "Germany": "11%", "Curaçao": "25%" },
+        "low_block": { "Germany": "13%", "Curaçao": "37%" },
+        "recovery": { "Germany": "8%", "Curaçao": "1%" },
+        "defensive_transition": { "Germany": "20%", "Curaçao": "13%" },
+        "counter_press": { "Germany": "15%", "Curaçao": "11%" }
+      }
+    },
+    "line_breaks": {
+      "Germany": {
+        "total_attempted": 158, "total_completed": 125,
+        "by_units": { "4_units": { "attempted": 6, "completed": 2 }, "3_units": { "attempted": 90, "completed": 71 }, "2_units": { "attempted": 62, "completed": 55 } },
+        "by_shape": { "inside_shape": { "attempted": 44, "completed": 10 }, "outside_shape": { "attempted": 46, "completed": 16 } },
+        "by_direction": { "through": { "attempted": 47, "completed": 33 }, "around": { "attempted": 81, "completed": 73 }, "over": { "attempted": 30, "completed": 19 } }
+      },
+      "Curaçao": {
+        "total_attempted": 115, "total_completed": 70,
+        "by_units": { "4_units": { "attempted": 12, "completed": 8 }, "3_units": { "attempted": 70, "completed": 42 }, "2_units": { "attempted": 33, "completed": 21 } },
+        "by_shape": { "inside_shape": { "attempted": 38, "completed": 32 }, "outside_shape": { "attempted": 32, "completed": 8 } },
+        "by_direction": { "through": { "attempted": 19, "completed": 9 }, "around": { "attempted": 47, "completed": 42 }, "over": { "attempted": 49, "completed": 21 } }
+      }
+    },
+    "offering_to_receive": {
+      "Germany": { "total_offers_made": 445, "total_offers_received": 153, "by_third": { "defensive_third": 202, "middle_third": 243, "final_third": 253 }, "by_shape": { "inside_shape": 159, "outside_shape": 243 } },
+      "Curaçao": { "total_offers_made": 241, "total_offers_received": 79, "by_third": { "defensive_third": 100, "middle_third": 141, "final_third": 80 }, "by_shape": { "inside_shape": 32, "outside_shape": 129 } }
+    },
+    "defensive_actions": {
+      "forced_turnovers": { "Germany": 46, "Curaçao": 43 },
+      "possession_regained": { "Germany": 41, "Curaçao": 55 },
+      "interceptions": { "Germany": 8, "Curaçao": 14 },
+      "tackles": { "Germany": 41, "Curaçao": 30 }
+    },
+    "defensive_pressure": {
+      "total_pressures": { "Germany": 227, "Curaçao": 339 },
+      "direct_pressures": { "Germany": 55, "Curaçao": 48 },
+      "ball_recovery_time": { "Germany": "11.42s", "Curaçao": "18.09s" }
+    }
+  }
+}

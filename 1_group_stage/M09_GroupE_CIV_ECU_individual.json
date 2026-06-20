@@ -1,0 +1,81 @@
+{
+  "match_info": { "match_id_or_code": "M09", "teams": { "home": "Côte d'Ivoire", "away": "Ecuador" } },
+  "individual_player_data": {
+    "Côte_d_Ivoire": [
+      {
+        "player": "Wilfried SINGO",
+        "in_possession": { "passes_attempted": 45, "passes_completed": 44, "pass_completion_pct": "98%", "line_breaks_completed": 19, "attempts_at_goal": 1, "goals": 0, "offers_and_receptions": { "total_offers_made": 18, "offers_received": 8 } },
+        "out_of_possession": { "tackles_made_won": "1/0", "blocks": 5, "interceptions": 2, "possession_regains": 7 },
+        "physical_data": { "total_distance_m": 9611.2, "high_speed_runs": 88.0, "sprints": 32.0, "top_speed_kmh": 33.3 }
+      },
+      {
+        "player": "Franck KESSIE",
+        "in_possession": { "passes_attempted": 59, "passes_completed": 55, "pass_completion_pct": "93%", "line_breaks_completed": 17, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 31, "offers_received": 9 } },
+        "out_of_possession": { "tackles_made_won": "4/2", "blocks": 2, "interceptions": 0, "possession_regains": 4 },
+        "physical_data": { "total_distance_m": 11314.1, "high_speed_runs": 140.0, "sprints": 45.0, "top_speed_kmh": 29.2 }
+      },
+      {
+        "player": "Yan DIOMANDE",
+        "in_possession": { "passes_attempted": 47, "passes_completed": 42, "pass_completion_pct": "89%", "line_breaks_completed": 9, "attempts_at_goal": 2, "goals": 0, "offers_and_receptions": { "total_offers_made": 37, "offers_received": 24 } },
+        "out_of_possession": { "tackles_made_won": "4/2", "blocks": 2, "interceptions": 1, "possession_regains": 4 },
+        "physical_data": { "total_distance_m": 9396.3, "high_speed_runs": 94.0, "sprints": 52.0, "top_speed_kmh": 33.6 }
+      },
+      {
+        "player": "Guela DOUE",
+        "in_possession": { "passes_attempted": 53, "passes_completed": 50, "pass_completion_pct": "94%", "line_breaks_completed": 18, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 27, "offers_received": 9 } },
+        "out_of_possession": { "tackles_made_won": "2/1", "blocks": 1, "interceptions": 2, "possession_regains": 7 },
+        "physical_data": { "total_distance_m": 9141.1, "high_speed_runs": 99.0, "sprints": 35.0, "top_speed_kmh": 32.5 }
+      },
+      {
+        "player": "Nicolas PEPE",
+        "in_possession": { "passes_attempted": 30, "passes_completed": 28, "pass_completion_pct": "93%", "line_breaks_completed": 4, "attempts_at_goal": 2, "goals": 0, "offers_and_receptions": { "total_offers_made": 57, "offers_received": 16 } },
+        "out_of_possession": { "tackles_made_won": "2/0", "blocks": 0, "interceptions": 0, "possession_regains": 0 },
+        "physical_data": { "total_distance_m": 8420.2, "high_speed_runs": 114.0, "sprints": 48.0, "top_speed_kmh": 31.9 }
+      },
+      {
+        "player": "Amad DIALLO",
+        "in_possession": { "passes_attempted": 15, "passes_completed": 14, "pass_completion_pct": "93%", "line_breaks_completed": 5, "attempts_at_goal": 2, "goals": 1, "offers_and_receptions": { "total_offers_made": 20, "offers_received": 13 } },
+        "out_of_possession": { "tackles_made_won": "0/0", "blocks": 0, "interceptions": 1, "possession_regains": 1 },
+        "physical_data": { "total_distance_m": 4333.0, "high_speed_runs": 55.0, "sprints": 25.0, "top_speed_kmh": 30.3 }
+      }
+    ],
+    "Ecuador": [
+      {
+        "player": "Piero HINCAPIE",
+        "in_possession": { "passes_attempted": 31, "passes_completed": 21, "pass_completion_pct": "68%", "line_breaks_completed": 4, "attempts_at_goal": 1, "goals": 0, "offers_and_receptions": { "total_offers_made": 22, "offers_received": 8 } },
+        "out_of_possession": { "tackles_made_won": "8/3", "blocks": 1, "interceptions": 2, "possession_regains": 7 },
+        "physical_data": { "total_distance_m": 10712.8, "high_speed_runs": 121.0, "sprints": 54.0, "top_speed_kmh": 31.5 }
+      },
+      {
+        "player": "Joel ORDONEZ",
+        "in_possession": { "passes_attempted": 62, "passes_completed": 57, "pass_completion_pct": "92%", "line_breaks_completed": 6, "attempts_at_goal": 2, "goals": 0, "offers_and_receptions": { "total_offers_made": 7, "offers_received": 3 } },
+        "out_of_possession": { "tackles_made_won": "3/1", "blocks": 1, "interceptions": 0, "possession_regains": 4 },
+        "physical_data": { "total_distance_m": 9330.1, "high_speed_runs": 86.0, "sprints": 31.0, "top_speed_kmh": 28.1 }
+      },
+      {
+        "player": "Pedro VITE",
+        "in_possession": { "passes_attempted": 74, "passes_completed": 67, "pass_completion_pct": "91%", "line_breaks_completed": 20, "attempts_at_goal": 1, "goals": 0, "offers_and_receptions": { "total_offers_made": 72, "offers_received": 31 } },
+        "out_of_possession": { "tackles_made_won": "4/2", "blocks": 2, "interceptions": 1, "possession_regains": 5 },
+        "physical_data": { "total_distance_m": 11473.7, "high_speed_runs": 183.0, "sprints": 44.0, "top_speed_kmh": 28.5 }
+      },
+      {
+        "player": "Gonzalo PLATA",
+        "in_possession": { "passes_attempted": 38, "passes_completed": 31, "pass_completion_pct": "82%", "line_breaks_completed": 9, "attempts_at_goal": 1, "goals": 0, "offers_and_receptions": { "total_offers_made": 38, "offers_received": 18 } },
+        "out_of_possession": { "tackles_made_won": "3/2", "blocks": 3, "interceptions": 0, "possession_regains": 3 },
+        "physical_data": { "total_distance_m": 11063.1, "high_speed_runs": 128.0, "sprints": 51.0, "top_speed_kmh": 31.0 }
+      },
+      {
+        "player": "Alan FRANCO",
+        "in_possession": { "passes_attempted": 46, "passes_completed": 44, "pass_completion_pct": "96%", "line_breaks_completed": 16, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 25, "offers_received": 14 } },
+        "out_of_possession": { "tackles_made_won": "4/2", "blocks": 2, "interceptions": 1, "possession_regains": 4 },
+        "physical_data": { "total_distance_m": 7017.0, "high_speed_runs": 86.0, "sprints": 35.0, "top_speed_kmh": 32.2 }
+      },
+      {
+        "player": "Moises CAICEDO",
+        "in_possession": { "passes_attempted": 58, "passes_completed": 52, "pass_completion_pct": "90%", "line_breaks_completed": 17, "attempts_at_goal": 1, "goals": 0, "offers_and_receptions": { "total_offers_made": 62, "offers_received": 28 } },
+        "out_of_possession": { "tackles_made_won": "5/2", "blocks": 2, "interceptions": 2, "possession_regains": 8 },
+        "physical_data": { "total_distance_m": 10816.5, "high_speed_runs": 129.0, "sprints": 34.0, "top_speed_kmh": 30.5 }
+      }
+    ]
+  }
+}

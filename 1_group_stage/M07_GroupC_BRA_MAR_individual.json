@@ -1,0 +1,117 @@
+{
+  "match_info": { "match_id_or_code": "M07", "teams": { "home": "Brazil", "away": "Morocco" } },
+  "individual_player_data": {
+    "Brazil": [
+      {
+        "player": "ALISSON",
+        "in_possession": { "passes_attempted": 29, "passes_completed": 24, "pass_completion_pct": "83%", "line_breaks_completed": 5, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 3, "offers_received": 1 } },
+        "out_of_possession": { "tackles_made_won": "0/0", "blocks": 0, "interceptions": 0, "possession_regains": 3 },
+        "physical_data": { "total_distance_m": 5270.8, "high_speed_runs": 1.0, "sprints": 0.0, "top_speed_kmh": 17.8 }
+      },
+      {
+        "player": "GABRIEL MAGALHAES",
+        "in_possession": { "passes_attempted": 84, "passes_completed": 82, "pass_completion_pct": "98%", "line_breaks_completed": 10, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 12, "offers_received": 8 } },
+        "out_of_possession": { "tackles_made_won": "2/0", "blocks": 3, "interceptions": 2, "possession_regains": 3 },
+        "physical_data": { "total_distance_m": 10179.3, "high_speed_runs": 122.0, "sprints": 30.0, "top_speed_kmh": 31.0 }
+      },
+      {
+        "player": "MARQUINHOS",
+        "in_possession": { "passes_attempted": 75, "passes_completed": 73, "pass_completion_pct": "97%", "line_breaks_completed": 7, "attempts_at_goal": 2, "goals": 0, "offers_and_receptions": { "total_offers_made": 11, "offers_received": 5 } },
+        "out_of_possession": { "tackles_made_won": "1/0", "blocks": 3, "interceptions": 0, "possession_regains": 8 },
+        "physical_data": { "total_distance_m": 9791.8, "high_speed_runs": 98.0, "sprints": 26.0, "top_speed_kmh": 33.3 }
+      },
+      {
+        "player": "CASEMIRO",
+        "in_possession": { "passes_attempted": 19, "passes_completed": 18, "pass_completion_pct": "95%", "line_breaks_completed": 4, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 6, "offers_received": 2 } },
+        "out_of_possession": { "tackles_made_won": "6/1", "blocks": 2, "interceptions": 2, "possession_regains": 4 },
+        "physical_data": { "total_distance_m": 5315.1, "high_speed_runs": 55.0, "sprints": 11.0, "top_speed_kmh": 26.5 }
+      },
+      {
+        "player": "VINICIUS JUNIOR",
+        "in_possession": { "passes_attempted": 32, "passes_completed": 25, "pass_completion_pct": "78%", "line_breaks_completed": 5, "attempts_at_goal": 1, "goals": 1, "offers_and_receptions": { "total_offers_made": 61, "offers_received": 26 } },
+        "out_of_possession": { "tackles_made_won": "2/0", "blocks": 0, "interceptions": 1, "possession_regains": 1 },
+        "physical_data": { "total_distance_m": 10103.7, "high_speed_runs": 117.0, "sprints": 60.0, "top_speed_kmh": 34.1 }
+      },
+      {
+        "player": "BRUNO GUIMARAES",
+        "in_possession": { "passes_attempted": 39, "passes_completed": 32, "pass_completion_pct": "82%", "line_breaks_completed": 5, "attempts_at_goal": 1, "goals": 0, "offers_and_receptions": { "total_offers_made": 48, "offers_received": 25 } },
+        "out_of_possession": { "tackles_made_won": "4/2", "blocks": 1, "interceptions": 0, "possession_regains": 2 },
+        "physical_data": { "total_distance_m": 9806.3, "high_speed_runs": 133.0, "sprints": 32.0, "top_speed_kmh": 28.0 }
+      },
+      {
+        "player": "RAPHINHA",
+        "in_possession": { "passes_attempted": 29, "passes_completed": 19, "pass_completion_pct": "66%", "line_breaks_completed": 2, "attempts_at_goal": 2, "goals": 0, "offers_and_receptions": { "total_offers_made": 59, "offers_received": 21 } },
+        "out_of_possession": { "tackles_made_won": "5/0", "blocks": 1, "interceptions": 0, "possession_regains": 1 },
+        "physical_data": { "total_distance_m": 11651.0, "high_speed_runs": 152.0, "sprints": 80.0, "top_speed_kmh": 33.1 }
+      },
+      {
+        "player": "DOUGLAS SANTOS",
+        "in_possession": { "passes_attempted": 64, "passes_completed": 57, "pass_completion_pct": "89%", "line_breaks_completed": 17, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 23, "offers_received": 11 } },
+        "out_of_possession": { "tackles_made_won": "12/4", "blocks": 0, "interceptions": 4, "possession_regains": 8 },
+        "physical_data": { "total_distance_m": 10529.3, "high_speed_runs": 145.0, "sprints": 51.0, "top_speed_kmh": 30.9 }
+      },
+      {
+        "player": "LUCAS PAQUETA",
+        "in_possession": { "passes_attempted": 40, "passes_completed": 32, "pass_completion_pct": "80%", "line_breaks_completed": 3, "attempts_at_goal": 2, "goals": 0, "offers_and_receptions": { "total_offers_made": 48, "offers_received": 25 } },
+        "out_of_possession": { "tackles_made_won": "11/2", "blocks": 2, "interceptions": 0, "possession_regains": 5 },
+        "physical_data": { "total_distance_m": 7073.1, "high_speed_runs": 93.0, "sprints": 38.0, "top_speed_kmh": 29.5 }
+      }
+    ],
+    "Morocco": [
+      {
+        "player": "Yassine BOUNOU",
+        "in_possession": { "passes_attempted": 39, "passes_completed": 21, "pass_completion_pct": "54%", "line_breaks_completed": 1, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 7, "offers_received": 7 } },
+        "out_of_possession": { "tackles_made_won": "0/0", "blocks": 0, "interceptions": 0, "possession_regains": 7 },
+        "physical_data": { "total_distance_m": 4633.2, "high_speed_runs": 8.0, "sprints": 1.0, "top_speed_kmh": 21.4 }
+      },
+      {
+        "player": "Achraf HAKIMI",
+        "in_possession": { "passes_attempted": 55, "passes_completed": 52, "pass_completion_pct": "95%", "line_breaks_completed": 9, "attempts_at_goal": 3, "goals": 0, "offers_and_receptions": { "total_offers_made": 31, "offers_received": 15 } },
+        "out_of_possession": { "tackles_made_won": "6/1", "blocks": 3, "interceptions": 2, "possession_regains": 5 },
+        "physical_data": { "total_distance_m": 10149.5, "high_speed_runs": 112.0, "sprints": 53.0, "top_speed_kmh": 30.8 }
+      },
+      {
+        "player": "Noussair MAZRAOUI",
+        "in_possession": { "passes_attempted": 36, "passes_completed": 30, "pass_completion_pct": "83%", "line_breaks_completed": 11, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 7, "offers_received": 6 } },
+        "out_of_possession": { "tackles_made_won": "4/1", "blocks": 2, "interceptions": 0, "possession_regains": 3 },
+        "physical_data": { "total_distance_m": 8041.8, "high_speed_runs": 79.0, "sprints": 33.0, "top_speed_kmh": 31.3 }
+      },
+      {
+        "player": "Ayyoub BOUADDI",
+        "in_possession": { "passes_attempted": 67, "passes_completed": 59, "pass_completion_pct": "88%", "line_breaks_completed": 11, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 69, "offers_received": 35 } },
+        "out_of_possession": { "tackles_made_won": "5/1", "blocks": 2, "interceptions": 2, "possession_regains": 4 },
+        "physical_data": { "total_distance_m": 11871.1, "high_speed_runs": 142.0, "sprints": 42.0, "top_speed_kmh": 31.6 }
+      },
+      {
+        "player": "Azzedine OUNAHI",
+        "in_possession": { "passes_attempted": 36, "passes_completed": 33, "pass_completion_pct": "92%", "line_breaks_completed": 5, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 39, "offers_received": 14 } },
+        "out_of_possession": { "tackles_made_won": "1/0", "blocks": 0, "interceptions": 1, "possession_regains": 1 },
+        "physical_data": { "total_distance_m": 7954.2, "high_speed_runs": 100.0, "sprints": 37.0, "top_speed_kmh": 30.7 }
+      },
+      {
+        "player": "Brahim DIAZ",
+        "in_possession": { "passes_attempted": 20, "passes_completed": 19, "pass_completion_pct": "95%", "line_breaks_completed": 3, "attempts_at_goal": 3, "goals": 0, "offers_and_receptions": { "total_offers_made": 30, "offers_received": 13 } },
+        "out_of_possession": { "tackles_made_won": "1/0", "blocks": 2, "interceptions": 1, "possession_regains": 1 },
+        "physical_data": { "total_distance_m": 6678.1, "high_speed_runs": 83.0, "sprints": 32.0, "top_speed_kmh": 31.1 }
+      },
+      {
+        "player": "Ismael SAIBARI",
+        "in_possession": { "passes_attempted": 24, "passes_completed": 21, "pass_completion_pct": "88%", "line_breaks_completed": 2, "attempts_at_goal": 3, "goals": 1, "offers_and_receptions": { "total_offers_made": 65, "offers_received": 16 } },
+        "out_of_possession": { "tackles_made_won": "3/1", "blocks": 0, "interceptions": 0, "possession_regains": 1 },
+        "physical_data": { "total_distance_m": 10124.4, "high_speed_runs": 120.0, "sprints": 76.0, "top_speed_kmh": 33.7 }
+      },
+      {
+        "player": "Issa DIOP",
+        "in_possession": { "passes_attempted": 49, "passes_completed": 40, "pass_completion_pct": "82%", "line_breaks_completed": 10, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 9, "offers_received": 4 } },
+        "out_of_possession": { "tackles_made_won": "0/0", "blocks": 2, "interceptions": 1, "possession_regains": 5 },
+        "physical_data": { "total_distance_m": 10127.8, "high_speed_runs": 94.0, "sprints": 22.0, "top_speed_kmh": 32.0 }
+      },
+      {
+        "player": "Chadi RIAD",
+        "in_possession": { "passes_attempted": 41, "passes_completed": 35, "pass_completion_pct": "85%", "line_breaks_completed": 7, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 16, "offers_received": 6 } },
+        "out_of_possession": { "tackles_made_won": "1/1", "blocks": 1, "interceptions": 1, "possession_regains": 7 },
+        "physical_data": { "total_distance_m": 10585.4, "high_speed_runs": 103.0, "sprints": 20.0, "top_speed_kmh": 28.5 }
+      }
+    ]
+  }
+}

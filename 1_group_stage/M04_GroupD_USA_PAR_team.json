@@ -1,0 +1,65 @@
+{
+  "match_info": {
+    "match_id_or_code": "M04",
+    "date": "12 June 2026",
+    "stadium": "Los Angeles Stadium",
+    "match": "Group D - Match 4",
+    "teams": { "home": "USA", "away": "Paraguay" }
+  },
+  "team_statistics": {
+    "phases_of_play": {
+      "in_possession_pct": { "USA": "59.5%", "Paraguay": "28.7%" },
+      "in_possession_details": {
+        "build_up_unopposed": { "USA": "37%", "Paraguay": "21%" },
+        "build_up_opposed": { "USA": "12%", "Paraguay": "16%" },
+        "progression": { "USA": "19%", "Paraguay": "15%" },
+        "final_third": { "USA": "22%", "Paraguay": "7%" },
+        "long_ball": { "USA": "2%", "Paraguay": "8%" },
+        "attacking_transition": { "USA": "15%", "Paraguay": "26%" },
+        "counter_attack": { "USA": "1%", "Paraguay": "1%" },
+        "set_piece": { "USA": "7%", "Paraguay": "7%" }
+      },
+      "out_of_possession_pct": { "USA": "26%", "Paraguay": "59.5%" },
+      "out_of_possession_details": {
+        "high_press": { "USA": "8%", "Paraguay": "4%" },
+        "mid_press": { "USA": "7%", "Paraguay": "3%" },
+        "low_press": { "USA": "0%", "Paraguay": "1%" },
+        "high_block": { "USA": "8%", "Paraguay": "3%" },
+        "mid_block": { "USA": "14%", "Paraguay": "25%" },
+        "low_block": { "USA": "4%", "Paraguay": "28%" },
+        "recovery": { "USA": "4%", "Paraguay": "4%" },
+        "defensive_transition": { "USA": "26%", "Paraguay": "15%" },
+        "counter_press": { "USA": "19%", "Paraguay": "11%" }
+      }
+    },
+    "line_breaks": {
+      "USA": {
+        "total_attempted": 170, "total_completed": 129,
+        "by_units": { "4_units": { "attempted": 7, "completed": 4 }, "3_units": { "attempted": 98, "completed": 76 }, "2_units": { "attempted": 65, "completed": 53 } },
+        "by_shape": { "inside_shape": { "attempted": 84, "completed": 46 }, "outside_shape": { "attempted": 52, "completed": 24 } },
+        "by_direction": { "through": { "attempted": 41, "completed": 34 }, "around": { "attempted": 76, "completed": 71 }, "over": { "attempted": 53, "completed": 24 } }
+      },
+      "Paraguay": {
+        "total_attempted": 100, "total_completed": 53,
+        "by_units": { "4_units": { "attempted": 6, "completed": 4 }, "3_units": { "attempted": 65, "completed": 31 }, "2_units": { "attempted": 29, "completed": 13 } },
+        "by_shape": { "inside_shape": { "attempted": 47, "completed": 18 }, "outside_shape": { "attempted": 18, "completed": 4 } },
+        "by_direction": { "through": { "attempted": 15, "completed": 13 }, "around": { "attempted": 31, "completed": 27 }, "over": { "attempted": 54, "completed": 13 } }
+      }
+    },
+    "offering_to_receive": {
+      "USA": { "total_offers_made": 471, "total_offers_received": 160, "by_third": { "defensive_third": 39, "middle_third": 245, "final_third": 187 }, "by_shape": { "inside_shape": 218, "outside_shape": 253 } },
+      "Paraguay": { "total_offers_made": 204, "total_offers_received": 73, "by_third": { "defensive_third": 53, "middle_third": 112, "final_third": 39 }, "by_shape": { "inside_shape": 99, "outside_shape": 105 } }
+    },
+    "defensive_actions": {
+      "forced_turnovers": { "USA": 50, "Paraguay": 49 },
+      "possession_regained": { "USA": 47, "Paraguay": 52 },
+      "interceptions": { "USA": 7, "Paraguay": 8 },
+      "tackles": { "USA": 20, "Paraguay": 57 }
+    },
+    "defensive_pressure": {
+      "total_pressures": { "USA": 204, "Paraguay": 360 },
+      "direct_pressures": { "USA": 39, "Paraguay": 75 },
+      "ball_recovery_time": { "USA": "11.23s", "Paraguay": "17.37s" }
+    }
+  }
+}

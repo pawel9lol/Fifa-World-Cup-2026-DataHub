@@ -1,0 +1,99 @@
+{
+  "match_info": { "match_id_or_code": "M06", "teams": { "home": "Australia", "away": "Türkiye" } },
+  "individual_player_data": {
+    "Australia": [
+      {
+        "player": "Alessandro CIRCATI",
+        "in_possession": { "passes_attempted": 31, "passes_completed": 25, "pass_completion_pct": "81%", "line_breaks_completed": 8, "attempts_at_goal": 1, "goals": 0, "offers_and_receptions": { "total_offers_made": 10, "offers_received": 6 } },
+        "out_of_possession": { "tackles_made_won": "2/1", "blocks": 6, "interceptions": 2, "possession_regains": 8 },
+        "physical_data": { "total_distance_m": 10618.9, "high_speed_runs": 88.0, "sprints": 29.0, "top_speed_kmh": 27.0 }
+      },
+      {
+        "player": "Jordan BOS",
+        "in_possession": { "passes_attempted": 24, "passes_completed": 22, "pass_completion_pct": "92%", "line_breaks_completed": 6, "attempts_at_goal": 2, "goals": 0, "offers_and_receptions": { "total_offers_made": 23, "offers_received": 11 } },
+        "out_of_possession": { "tackles_made_won": "2/0", "blocks": 2, "interceptions": 0, "possession_regains": 0 },
+        "physical_data": { "total_distance_m": 9800.9, "high_speed_runs": 103.0, "sprints": 53.0, "top_speed_kmh": 36.7 }
+      },
+      {
+        "player": "Connor METCALFE",
+        "in_possession": { "passes_attempted": 16, "passes_completed": 11, "pass_completion_pct": "69%", "line_breaks_completed": 5, "attempts_at_goal": 1, "goals": 1, "offers_and_receptions": { "total_offers_made": 38, "offers_received": 10 } },
+        "out_of_possession": { "tackles_made_won": "3/0", "blocks": 7, "interceptions": 0, "possession_regains": 3 },
+        "physical_data": { "total_distance_m": 11558.1, "high_speed_runs": 150.0, "sprints": 49.0, "top_speed_kmh": 29.5 }
+      },
+      {
+        "player": "Aiden ONEILL",
+        "in_possession": { "passes_attempted": 32, "passes_completed": 26, "pass_completion_pct": "81%", "line_breaks_completed": 6, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 28, "offers_received": 11 } },
+        "out_of_possession": { "tackles_made_won": "4/0", "blocks": 2, "interceptions": 0, "possession_regains": 0 },
+        "physical_data": { "total_distance_m": 12360.6, "high_speed_runs": 176.0, "sprints": 44.0, "top_speed_kmh": 32.8 }
+      },
+      {
+        "player": "Nestory IRANKUNDA",
+        "in_possession": { "passes_attempted": 7, "passes_completed": 5, "pass_completion_pct": "71%", "line_breaks_completed": 0, "attempts_at_goal": 2, "goals": 1, "offers_and_receptions": { "total_offers_made": 10, "offers_received": 3 } },
+        "out_of_possession": { "tackles_made_won": "0/0", "blocks": 11, "interceptions": 0, "possession_regains": 0 },
+        "physical_data": { "total_distance_m": 6387.2, "high_speed_runs": 61.0, "sprints": 22.0, "top_speed_kmh": 33.6 }
+      },
+      {
+        "player": "Cameron BURGESS",
+        "in_possession": { "passes_attempted": 41, "passes_completed": 38, "pass_completion_pct": "93%", "line_breaks_completed": 8, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 8, "offers_received": 3 } },
+        "out_of_possession": { "tackles_made_won": "6/5", "blocks": 1, "interceptions": 0, "possession_regains": 6 },
+        "physical_data": { "total_distance_m": 10269.0, "high_speed_runs": 92.0, "sprints": 21.0, "top_speed_kmh": 34.2 }
+      },
+      {
+        "player": "Paul OKON-ENGSTLER",
+        "in_possession": { "passes_attempted": 38, "passes_completed": 31, "pass_completion_pct": "82%", "line_breaks_completed": 7, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 30, "offers_received": 14 } },
+        "out_of_possession": { "tackles_made_won": "5/1", "blocks": 5, "interceptions": 3, "possession_regains": 8 },
+        "physical_data": { "total_distance_m": 10751.5, "high_speed_runs": 130.0, "sprints": 41.0, "top_speed_kmh": 29.9 }
+      }
+    ],
+    "Türkiye": [
+      {
+        "player": "Zeki CELIK",
+        "in_possession": { "passes_attempted": 35, "passes_completed": 33, "pass_completion_pct": "94%", "line_breaks_completed": 5, "attempts_at_goal": 1, "goals": 0, "offers_and_receptions": { "total_offers_made": 58, "offers_received": 16 } },
+        "out_of_possession": { "tackles_made_won": "4/0", "blocks": 1, "interceptions": 0, "possession_regains": 6 },
+        "physical_data": { "total_distance_m": 9541.5, "high_speed_runs": 118.0, "sprints": 47.0, "top_speed_kmh": 34.7 }
+      },
+      {
+        "player": "Orkun KOKCU",
+        "in_possession": { "passes_attempted": 39, "passes_completed": 31, "pass_completion_pct": "79%", "line_breaks_completed": 6, "attempts_at_goal": 1, "goals": 0, "offers_and_receptions": { "total_offers_made": 71, "offers_received": 21 } },
+        "out_of_possession": { "tackles_made_won": "3/0", "blocks": 1, "interceptions": 1, "possession_regains": 3 },
+        "physical_data": { "total_distance_m": 7613.1, "high_speed_runs": 79.0, "sprints": 30.0, "top_speed_kmh": 29.2 }
+      },
+      {
+        "player": "Arda GULER",
+        "in_possession": { "passes_attempted": 74, "passes_completed": 70, "pass_completion_pct": "95%", "line_breaks_completed": 22, "attempts_at_goal": 8, "goals": 0, "offers_and_receptions": { "total_offers_made": 116, "offers_received": 45 } },
+        "out_of_possession": { "tackles_made_won": "5/0", "blocks": 1, "interceptions": 0, "possession_regains": 0 },
+        "physical_data": { "total_distance_m": 10811.0, "high_speed_runs": 128.0, "sprints": 39.0, "top_speed_kmh": 28.7 }
+      },
+      {
+        "player": "Hakan CALHANOGLU",
+        "in_possession": { "passes_attempted": 103, "passes_completed": 94, "pass_completion_pct": "91%", "line_breaks_completed": 21, "attempts_at_goal": 5, "goals": 0, "offers_and_receptions": { "total_offers_made": 44, "offers_received": 19 } },
+        "out_of_possession": { "tackles_made_won": "2/0", "blocks": 1, "interceptions": 2, "possession_regains": 0 },
+        "physical_data": { "total_distance_m": 11710.0, "high_speed_runs": 147.0, "sprints": 35.0, "top_speed_kmh": 29.2 }
+      },
+      {
+        "player": "Abdulkerim BARDAKCI",
+        "in_possession": { "passes_attempted": 95, "passes_completed": 90, "pass_completion_pct": "95%", "line_breaks_completed": 16, "attempts_at_goal": 1, "goals": 0, "offers_and_receptions": { "total_offers_made": 9, "offers_received": 6 } },
+        "out_of_possession": { "tackles_made_won": "7/1", "blocks": 2, "interceptions": 0, "possession_regains": 6 },
+        "physical_data": { "total_distance_m": 9876.3, "high_speed_runs": 78.0, "sprints": 34.0, "top_speed_kmh": 28.4 }
+      },
+      {
+        "player": "Ismail YUKSEK",
+        "in_possession": { "passes_attempted": 57, "passes_completed": 54, "pass_completion_pct": "95%", "line_breaks_completed": 7, "attempts_at_goal": 3, "goals": 0, "offers_and_receptions": { "total_offers_made": 18, "offers_received": 7 } },
+        "out_of_possession": { "tackles_made_won": "7/3", "blocks": 4, "interceptions": 1, "possession_regains": 7 },
+        "physical_data": { "total_distance_m": 8788.0, "high_speed_runs": 79.0, "sprints": 19.0, "top_speed_kmh": 32.3 }
+      },
+      {
+        "player": "Ferdi KADIOGLU",
+        "in_possession": { "passes_attempted": 109, "passes_completed": 103, "pass_completion_pct": "94%", "line_breaks_completed": 35, "attempts_at_goal": 1, "goals": 0, "offers_and_receptions": { "total_offers_made": 45, "offers_received": 24 } },
+        "out_of_possession": { "tackles_made_won": "0/0", "blocks": 1, "interceptions": 2, "possession_regains": 4 },
+        "physical_data": { "total_distance_m": 10570.2, "high_speed_runs": 118.0, "sprints": 57.0, "top_speed_kmh": 32.1 }
+      },
+      {
+        "player": "Kenan YILDIZ",
+        "in_possession": { "passes_attempted": 43, "passes_completed": 38, "pass_completion_pct": "88%", "line_breaks_completed": 7, "attempts_at_goal": 6, "goals": 0, "offers_and_receptions": { "total_offers_made": 30, "offers_received": 12 } },
+        "out_of_possession": { "tackles_made_won": "0/0", "blocks": 3, "interceptions": 0, "possession_regains": 1 },
+        "physical_data": { "total_distance_m": 5024.7, "high_speed_runs": 37.0, "sprints": 13.0, "top_speed_kmh": 28.1 }
+      }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "match_info": {
+    "match_id_or_code": "M06",
+    "date": "13 June 2026",
+    "stadium": "BC Place Vancouver",
+    "match": "Group D - Match 6",
+    "teams": { "home": "Australia", "away": "Türkiye" }
+  },
+  "team_statistics": {
+    "phases_of_play": {
+      "in_possession_pct": { "Australia": "27%", "Türkiye": "62.9%" },
+      "in_possession_details": {
+        "build_up_unopposed": { "Australia": "20%", "Türkiye": "19%" },
+        "build_up_opposed": { "Australia": "13%", "Türkiye": "21%" },
+        "progression": { "Australia": "11%", "Türkiye": "34%" },
+        "final_third": { "Australia": "12%", "Türkiye": "22%" },
+        "long_ball": { "Australia": "9%", "Türkiye": "1%" },
+        "attacking_transition": { "Australia": "22%", "Türkiye": "7%" },
+        "counter_attack": { "Australia": "1%", "Türkiye": "2%" },
+        "set_piece": { "Australia": "9%", "Türkiye": "7%" }
+      },
+      "out_of_possession_pct": { "Australia": "56%", "Türkiye": "9%" },
+      "out_of_possession_details": {
+        "high_press": { "Australia": "1%", "Türkiye": "11%" },
+        "mid_press": { "Australia": "2%", "Türkiye": "4%" },
+        "low_press": { "Australia": "0%", "Türkiye": "1%" },
+        "high_block": { "Australia": "1%", "Türkiye": "6%" },
+        "mid_block": { "Australia": "18%", "Türkiye": "7%" },
+        "low_block": { "Australia": "56%", "Türkiye": "9%" },
+        "recovery": { "Australia": "4%", "Türkiye": "5%" },
+        "defensive_transition": { "Australia": "7%", "Türkiye": "22%" },
+        "counter_press": { "Australia": "6%", "Türkiye": "14%" }
+      }
+    },
+    "line_breaks": {
+      "Australia": {
+        "total_attempted": 97, "total_completed": 56,
+        "by_units": { "4_units": { "attempted": 6, "completed": 3 }, "3_units": { "attempted": 59, "completed": 31 }, "2_units": { "attempted": 32, "completed": 25 } },
+        "by_shape": { "inside_shape": { "attempted": 3, "completed": 3 }, "outside_shape": { "attempted": 59, "completed": 28 } },
+        "by_direction": { "through": { "attempted": 16, "completed": 10 }, "around": { "attempted": 30, "completed": 26 }, "over": { "attempted": 51, "completed": 20 } }
+      },
+      "Türkiye": {
+        "total_attempted": 166, "total_completed": 132,
+        "by_units": { "4_units": { "attempted": 4, "completed": 1 }, "3_units": { "attempted": 49, "completed": 21 }, "2_units": { "attempted": 113, "completed": 51 } },
+        "by_shape": { "inside_shape": { "attempted": 1, "completed": 3 }, "outside_shape": { "attempted": 49, "completed": 33 } },
+        "by_direction": { "through": { "attempted": 39, "completed": 33 }, "around": { "attempted": 91, "completed": 85 }, "over": { "attempted": 36, "completed": 14 } }
+      }
+    },
+    "offering_to_receive": {
+      "Australia": { "total_offers_made": 193, "total_offers_received": 74, "by_third": { "defensive_third": 53, "middle_third": 70, "final_third": 70 }, "by_shape": { "inside_shape": 88, "outside_shape": 105 } },
+      "Türkiye": { "total_offers_made": 533, "total_offers_received": 190, "by_third": { "defensive_third": 24, "middle_third": 233, "final_third": 136 }, "by_shape": { "inside_shape": 300, "outside_shape": 373 } }
+    },
+    "defensive_actions": {
+      "forced_turnovers": { "Australia": 35, "Türkiye": 30 },
+      "possession_regained": { "Australia": 48, "Türkiye": 33 },
+      "interceptions": { "Australia": 34, "Türkiye": 32 },
+      "tackles": { "Australia": 1.76, "Türkiye": 7.3 }
+    },
+    "defensive_pressure": {
+      "total_pressures": { "Australia": 384, "Türkiye": 170 },
+      "direct_pressures": { "Australia": 57, "Türkiye": 31 },
+      "ball_recovery_time": { "Australia": "23.57s", "Türkiye": "10.66s" }
+    }
+  }
+}

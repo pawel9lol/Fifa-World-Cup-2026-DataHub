@@ -1,0 +1,65 @@
+{
+  "match_info": {
+    "match_id_or_code": "M27",
+    "date": "18 June 2026",
+    "stadium": "BC Place Vancouver",
+    "match": "Group B - Match 27",
+    "teams": { "home": "Canada", "away": "Qatar" }
+  },
+  "team_statistics": {
+    "phases_of_play": {
+      "in_possession_pct": { "Canada": "53%", "Qatar": "39%" },
+      "in_possession_details": {
+        "build_up_unopposed": { "Canada": "39%", "Qatar": "22%" },
+        "build_up_opposed": { "Canada": "12%", "Qatar": "11%" },
+        "progression": { "Canada": "23%", "Qatar": "8%" },
+        "final_third": { "Canada": "12%", "Qatar": "1%" },
+        "long_ball": { "Canada": "0%", "Qatar": "9%" },
+        "attacking_transition": { "Canada": "9%", "Qatar": "13%" },
+        "counter_attack": { "Canada": "1%", "Qatar": "1%" },
+        "set_piece": { "Canada": "12%", "Qatar": "6%" }
+      },
+      "out_of_possession_pct": { "Canada": "22%", "Qatar": "56%" },
+      "out_of_possession_details": {
+        "high_press": { "Canada": "8%", "Qatar": "0%" },
+        "mid_press": { "Canada": "3%", "Qatar": "0%" },
+        "low_press": { "Canada": "0%", "Qatar": "1%" },
+        "high_block": { "Canada": "6%", "Qatar": "0%" },
+        "mid_block": { "Canada": "18%", "Qatar": "6%" },
+        "low_block": { "Canada": "1%", "Qatar": "4%" },
+        "recovery": { "Canada": "4%", "Qatar": "5%" },
+        "defensive_transition": { "Canada": "22%", "Qatar": "9%" },
+        "counter_press": { "Canada": "15%", "Qatar": "7%" }
+      }
+    },
+    "line_breaks": {
+      "Canada": {
+        "total_attempted": 151, "total_completed": 107,
+        "by_units": { "4_units": { "attempted": 0, "completed": 0 }, "3_units": { "attempted": 9, "completed": 7 }, "2_units": { "attempted": 142, "completed": 100 } },
+        "by_shape": { "inside_shape": { "attempted": 42, "completed": 2 }, "outside_shape": { "attempted": 100, "completed": 7 } },
+        "by_direction": { "through": { "attempted": 16, "completed": 13 }, "around": { "attempted": 107, "completed": 104 }, "over": { "attempted": 28, "completed": 14 } }
+      },
+      "Qatar": {
+        "total_attempted": 63, "total_completed": 12,
+        "by_units": { "4_units": { "attempted": 2, "completed": 0 }, "3_units": { "attempted": 45, "completed": 7 }, "2_units": { "attempted": 16, "completed": 5 } },
+        "by_shape": { "inside_shape": { "attempted": 34, "completed": 12 }, "outside_shape": { "attempted": 11, "completed": 4 } },
+        "by_direction": { "through": { "attempted": 6, "completed": 4 }, "around": { "attempted": 12, "completed": 7 }, "over": { "attempted": 45, "completed": 12 } }
+      }
+    },
+    "offering_to_receive": {
+      "Canada": { "total_offers_made": 502, "total_offers_received": 184, "by_third": { "defensive_third": 18, "middle_third": 310, "final_third": 71 }, "by_shape": { "inside_shape": 192, "outside_shape": 413 } },
+      "Qatar": { "total_offers_made": 94, "total_offers_received": 26, "by_third": { "defensive_third": 20, "middle_third": 64, "final_third": 30 }, "by_shape": { "inside_shape": 58, "outside_shape": 16 } }
+    },
+    "defensive_actions": {
+      "forced_turnovers": { "Canada": 31, "Qatar": 23 },
+      "possession_regained": { "Canada": 26, "Qatar": 38 },
+      "interceptions": { "Canada": 16, "Qatar": 29 },
+      "tackles": { "Canada": 12.23, "Qatar": 0.92 }
+    },
+    "defensive_pressure": {
+      "total_pressures": { "Canada": 107, "Qatar": 274 },
+      "direct_pressures": { "Canada": 27, "Qatar": 43 },
+      "ball_recovery_time": { "Canada": "8.44s", "Qatar": "21.02s" }
+    }
+  }
+}

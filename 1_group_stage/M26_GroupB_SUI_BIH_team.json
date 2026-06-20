@@ -1,0 +1,178 @@
+{
+  "match_info": {
+    "match_id_or_code": "M26",
+    "date": "18 June 2026",
+    "stadium": "Los Angeles Stadium",
+    "match": "Group B - Match 26",
+    "teams": {
+      "home": "Switzerland",
+      "away": "Bosnia and Herzegovina"
+    }
+  },
+  "team_statistics": {
+    "phases_of_play": {
+      "in_possession_pct": {
+        "Switzerland": "57.8%",
+        "Bosnia_and_Herzegovina": "34.1%"
+      },
+      "in_possession_details": {
+        "build_up_unopposed": { "Switzerland": "39%", "Bosnia_and_Herzegovina": "38%" },
+        "build_up_opposed": { "Switzerland": "19%", "Bosnia_and_Herzegovina": "14%" },
+        "progression": { "Switzerland": "20%", "Bosnia_and_Herzegovina": "15%" },
+        "final_third": { "Switzerland": "21%", "Bosnia_and_Herzegovina": "11%" },
+        "long_ball": { "Switzerland": "3%", "Bosnia_and_Herzegovina": "6%" },
+        "attacking_transition": { "Switzerland": "9%", "Bosnia_and_Herzegovina": "16%" },
+        "counter_attack": { "Switzerland": "1%", "Bosnia_and_Herzegovina": "2%" },
+        "set_piece": { "Switzerland": "7%", "Bosnia_and_Herzegovina": "6%" }
+      },
+      "out_of_possession_pct": {
+        "Switzerland": "34.1%",
+        "Bosnia_and_Herzegovina": "57.8%"
+      },
+      "out_of_possession_details": {
+        "high_press": { "Switzerland": "10%", "Bosnia_and_Herzegovina": "7%" },
+        "mid_press": { "Switzerland": "4%", "Bosnia_and_Herzegovina": "5%" },
+        "low_press": { "Switzerland": "1%", "Bosnia_and_Herzegovina": "0%" },
+        "high_block": { "Switzerland": "7%", "Bosnia_and_Herzegovina": "5%" },
+        "mid_block": { "Switzerland": "21%", "Bosnia_and_Herzegovina": "14%" },
+        "low_block": { "Switzerland": "10%", "Bosnia_and_Herzegovina": "29%" },
+        "recovery": { "Switzerland": "6%", "Bosnia_and_Herzegovina": "4%" },
+        "defensive_transition": { "Switzerland": "16%", "Bosnia_and_Herzegovina": "9%" },
+        "counter_press": { "Switzerland": "11%", "Bosnia_and_Herzegovina": "7%" }
+      }
+    },
+    "line_breaks": {
+      "Switzerland": {
+        "total_attempted": 156,
+        "total_completed": 115,
+        "by_units": {
+          "4_units": { "attempted": 10, "completed": 6 },
+          "3_units": { "attempted": 94, "completed": 51 },
+          "2_units": { "attempted": 52, "completed": 27 }
+        },
+        "by_shape": {
+          "inside_shape": { "attempted": 112, "completed": 90 },
+          "outside_shape": { "attempted": 44, "completed": 25 }
+        },
+        "by_direction": {
+          "through": { "attempted": 35, "completed": 27 },
+          "around": { "attempted": 63, "completed": 58 },
+          "over": { "attempted": 49, "completed": 22 }
+        }
+      },
+      "Bosnia_and_Herzegovina": {
+        "total_attempted": 114,
+        "total_completed": 69,
+        "by_units": {
+          "4_units": { "attempted": 7, "completed": 6 },
+          "3_units": { "attempted": 74, "completed": 46 },
+          "2_units": { "attempted": 33, "completed": 13 }
+        },
+        "by_shape": {
+          "inside_shape": { "attempted": 72, "completed": 54 },
+          "outside_shape": { "attempted": 42, "completed": 15 }
+        },
+        "by_direction": {
+          "through": { "attempted": 27, "completed": 19 },
+          "around": { "attempted": 40, "completed": 38 },
+          "over": { "attempted": 47, "completed": 12 }
+        }
+      }
+    },
+    "offering_to_receive": {
+      "Switzerland": {
+        "total_offers_made": 464,
+        "total_offers_received": 152,
+        "by_third": {
+          "defensive_third": 193,
+          "middle_third": 271,
+          "final_third": 214
+        },
+        "by_shape": {
+          "inside_shape": 171,
+          "outside_shape": 205
+        }
+      },
+      "Bosnia_and_Herzegovina": {
+        "total_offers_made": 205,
+        "total_offers_received": 84,
+        "by_third": {
+          "defensive_third": 109,
+          "middle_third": 96,
+          "final_third": 79
+        },
+        "by_shape": {
+          "inside_shape": 54,
+          "outside_shape": 72
+        }
+      }
+    },
+    "movement_to_receive": {
+      "Switzerland": {
+        "total_movements": 369,
+        "by_type": {
+          "in_front": 114,
+          "in_between": 94,
+          "out_to_in": 11,
+          "in_to_out": 12,
+          "in_behind": 138
+        },
+        "by_phase": {
+          "build_up_phase": { "total": 228, "in_front": 94, "in_between": 55, "out_to_in": 8, "in_to_out": 9, "in_behind": 62 },
+          "progression_phase": { "total": 136, "in_front": 17, "in_between": 42, "out_to_in": 1, "in_to_out": 2, "in_behind": 72 },
+          "final_third_phase": { "total": 118, "in_front": 20, "in_between": 27, "out_to_in": 2, "in_to_out": 1, "in_behind": 67 }
+        },
+        "by_pitch_third": {
+          "defensive_third": { "in_front": 35, "in_between": 13, "out_to_in": 1, "in_to_out": 0, "in_behind": 0 },
+          "middle_third": { "in_front": 56, "in_between": 38, "out_to_in": 8, "in_to_out": 7, "in_behind": 20 },
+          "final_third": { "in_front": 23, "in_between": 43, "out_to_in": 2, "in_to_out": 5, "in_behind": 118 }
+        }
+      },
+      "Bosnia_and_Herzegovina": {
+        "total_movements": 145,
+        "by_type": {
+          "in_front": 53,
+          "in_between": 38,
+          "out_to_in": 2,
+          "in_to_out": 5,
+          "in_behind": 47
+        },
+        "by_phase": {
+          "build_up_phase": { "total": 70, "in_front": 39, "in_between": 16, "out_to_in": 0, "in_to_out": 2, "in_behind": 13 },
+          "progression_phase": { "total": 58, "in_front": 13, "in_between": 19, "out_to_in": 2, "in_to_out": 1, "in_behind": 26 },
+          "final_third_phase": { "total": 27, "in_front": 5, "in_between": 5, "out_to_in": 0, "in_to_out": 1, "in_behind": 15 }
+        },
+        "by_pitch_third": {
+          "defensive_third": { "in_front": 27, "in_between": 6, "out_to_in": 2, "in_to_out": 1, "in_behind": 0 },
+          "middle_third": { "in_front": 22, "in_between": 22, "out_to_in": 0, "in_to_out": 2, "in_behind": 6 },
+          "final_third": { "in_front": 4, "in_between": 10, "out_to_in": 0, "in_to_out": 2, "in_behind": 41 }
+        }
+      }
+    },
+    "defensive_actions": {
+      "forced_turnovers": { "Switzerland": 46, "Bosnia_and_Herzegovina": 42 },
+      "possession_regained": { "Switzerland": 34, "Bosnia_and_Herzegovina": 46 },
+      "interceptions": { "Switzerland": 13, "Bosnia_and_Herzegovina": 22 },
+      "tackles": { "Switzerland": 31, "Bosnia_and_Herzegovina": 19 },
+      "possession_actions_per_defensive_action": { "Switzerland": 6.62, "Bosnia_and_Herzegovina": 3.27 }
+    },
+    "defensive_contests_and_duels": {
+      "clearances": { "Switzerland": 15, "Bosnia_and_Herzegovina": 25 },
+      "blocks": { "Switzerland": 3, "Bosnia_and_Herzegovina": 6 },
+      "possession_contests": { "Switzerland": 33, "Bosnia_and_Herzegovina": 37 },
+      "physical_duels": { "Switzerland": 2, "Bosnia_and_Herzegovina": 2 },
+      "aerial_duels": { "Switzerland": 11, "Bosnia_and_Herzegovina": 11 },
+      "total_duels": { "Switzerland": 20, "Bosnia_and_Herzegovina": 24 }
+    },
+    "defensive_pressure": {
+      "total_pressures": { "Switzerland": 234, "Bosnia_and_Herzegovina": 339 },
+      "direct_pressures": { "Switzerland": 40, "Bosnia_and_Herzegovina": 48 },
+      "avg_pressure_duration": { "Switzerland": "1.55s", "Bosnia_and_Herzegovina": "1.42s" },
+      "ball_recovery_time": { "Switzerland": "12.87s", "Bosnia_and_Herzegovina": "18.4s" },
+      "pushing_on_into_pressing": { "Switzerland": 103, "Bosnia_and_Herzegovina": 154 },
+      "pushing_on": { "Switzerland": 211, "Bosnia_and_Herzegovina": 342 },
+      "pressing_direction_inside": { "Switzerland": 35, "Bosnia_and_Herzegovina": 54 },
+      "pressing_direction_outside": { "Switzerland": 128, "Bosnia_and_Herzegovina": 200 }
+    }
+  }
+}

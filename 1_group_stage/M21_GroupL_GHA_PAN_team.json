@@ -1,0 +1,65 @@
+{
+  "match_info": {
+    "match_id_or_code": "M21",
+    "date": "17 June 2026",
+    "stadium": "Toronto Stadium",
+    "match": "Group L - Match 21",
+    "teams": { "home": "Ghana", "away": "Panama" }
+  },
+  "team_statistics": {
+    "phases_of_play": {
+      "in_possession_pct": { "Ghana": "35.6%", "Panama": "55.5%" },
+      "in_possession_details": {
+        "build_up_unopposed": { "Ghana": "35%", "Panama": "46%" },
+        "build_up_opposed": { "Ghana": "18%", "Panama": "12%" },
+        "progression": { "Ghana": "17%", "Panama": "17%" },
+        "final_third": { "Ghana": "9%", "Panama": "13%" },
+        "long_ball": { "Ghana": "14%", "Panama": "3%" },
+        "attacking_transition": { "Ghana": "11%", "Panama": "10%" },
+        "counter_attack": { "Ghana": "2%", "Panama": "1%" },
+        "set_piece": { "Ghana": "7%", "Panama": "5%" }
+      },
+      "out_of_possession_pct": { "Ghana": "55.5%", "Panama": "35.6%" },
+      "out_of_possession_details": {
+        "high_press": { "Ghana": "5%", "Panama": "2%" },
+        "mid_press": { "Ghana": "3%", "Panama": "4%" },
+        "low_press": { "Ghana": "1%", "Panama": "1%" },
+        "high_block": { "Ghana": "4%", "Panama": "4%" },
+        "mid_block": { "Ghana": "36%", "Panama": "23%" },
+        "low_block": { "Ghana": "17%", "Panama": "22%" },
+        "recovery": { "Ghana": "3%", "Panama": "5%" },
+        "defensive_transition": { "Ghana": "10%", "Panama": "10%" },
+        "counter_press": { "Ghana": "8%", "Panama": "13%" }
+      }
+    },
+    "line_breaks": {
+      "Ghana": {
+        "total_attempted": 108, "total_completed": 62,
+        "by_units": { "4_units": { "attempted": 1, "completed": 1 }, "3_units": { "attempted": 62, "completed": 38 }, "2_units": { "attempted": 45, "completed": 23 } },
+        "by_shape": { "inside_shape": { "attempted": 0, "completed": 22 }, "outside_shape": { "attempted": 1, "completed": 18 } },
+        "by_direction": { "through": { "attempted": 22, "completed": 18 }, "around": { "attempted": 36, "completed": 26 }, "over": { "attempted": 50, "completed": 26 } }
+      },
+      "Panama": {
+        "total_attempted": 156, "total_completed": 129,
+        "by_units": { "4_units": { "attempted": 3, "completed": 1 }, "3_units": { "attempted": 129, "completed": 65 }, "2_units": { "attempted": 24, "completed": 64 } },
+        "by_shape": { "inside_shape": { "attempted": 65, "completed": 64 }, "outside_shape": { "attempted": 64, "completed": 58 } },
+        "by_direction": { "through": { "attempted": 32, "completed": 26 }, "around": { "attempted": 64, "completed": 58 }, "over": { "attempted": 60, "completed": 27 } }
+      }
+    },
+    "offering_to_receive": {
+      "Ghana": { "total_offers_made": 226, "total_offers_received": 81, "by_third": { "defensive_third": 112, "middle_third": 115, "final_third": 114 }, "by_shape": { "inside_shape": 80, "outside_shape": 115 } },
+      "Panama": { "total_offers_made": 424, "total_offers_received": 148, "by_third": { "defensive_third": 237, "middle_third": 150, "final_third": 199 }, "by_shape": { "inside_shape": 150, "outside_shape": 187 } }
+    },
+    "defensive_actions": {
+      "forced_turnovers": { "Ghana": 49, "Panama": 48 },
+      "possession_regained": { "Ghana": 51, "Panama": 52 },
+      "interceptions": { "Ghana": 31, "Panama": 10 },
+      "tackles": { "Ghana": 3.35, "Panama": 4.75 }
+    },
+    "defensive_pressure": {
+      "total_pressures": { "Ghana": 294, "Panama": 201 },
+      "direct_pressures": { "Ghana": 60, "Panama": 62 },
+      "ball_recovery_time": { "Ghana": "22.37s", "Panama": "12.16s" }
+    }
+  }
+}

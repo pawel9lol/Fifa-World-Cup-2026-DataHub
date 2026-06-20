@@ -1,0 +1,105 @@
+{
+  "match_info": { "match_id_or_code": "M22", "teams": { "home": "England", "away": "Croatia" } },
+  "individual_player_data": {
+    "England": [
+      {
+        "player": "Ezri KONSA",
+        "in_possession": { "passes_attempted": 70, "passes_completed": 66, "pass_completion_pct": "94%", "line_breaks_completed": 13, "attempts_at_goal": 2, "offers_and_receptions": { "total_offers_made": 15, "offers_received": 7 } },
+        "out_of_possession": { "tackles_made_won": "1/1", "blocks": 1, "interceptions": 2, "possession_regains": 7 },
+        "physical_data": { "total_distance_m": 10244.1, "high_speed_runs": 119.0, "sprints": 34.0, "top_speed_kmh": 27.6 }
+      },
+      {
+        "player": "John STONES",
+        "in_possession": { "passes_attempted": 64, "passes_completed": 60, "pass_completion_pct": "94%", "line_breaks_completed": 10, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 4, "offers_received": 3 } },
+        "out_of_possession": { "tackles_made_won": "2/1", "blocks": 3, "interceptions": 0, "possession_regains": 4 },
+        "physical_data": { "total_distance_m": 9455.6, "high_speed_runs": 121.0, "sprints": 35.0, "top_speed_kmh": 27.5 }
+      },
+      {
+        "player": "Elliot ANDERSON",
+        "in_possession": { "passes_attempted": 52, "passes_completed": 47, "pass_completion_pct": "90%", "line_breaks_completed": 6, "attempts_at_goal": 1, "offers_and_receptions": { "total_offers_made": 86, "offers_received": 32 } },
+        "out_of_possession": { "tackles_made_won": "6/3", "blocks": 1, "interceptions": 1, "possession_regains": 8 },
+        "physical_data": { "total_distance_m": 12044.1, "high_speed_runs": 187.0, "sprints": 54.0, "top_speed_kmh": 29.1 }
+      },
+      {
+        "player": "Harry KANE",
+        "in_possession": { "passes_attempted": 20, "passes_completed": 14, "pass_completion_pct": "70%", "line_breaks_completed": 5, "attempts_at_goal": 7, "goals": 2, "offers_and_receptions": { "total_offers_made": 15, "offers_received": 4 } },
+        "out_of_possession": { "tackles_made_won": "1/0", "blocks": 2, "interceptions": 0, "possession_regains": 0 },
+        "physical_data": { "total_distance_m": 11480.1, "high_speed_runs": 150.0, "sprints": 44.0, "top_speed_kmh": 28.0 }
+      },
+      {
+        "player": "Jude BELLINGHAM",
+        "in_possession": { "passes_attempted": 22, "passes_completed": 18, "pass_completion_pct": "82%", "line_breaks_completed": 4, "attempts_at_goal": 3, "goals": 1, "offers_and_receptions": { "total_offers_made": 36, "offers_received": 5 } },
+        "out_of_possession": { "tackles_made_won": "3/0", "blocks": 1, "interceptions": 0, "possession_regains": 4 },
+        "physical_data": { "total_distance_m": 9139.2, "high_speed_runs": 126.0, "sprints": 58.0, "top_speed_kmh": 32.0 }
+      },
+      {
+        "player": "Reece JAMES",
+        "in_possession": { "passes_attempted": 45, "passes_completed": 39, "pass_completion_pct": "87%", "line_breaks_completed": 5, "attempts_at_goal": 1, "offers_and_receptions": { "total_offers_made": 52, "offers_received": 18 } },
+        "out_of_possession": { "tackles_made_won": "2/0", "blocks": 4, "interceptions": 0, "possession_regains": 6 },
+        "physical_data": { "total_distance_m": 10452.6, "high_speed_runs": 119.0, "sprints": 38.0, "top_speed_kmh": 31.2 }
+      },
+      {
+        "player": "Marcus RASHFORD",
+        "in_possession": { "passes_attempted": 5, "passes_completed": 3, "pass_completion_pct": "60%", "line_breaks_completed": 0, "attempts_at_goal": 1, "goals": 1, "offers_and_receptions": { "total_offers_made": 14, "offers_received": 5 } },
+        "out_of_possession": { "tackles_made_won": "0/0", "blocks": 1, "interceptions": 0, "possession_regains": 0 },
+        "physical_data": { "total_distance_m": 3064.2, "high_speed_runs": 49.0, "sprints": 19.0, "top_speed_kmh": 32.5 }
+      }
+    ],
+    "Croatia": [
+      {
+        "player": "Josip STANISIC",
+        "in_possession": { "passes_attempted": 44, "passes_completed": 40, "pass_completion_pct": "91%", "line_breaks_completed": 7, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 50, "offers_received": 16 } },
+        "out_of_possession": { "tackles_made_won": "2/0", "blocks": 4, "interceptions": 2, "possession_regains": 3 },
+        "physical_data": { "total_distance_m": 10771.1, "high_speed_runs": 120.0, "sprints": 55.0, "top_speed_kmh": 32.2 }
+      },
+      {
+        "player": "Josko GVARDIOL",
+        "in_possession": { "passes_attempted": 51, "passes_completed": 44, "pass_completion_pct": "86%", "line_breaks_completed": 16, "attempts_at_goal": 1, "offers_and_receptions": { "total_offers_made": 5, "offers_received": 3 } },
+        "out_of_possession": { "tackles_made_won": "1/0", "blocks": 2, "interceptions": 2, "possession_regains": 4 },
+        "physical_data": { "total_distance_m": 10109.5, "high_speed_runs": 113.0, "sprints": 38.0, "top_speed_kmh": 34.1 }
+      },
+      {
+        "player": "Josip SUTALO",
+        "in_possession": { "passes_attempted": 69, "passes_completed": 61, "pass_completion_pct": "88%", "line_breaks_completed": 7, "attempts_at_goal": 1, "offers_and_receptions": { "total_offers_made": 11, "offers_received": 6 } },
+        "out_of_possession": { "tackles_made_won": "2/0", "blocks": 2, "interceptions": 3, "possession_regains": 9 },
+        "physical_data": { "total_distance_m": 10489.7, "high_speed_runs": 106.0, "sprints": 29.7, "top_speed_kmh": 34.0 }
+      },
+      {
+        "player": "Luka MODRIC",
+        "in_possession": { "passes_attempted": 29, "passes_completed": 28, "pass_completion_pct": "97%", "line_breaks_completed": 5, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 21, "offers_received": 4 } },
+        "out_of_possession": { "tackles_made_won": "1/0", "blocks": 1, "interceptions": 1, "possession_regains": 2 },
+        "physical_data": { "total_distance_m": 6337.5, "high_speed_runs": 74.0, "sprints": 24.0, "top_speed_kmh": 30.7 }
+      },
+      {
+        "player": "Ivan PERISIC",
+        "in_possession": { "passes_attempted": 28, "passes_completed": 27, "pass_completion_pct": "96%", "line_breaks_completed": 2, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 30, "offers_received": 13 } },
+        "out_of_possession": { "tackles_made_won": "2/0", "blocks": 3, "interceptions": 0, "possession_regains": 1 },
+        "physical_data": { "total_distance_m": 10293.4, "high_speed_runs": 117.0, "sprints": 54.0, "top_speed_kmh": 31.2 }
+      },
+      {
+        "player": "Mario PASALIC",
+        "in_possession": { "passes_attempted": 22, "passes_completed": 20, "pass_completion_pct": "91%", "line_breaks_completed": 5, "attempts_at_goal": 1, "offers_and_receptions": { "total_offers_made": 21, "offers_received": 6 } },
+        "out_of_possession": { "tackles_made_won": "4/0", "blocks": 3, "interceptions": 1, "possession_regains": 2 },
+        "physical_data": { "total_distance_m": 8427.0, "high_speed_runs": 101.0, "sprints": 38.0, "top_speed_kmh": 31.9 }
+      },
+      {
+        "player": "Martin BATURINA",
+        "in_possession": { "passes_attempted": 31, "passes_completed": 26, "pass_completion_pct": "84%", "line_breaks_completed": 3, "attempts_at_goal": 1, "goals": 1, "offers_and_receptions": { "total_offers_made": 27, "offers_received": 9 } },
+        "out_of_possession": { "tackles_made_won": "1/1", "blocks": 11, "interceptions": 0, "possession_regains": 2 },
+        "physical_data": { "total_distance_m": 9284.5, "high_speed_runs": 146.0, "sprints": 36.0, "top_speed_kmh": 30.5 }
+      },
+      {
+        "player": "Petar SUCIC",
+        "in_possession": { "passes_attempted": 43, "passes_completed": 36, "pass_completion_pct": "84%", "line_breaks_completed": 6, "attempts_at_goal": 1, "offers_and_receptions": { "total_offers_made": 36, "offers_received": 10 } },
+        "out_of_possession": { "tackles_made_won": "6/1", "blocks": 11, "interceptions": 0, "possession_regains": 2 },
+        "physical_data": { "total_distance_m": 12300.1, "high_speed_runs": 186.0, "sprints": 63.0, "top_speed_kmh": 29.7 }
+      },
+      {
+        "player": "Petar MUSA",
+        "in_possession": { "passes_attempted": 5, "passes_completed": 4, "pass_completion_pct": "80%", "line_breaks_completed": 0, "attempts_at_goal": 1, "goals": 1, "offers_and_receptions": { "total_offers_made": 16, "offers_received": 2 } },
+        "out_of_possession": { "tackles_made_won": "3/1", "blocks": 11, "interceptions": 0, "possession_regains": 1 },
+        "physical_data": { "total_distance_m": 7570.3, "high_speed_runs": 97.0, "sprints": 31.4, "top_speed_kmh": 35.0 }
+      }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "match_info": {
+    "match_id_or_code": "M22",
+    "date": "17 June 2026",
+    "stadium": "Dallas Stadium",
+    "match": "Group L - Match 22",
+    "teams": { "home": "England", "away": "Croatia" }
+  },
+  "team_statistics": {
+    "phases_of_play": {
+      "in_possession_pct": { "England": "49%", "Croatia": "43.5%" },
+      "in_possession_details": {
+        "build_up_unopposed": { "England": "38%", "Croatia": "34%" },
+        "build_up_opposed": { "England": "19%", "Croatia": "18%" },
+        "progression": { "England": "16%", "Croatia": "16%" },
+        "final_third": { "England": "10%", "Croatia": "15%" },
+        "long_ball": { "England": "4%", "Croatia": "10%" },
+        "attacking_transition": { "England": "12%", "Croatia": "13%" },
+        "counter_attack": { "England": "1%", "Croatia": "1%" },
+        "set_piece": { "England": "6%", "Croatia": "6%" }
+      },
+      "out_of_possession_pct": { "England": "43.5%", "Croatia": "49%" },
+      "out_of_possession_details": {
+        "high_press": { "England": "6%", "Croatia": "13%" },
+        "mid_press": { "England": "5%", "Croatia": "5%" },
+        "low_press": { "England": "0%", "Croatia": "0%" },
+        "high_block": { "England": "5%", "Croatia": "16%" },
+        "mid_block": { "England": "16%", "Croatia": "10%" },
+        "low_block": { "England": "25%", "Croatia": "25%" },
+        "recovery": { "England": "4%", "Croatia": "9%" },
+        "defensive_transition": { "England": "13%", "Croatia": "12%" },
+        "counter_press": { "England": "11%", "Croatia": "8%" }
+      }
+    },
+    "line_breaks": {
+      "England": {
+        "total_attempted": 116, "total_completed": 94,
+        "by_units": { "4_units": { "attempted": 8, "completed": 5 }, "3_units": { "attempted": 68, "completed": 61 }, "2_units": { "attempted": 40, "completed": 28 } },
+        "by_shape": { "inside_shape": { "attempted": 9, "completed": 4 }, "outside_shape": { "attempted": 26, "completed": 16 } },
+        "by_direction": { "through": { "attempted": 32, "completed": 27 }, "around": { "attempted": 29, "completed": 21 }, "over": { "attempted": 51, "completed": 45 } }
+      },
+      "Croatia": {
+        "total_attempted": 125, "total_completed": 61,
+        "by_units": { "4_units": { "attempted": 5, "completed": 3 }, "3_units": { "attempted": 61, "completed": 41 }, "2_units": { "attempted": 59, "completed": 20 } },
+        "by_shape": { "inside_shape": { "attempted": 11, "completed": 24 }, "outside_shape": { "attempted": 26, "completed": 22 } },
+        "by_direction": { "through": { "attempted": 27, "completed": 19 }, "around": { "attempted": 42, "completed": 40 }, "over": { "attempted": 60, "completed": 27 } }
+      }
+    },
+    "offering_to_receive": {
+      "England": { "total_offers_made": 399, "total_offers_received": 132, "by_third": { "defensive_third": 172, "middle_third": 227, "final_third": 189 }, "by_shape": { "inside_shape": 113, "outside_shape": 189 } },
+      "Croatia": { "total_offers_made": 280, "total_offers_received": 85, "by_third": { "defensive_third": 132, "middle_third": 148, "final_third": 130 }, "by_shape": { "inside_shape": 105, "outside_shape": 148 } }
+    },
+    "defensive_actions": {
+      "forced_turnovers": { "England": 36, "Croatia": 35 },
+      "possession_regained": { "England": 49, "Croatia": 37 },
+      "interceptions": { "England": 20, "Croatia": 11 },
+      "tackles": { "England": 6.18, "Croatia": 4.32 }
+    },
+    "defensive_pressure": {
+      "total_pressures": { "England": 262, "Croatia": 295 },
+      "direct_pressures": { "England": 38, "Croatia": 50 },
+      "ball_recovery_time": { "England": "18.03s", "Croatia": "17.07s" }
+    }
+  }
+}

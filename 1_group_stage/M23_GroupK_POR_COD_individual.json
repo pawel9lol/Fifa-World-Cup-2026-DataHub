@@ -1,0 +1,105 @@
+{
+  "match_info": { "match_id_or_code": "M23", "teams": { "home": "Portugal", "away": "Congo DR" } },
+  "individual_player_data": {
+    "Portugal": [
+      {
+        "player": "TOMAS ARAUJO",
+        "in_possession": { "passes_attempted": 102, "passes_completed": 98, "pass_completion_pct": "96%", "line_breaks_completed": 32, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 11, "offers_received": 7 } },
+        "out_of_possession": { "tackles_made_won": "0/0", "blocks": 2, "interceptions": 2, "possession_regains": 6 },
+        "physical_data": { "total_distance_m": 10213.3, "high_speed_runs": 113.0, "sprints": 39.0, "top_speed_kmh": 29.4 }
+      },
+      {
+        "player": "BRUNO FERNANDES",
+        "in_possession": { "passes_attempted": 78, "passes_completed": 68, "pass_completion_pct": "87%", "line_breaks_completed": 12, "attempts_at_goal": 2, "offers_and_receptions": { "total_offers_made": 76, "offers_received": 27 } },
+        "out_of_possession": { "tackles_made_won": "6/2", "blocks": 2, "interceptions": 0, "possession_regains": 2 },
+        "physical_data": { "total_distance_m": 10584.9, "high_speed_runs": 115.0, "sprints": 42.0, "top_speed_kmh": 31.2 }
+      },
+      {
+        "player": "RENATO VEIGA",
+        "in_possession": { "passes_attempted": 89, "passes_completed": 86, "pass_completion_pct": "97%", "line_breaks_completed": 19, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 14, "offers_received": 7 } },
+        "out_of_possession": { "tackles_made_won": "0/0", "blocks": 1, "interceptions": 0, "possession_regains": 3 },
+        "physical_data": { "total_distance_m": 10073.0, "high_speed_runs": 113.0, "sprints": 31.0, "top_speed_kmh": 32.4 }
+      },
+      {
+        "player": "JOAO NEVES",
+        "in_possession": { "passes_attempted": 92, "passes_completed": 87, "pass_completion_pct": "95%", "line_breaks_completed": 14, "attempts_at_goal": 1, "goals": 1, "offers_and_receptions": { "total_offers_made": 69, "offers_received": 23 } },
+        "out_of_possession": { "tackles_made_won": "1/0", "blocks": 1, "interceptions": 4, "possession_regains": 5 },
+        "physical_data": { "total_distance_m": 11977.1, "high_speed_runs": 144.0, "sprints": 54.0, "top_speed_kmh": 29.2 }
+      },
+      {
+        "player": "PEDRO NETO",
+        "in_possession": { "passes_attempted": 43, "passes_completed": 39, "pass_completion_pct": "91%", "line_breaks_completed": 6, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 47, "offers_received": 15 } },
+        "out_of_possession": { "tackles_made_won": "1/0", "blocks": 11, "interceptions": 2, "possession_regains": 0 },
+        "physical_data": { "total_distance_m": 7636.3, "high_speed_runs": 88.0, "sprints": 47.0, "top_speed_kmh": 34.8 }
+      },
+      {
+        "player": "JOAO CANCELO",
+        "in_possession": { "passes_attempted": 75, "passes_completed": 62, "pass_completion_pct": "83%", "line_breaks_completed": 12, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 28, "offers_received": 13 } },
+        "out_of_possession": { "tackles_made_won": "6/1", "blocks": 2, "interceptions": 1, "possession_regains": 1 },
+        "physical_data": { "total_distance_m": 10754.2, "high_speed_runs": 122.0, "sprints": 49.0, "top_speed_kmh": 28.5 }
+      },
+      {
+        "player": "VITINHA",
+        "in_possession": { "passes_attempted": 129, "passes_completed": 120, "pass_completion_pct": "93%", "line_breaks_completed": 27, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 55, "offers_received": 27 } },
+        "out_of_possession": { "tackles_made_won": "5/2", "blocks": 1, "interceptions": 0, "possession_regains": 0 },
+        "physical_data": { "total_distance_m": 10224.6, "high_speed_runs": 112.0, "sprints": 42.0, "top_speed_kmh": 31.4 }
+      },
+      {
+        "player": "NUNO MENDES",
+        "in_possession": { "passes_attempted": 72, "passes_completed": 67, "pass_completion_pct": "93%", "line_breaks_completed": 9, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 37, "offers_received": 15 } },
+        "out_of_possession": { "tackles_made_won": "1/1", "blocks": 1, "interceptions": 0, "possession_regains": 4 },
+        "physical_data": { "total_distance_m": 6523.7, "high_speed_runs": 62.0, "sprints": 31.0, "top_speed_kmh": 31.5 }
+      }
+    ],
+    "Congo_DR": [
+      {
+        "player": "Aaron WAN-BISSAKA",
+        "in_possession": { "passes_attempted": 25, "passes_completed": 23, "pass_completion_pct": "92%", "line_breaks_completed": 10, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 32, "offers_received": 10 } },
+        "out_of_possession": { "tackles_made_won": "4/1", "blocks": 0, "interceptions": 1, "possession_regains": 4 },
+        "physical_data": { "total_distance_m": 9260.5, "high_speed_runs": 101.0, "sprints": 43.0, "top_speed_kmh": 31.6 }
+      },
+      {
+        "player": "Steve KAPUADI",
+        "in_possession": { "passes_attempted": 21, "passes_completed": 18, "pass_completion_pct": "86%", "line_breaks_completed": 3, "attempts_at_goal": 1, "offers_and_receptions": { "total_offers_made": 7, "offers_received": 3 } },
+        "out_of_possession": { "tackles_made_won": "1/0", "blocks": 1, "interceptions": 1, "possession_regains": 1 },
+        "physical_data": { "total_distance_m": 9955.3, "high_speed_runs": 109.0, "sprints": 26.0, "top_speed_kmh": 32.8 }
+      },
+      {
+        "player": "Samuel MOUTOUSSAMY",
+        "in_possession": { "passes_attempted": 25, "passes_completed": 21, "pass_completion_pct": "84%", "line_breaks_completed": 6, "attempts_at_goal": 2, "offers_and_receptions": { "total_offers_made": 30, "offers_received": 9 } },
+        "out_of_possession": { "tackles_made_won": "5/0", "blocks": 1, "interceptions": 0, "possession_regains": 2 },
+        "physical_data": { "total_distance_m": 12137.7, "high_speed_runs": 159.0, "sprints": 51.0, "top_speed_kmh": 29.9 }
+      },
+      {
+        "player": "Cedric BAKAMBU",
+        "in_possession": { "passes_attempted": 10, "passes_completed": 9, "pass_completion_pct": "90%", "line_breaks_completed": 0, "attempts_at_goal": 1, "offers_and_receptions": { "total_offers_made": 45, "offers_received": 11 } },
+        "out_of_possession": { "tackles_made_won": "2/0", "blocks": 2, "interceptions": 0, "possession_regains": 0 },
+        "physical_data": { "total_distance_m": 9255.1, "high_speed_runs": 114.0, "sprints": 56.0, "top_speed_kmh": 32.3 }
+      },
+      {
+        "player": "Yoane WISSA",
+        "in_possession": { "passes_attempted": 21, "passes_completed": 18, "pass_completion_pct": "86%", "line_breaks_completed": 5, "attempts_at_goal": 2, "goals": 1, "offers_and_receptions": { "total_offers_made": 24, "offers_received": 5 } },
+        "out_of_possession": { "tackles_made_won": "0/0", "blocks": 3, "interceptions": 0, "possession_regains": 2 },
+        "physical_data": { "total_distance_m": 10880.7, "high_speed_runs": 96.0, "sprints": 49.0, "top_speed_kmh": 33.4 }
+      },
+      {
+        "player": "Chancel MBEMBA",
+        "in_possession": { "passes_attempted": 31, "passes_completed": 24, "pass_completion_pct": "77%", "line_breaks_completed": 10, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 9, "offers_received": 5 } },
+        "out_of_possession": { "tackles_made_won": "2/1", "blocks": 2, "interceptions": 0, "possession_regains": 3 },
+        "physical_data": { "total_distance_m": 9189.2, "high_speed_runs": 82.0, "sprints": 33.0, "top_speed_kmh": 32.2 }
+      },
+      {
+        "player": "Edo KAYEMBE",
+        "in_possession": { "passes_attempted": 17, "passes_completed": 15, "pass_completion_pct": "88%", "line_breaks_completed": 4, "attempts_at_goal": 1, "offers_and_receptions": { "total_offers_made": 34, "offers_received": 11 } },
+        "out_of_possession": { "tackles_made_won": "7/3", "blocks": 1, "interceptions": 1, "possession_regains": 5 },
+        "physical_data": { "total_distance_m": 9203.5, "high_speed_runs": 137.0, "sprints": 43.0, "top_speed_kmh": 28.4 }
+      },
+      {
+        "player": "Arthur MASUAKU",
+        "in_possession": { "passes_attempted": 19, "passes_completed": 16, "pass_completion_pct": "84%", "line_breaks_completed": 9, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 9, "offers_received": 4 } },
+        "out_of_possession": { "tackles_made_won": "3/1", "blocks": 11, "interceptions": 1, "possession_regains": 2 },
+        "physical_data": { "total_distance_m": 8008.0, "high_speed_runs": 85.0, "sprints": 31.0, "top_speed_kmh": 32.5 }
+      }
+    ]
+  }
+}

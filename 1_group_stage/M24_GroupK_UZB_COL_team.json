@@ -1,0 +1,65 @@
+{
+  "match_info": {
+    "match_id_or_code": "M24",
+    "date": "17 June 2026",
+    "stadium": "Mexico City Stadium",
+    "match": "Group K - Match 24",
+    "teams": { "home": "Uzbekistan", "away": "Colombia" }
+  },
+  "team_statistics": {
+    "phases_of_play": {
+      "in_possession_pct": { "Uzbekistan": "33.9%", "Colombia": "56.7%" },
+      "in_possession_details": {
+        "build_up_unopposed": { "Uzbekistan": "37%", "Colombia": "44%" },
+        "build_up_opposed": { "Uzbekistan": "13%", "Colombia": "19%" },
+        "progression": { "Uzbekistan": "17%", "Colombia": "15%" },
+        "final_third": { "Uzbekistan": "9%", "Colombia": "13%" },
+        "long_ball": { "Uzbekistan": "4%", "Colombia": "5%" },
+        "attacking_transition": { "Uzbekistan": "14%", "Colombia": "8%" },
+        "counter_attack": { "Uzbekistan": "1%", "Colombia": "1%" },
+        "set_piece": { "Uzbekistan": "8%", "Colombia": "6%" }
+      },
+      "out_of_possession_pct": { "Uzbekistan": "56.7%", "Colombia": "33.9%" },
+      "out_of_possession_details": {
+        "high_press": { "Uzbekistan": "4%", "Colombia": "4%" },
+        "mid_press": { "Uzbekistan": "4%", "Colombia": "4%" },
+        "low_press": { "Uzbekistan": "0%", "Colombia": "0%" },
+        "high_block": { "Uzbekistan": "2%", "Colombia": "3%" },
+        "mid_block": { "Uzbekistan": "26%", "Colombia": "29%" },
+        "low_block": { "Uzbekistan": "34%", "Colombia": "18%" },
+        "recovery": { "Uzbekistan": "3%", "Colombia": "3%" },
+        "defensive_transition": { "Uzbekistan": "8%", "Colombia": "14%" },
+        "counter_press": { "Uzbekistan": "6%", "Colombia": "6%" }
+      }
+    },
+    "line_breaks": {
+      "Uzbekistan": {
+        "total_attempted": 108, "total_completed": 70,
+        "by_units": { "4_units": { "attempted": 5, "completed": 1 }, "3_units": { "attempted": 78, "completed": 44 }, "2_units": { "attempted": 25, "completed": 22 } },
+        "by_shape": { "inside_shape": { "attempted": 49, "completed": 34 }, "outside_shape": { "attempted": 29, "completed": 10 } },
+        "by_direction": { "through": { "attempted": 24, "completed": 24 }, "around": { "attempted": 27, "completed": 24 }, "over": { "attempted": 50, "completed": 22 } }
+      },
+      "Colombia": {
+        "total_attempted": 110, "total_completed": 72,
+        "by_units": { "4_units": { "attempted": 3, "completed": 1 }, "3_units": { "attempted": 50, "completed": 31 }, "2_units": { "attempted": 57, "completed": 41 } },
+        "by_shape": { "inside_shape": { "attempted": 32, "completed": 17 }, "outside_shape": { "attempted": 18, "completed": 16 } },
+        "by_direction": { "through": { "attempted": 35, "completed": 28 }, "around": { "attempted": 32, "completed": 32 }, "over": { "attempted": 43, "completed": 12 } }
+      }
+    },
+    "offering_to_receive": {
+      "Uzbekistan": { "total_offers_made": 289, "total_offers_received": 93, "by_third": { "defensive_third": 116, "middle_third": 173, "final_third": 136 }, "by_shape": { "inside_shape": 103, "outside_shape": 136 } },
+      "Colombia": { "total_offers_made": 461, "total_offers_received": 158, "by_third": { "defensive_third": 254, "middle_third": 207, "final_third": 225 }, "by_shape": { "inside_shape": 194, "outside_shape": 225 } }
+    },
+    "defensive_actions": {
+      "forced_turnovers": { "Uzbekistan": 32, "Colombia": 31 },
+      "possession_regained": { "Uzbekistan": 42, "Colombia": 30 },
+      "interceptions": { "Uzbekistan": 6, "Colombia": 5 },
+      "tackles": { "Uzbekistan": 28, "Colombia": 22 }
+    },
+    "defensive_pressure": {
+      "total_pressures": { "Uzbekistan": 264, "Colombia": 160 },
+      "direct_pressures": { "Uzbekistan": 36, "Colombia": 32 },
+      "ball_recovery_time": { "Uzbekistan": "17.99s", "Colombia": "12.6s" }
+    }
+  }
+}

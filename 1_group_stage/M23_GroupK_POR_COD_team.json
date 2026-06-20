@@ -1,0 +1,65 @@
+{
+  "match_info": {
+    "match_id_or_code": "M23",
+    "date": "17 June 2026",
+    "stadium": "Houston Stadium",
+    "match": "Group K - Match 23",
+    "teams": { "home": "Portugal", "away": "Congo DR" }
+  },
+  "team_statistics": {
+    "phases_of_play": {
+      "in_possession_pct": { "Portugal": "68.9%", "Congo_DR": "25.3%" },
+      "in_possession_details": {
+        "build_up_unopposed": { "Portugal": "44%", "Congo_DR": "16%" },
+        "build_up_opposed": { "Portugal": "21%", "Congo_DR": "12%" },
+        "progression": { "Portugal": "20%", "Congo_DR": "18%" },
+        "final_third": { "Portugal": "24%", "Congo_DR": "14%" },
+        "long_ball": { "Portugal": "1%", "Congo_DR": "7%" },
+        "attacking_transition": { "Portugal": "7%", "Congo_DR": "16%" },
+        "counter_attack": { "Portugal": "0%", "Congo_DR": "4%" },
+        "set_piece": { "Portugal": "4%", "Congo_DR": "9%" }
+      },
+      "out_of_possession_pct": { "Portugal": "25.3%", "Congo_DR": "68.9%" },
+      "out_of_possession_details": {
+        "high_press": { "Portugal": "4%", "Congo_DR": "4%" },
+        "mid_press": { "Portugal": "7%", "Congo_DR": "2%" },
+        "low_press": { "Portugal": "0%", "Congo_DR": "1%" },
+        "high_block": { "Portugal": "4%", "Congo_DR": "4%" },
+        "mid_block": { "Portugal": "14%", "Congo_DR": "32%" },
+        "low_block": { "Portugal": "13%", "Congo_DR": "37%" },
+        "recovery": { "Portugal": "7%", "Congo_DR": "4%" },
+        "defensive_transition": { "Portugal": "18%", "Congo_DR": "7%" },
+        "counter_press": { "Portugal": "11%", "Congo_DR": "5%" }
+      }
+    },
+    "line_breaks": {
+      "Portugal": {
+        "total_attempted": 181, "total_completed": 146,
+        "by_units": { "4_units": { "attempted": 4, "completed": 2 }, "3_units": { "attempted": 113, "completed": 106 }, "2_units": { "attempted": 64, "completed": 38 } },
+        "by_shape": { "inside_shape": { "attempted": 11, "completed": 7 }, "outside_shape": { "attempted": 30, "completed": 19 } },
+        "by_direction": { "through": { "attempted": 53, "completed": 49 }, "around": { "attempted": 24, "completed": 17 }, "over": { "attempted": 67, "completed": 58 } }
+      },
+      "Congo_DR": {
+        "total_attempted": 100, "total_completed": 60,
+        "by_units": { "4_units": { "attempted": 3, "completed": 0 }, "3_units": { "attempted": 6, "completed": 0 }, "2_units": { "attempted": 1, "completed": 1 } },
+        "by_shape": { "inside_shape": { "attempted": 10, "completed": 1 }, "outside_shape": { "attempted": 29, "completed": 18 } },
+        "by_direction": { "through": { "attempted": 21, "completed": 18 }, "around": { "attempted": 24, "completed": 21 }, "over": { "attempted": 47, "completed": 19 } }
+      }
+    },
+    "offering_to_receive": {
+      "Portugal": { "total_offers_made": 491, "total_offers_received": 177, "by_third": { "defensive_third": 230, "middle_third": 261, "final_third": 229 }, "by_shape": { "inside_shape": 210, "outside_shape": 261 } },
+      "Congo_DR": { "total_offers_made": 253, "total_offers_received": 84, "by_third": { "defensive_third": 122, "middle_third": 131, "final_third": 119 }, "by_shape": { "inside_shape": 103, "outside_shape": 131 } }
+    },
+    "defensive_actions": {
+      "forced_turnovers": { "Portugal": 29, "Congo_DR": 42 },
+      "possession_regained": { "Portugal": 29, "Congo_DR": 34 },
+      "interceptions": { "Portugal": 25, "Congo_DR": 5 },
+      "tackles": { "Portugal": 9.81, "Congo_DR": 2.66 }
+    },
+    "defensive_pressure": {
+      "total_pressures": { "Portugal": 183, "Congo_DR": 407 },
+      "direct_pressures": { "Portugal": 24, "Congo_DR": 41 },
+      "ball_recovery_time": { "Portugal": "11.03s", "Congo_DR": "33.49s" }
+    }
+  }
+}

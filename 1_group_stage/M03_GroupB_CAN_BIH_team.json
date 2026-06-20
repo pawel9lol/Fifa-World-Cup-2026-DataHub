@@ -1,0 +1,178 @@
+{
+  "match_info": {
+    "match_id_or_code": "M03",
+    "date": "12 June 2026",
+    "stadium": "Toronto Stadium",
+    "match": "Group B - Match 3",
+    "teams": {
+      "home": "Canada",
+      "away": "Bosnia and Herzegovina"
+    }
+  },
+  "team_statistics": {
+    "phases_of_play": {
+      "in_possession_pct": {
+        "Canada": "52.8%",
+        "Bosnia_and_Herzegovina": "29.9%"
+      },
+      "in_possession_details": {
+        "build_up_unopposed": { "Canada": "30%", "Bosnia_and_Herzegovina": "16%" },
+        "build_up_opposed": { "Canada": "10%", "Bosnia_and_Herzegovina": "6%" },
+        "progression": { "Canada": "17%", "Bosnia_and_Herzegovina": "12%" },
+        "final_third": { "Canada": "19%", "Bosnia_and_Herzegovina": "5%" },
+        "long_ball": { "Canada": "3%", "Bosnia_and_Herzegovina": "10%" },
+        "attacking_transition": { "Canada": "17%", "Bosnia_and_Herzegovina": "36%" },
+        "counter_attack": { "Canada": "2%", "Bosnia_and_Herzegovina": "3%" },
+        "set_piece": { "Canada": "11%", "Bosnia_and_Herzegovina": "12%" }
+      },
+      "out_of_possession_pct": {
+        "Canada": "17%",
+        "Bosnia_and_Herzegovina": "52.8%"
+      },
+      "out_of_possession_details": {
+        "high_press": { "Canada": "6%", "Bosnia_and_Herzegovina": "2%" },
+        "mid_press": { "Canada": "6%", "Bosnia_and_Herzegovina": "2%" },
+        "low_press": { "Canada": "1%", "Bosnia_and_Herzegovina": "1%" },
+        "high_block": { "Canada": "5%", "Bosnia_and_Herzegovina": "1%" },
+        "mid_block": { "Canada": "11%", "Bosnia_and_Herzegovina": "14%" },
+        "low_block": { "Canada": "5%", "Bosnia_and_Herzegovina": "31%" },
+        "recovery": { "Canada": "6%", "Bosnia_and_Herzegovina": "5%" },
+        "defensive_transition": { "Canada": "36%", "Bosnia_and_Herzegovina": "17%" },
+        "counter_press": { "Canada": "20%", "Bosnia_and_Herzegovina": "13%" }
+      }
+    },
+    "line_breaks": {
+      "Canada": {
+        "total_attempted": 145,
+        "total_completed": 84,
+        "by_units": {
+          "4_units": { "attempted": 5, "completed": 2 },
+          "3_units": { "attempted": 76, "completed": 46 },
+          "2_units": { "attempted": 64, "completed": 36 }
+        },
+        "by_shape": {
+          "inside_shape": { "attempted": 84, "completed": 46 },
+          "outside_shape": { "attempted": 61, "completed": 38 }
+        },
+        "by_direction": {
+          "through": { "attempted": 33, "completed": 24 },
+          "around": { "attempted": 46, "completed": 35 },
+          "over": { "attempted": 66, "completed": 25 }
+        }
+      },
+      "Bosnia_and_Herzegovina": {
+        "total_attempted": 115,
+        "total_completed": 61,
+        "by_units": {
+          "4_units": { "attempted": 5, "completed": 2 },
+          "3_units": { "attempted": 77, "completed": 43 },
+          "2_units": { "attempted": 33, "completed": 16 }
+        },
+        "by_shape": {
+          "inside_shape": { "attempted": 83, "completed": 55 },
+          "outside_shape": { "attempted": 32, "completed": 6 }
+        },
+        "by_direction": {
+          "through": { "attempted": 22, "completed": 16 },
+          "around": { "attempted": 18, "completed": 10 },
+          "over": { "attempted": 75, "completed": 35 }
+        }
+      }
+    },
+    "offering_to_receive": {
+      "Canada": {
+        "total_offers_made": 294,
+        "total_offers_received": 86,
+        "by_third": {
+          "defensive_third": 16,
+          "middle_third": 154,
+          "final_third": 124
+        },
+        "by_shape": {
+          "inside_shape": 107,
+          "outside_shape": 187
+        }
+      },
+      "Bosnia_and_Herzegovina": {
+        "total_offers_made": 126,
+        "total_offers_received": 47,
+        "by_third": {
+          "defensive_third": 23,
+          "middle_third": 71,
+          "final_third": 32
+        },
+        "by_shape": {
+          "inside_shape": 52,
+          "outside_shape": 74
+        }
+      }
+    },
+    "movement_to_receive": {
+      "Canada": {
+        "total_movements": 229,
+        "by_type": {
+          "in_front": 36,
+          "in_between": 51,
+          "out_to_in": 6,
+          "in_to_out": 15,
+          "in_behind": 121
+        },
+        "by_phase": {
+          "build_up_phase": { "total": 100, "in_front": 25, "in_between": 14, "out_to_in": 0, "in_to_out": 6, "in_behind": 51 },
+          "progression_phase": { "total": 77, "in_front": 6, "in_between": 17, "out_to_in": 1, "in_to_out": 3, "in_behind": 50 },
+          "final_third_phase": { "total": 79, "in_front": 5, "in_between": 14, "out_to_in": 3, "in_to_out": 6, "in_behind": 51 }
+        },
+        "by_pitch_third": {
+          "defensive_third": { "in_front": 7, "in_between": 3, "out_to_in": 0, "in_to_out": 0, "in_behind": 0 },
+          "middle_third": { "in_front": 16, "in_between": 11, "out_to_in": 3, "in_to_out": 8, "in_behind": 20 },
+          "final_third": { "in_front": 13, "in_between": 37, "out_to_in": 3, "in_to_out": 6, "in_behind": 101 }
+        }
+      },
+      "Bosnia_and_Herzegovina": {
+        "total_movements": 107,
+        "by_type": {
+          "in_front": 39,
+          "in_between": 27,
+          "out_to_in": 2,
+          "in_to_out": 9,
+          "in_behind": 27
+        },
+        "by_phase": {
+          "build_up_phase": { "total": 30, "in_front": 18, "in_between": 6, "out_to_in": 0, "in_to_out": 2, "in_behind": 4 },
+          "progression_phase": { "total": 21, "in_front": 5, "in_between": 3, "out_to_in": 2, "in_to_out": 4, "in_behind": 7 },
+          "final_third_phase": { "total": 8, "in_front": 1, "in_between": 3, "out_to_in": 0, "in_to_out": 1, "in_behind": 3 }
+        },
+        "by_pitch_third": {
+          "defensive_third": { "in_front": 6, "in_between": 3, "out_to_in": 0, "in_to_out": 0, "in_behind": 0 },
+          "middle_third": { "in_front": 30, "in_between": 17, "out_to_in": 1, "in_to_out": 5, "in_behind": 12 },
+          "final_third": { "in_front": 3, "in_between": 7, "out_to_in": 1, "in_to_out": 4, "in_behind": 15 }
+        }
+      }
+    },
+    "defensive_actions": {
+      "forced_turnovers": { "Canada": 50, "Bosnia_and_Herzegovina": 51 },
+      "possession_regained": { "Canada": 64, "Bosnia_and_Herzegovina": 63 },
+      "interceptions": { "Canada": 7, "Bosnia_and_Herzegovina": 8 },
+      "tackles": { "Canada": 41, "Bosnia_and_Herzegovina": 36 },
+      "possession_actions_per_defensive_action": { "Canada": 3.74, "Bosnia_and_Herzegovina": 1.7 }
+    },
+    "defensive_contests_and_duels": {
+      "clearances": { "Canada": 14, "Bosnia_and_Herzegovina": 22 },
+      "blocks": { "Canada": 15, "Bosnia_and_Herzegovina": 8 },
+      "possession_contests": { "Canada": 64, "Bosnia_and_Herzegovina": 33 },
+      "physical_duels": { "Canada": 4, "Bosnia_and_Herzegovina": 4 },
+      "aerial_duels": { "Canada": 91, "Bosnia_and_Herzegovina": 91 },
+      "total_duels": { "Canada": 81, "Bosnia_and_Herzegovina": 81 }
+    },
+    "defensive_pressure": {
+      "total_pressures": { "Canada": 160, "Bosnia_and_Herzegovina": 203 },
+      "direct_pressures": { "Canada": 38, "Bosnia_and_Herzegovina": 35 },
+      "avg_pressure_duration": { "Canada": "1.33s", "Bosnia_and_Herzegovina": "1.49s" },
+      "ball_recovery_time": { "Canada": "8.51s", "Bosnia_and_Herzegovina": "12.03s" },
+      "pushing_on_into_pressing": { "Canada": 65, "Bosnia_and_Herzegovina": 81 },
+      "pushing_on": { "Canada": 138, "Bosnia_and_Herzegovina": 190 },
+      "pressing_direction_inside": { "Canada": 24, "Bosnia_and_Herzegovina": 33 },
+      "pressing_direction_outside": { "Canada": 87, "Bosnia_and_Herzegovina": 100 }
+    }
+  }
+}

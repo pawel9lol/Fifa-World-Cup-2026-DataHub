@@ -1,0 +1,306 @@
+{
+  "match_info": {
+    "match_id_or_code": "M03",
+    "date": "12 June 2026",
+    "stadium": "Toronto Stadium",
+    "match": "Group B - Match 3",
+    "teams": {
+      "home": "Canada",
+      "away": "Bosnia and Herzegovina"
+    }
+  },
+  "individual_player_data": {
+    "Canada": [
+      {
+        "player": "Maxime CREPEAU",
+        "in_possession": {
+          "passes_attempted": 26, "passes_completed": 19, "pass_completion_pct": "73%", "switches_of_play": 0, "crosses_attempted": 0, "crosses_completed": 0, "line_breaks_attempted": 8, "line_breaks_completed": 3, "line_break_completion_pct": "38%", "ball_progressions": 0, "take_ons": 0, "step_ins": 0, "attempts_at_goal": 0, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 2, "offers_in_front": 0, "offers_in_between": 0, "offers_out_to_in": 0, "offers_in_to_out": 0, "offers_in_behind": 0, "offers_no_movement": 2, "offers_received": 1 }
+        },
+        "out_of_possession": { "tackles_made_won": "0/0", "blocks": 0, "interceptions": 0, "pressing_direct": 0, "pressing_indirect": 0, "duels_won_aerial": 0, "duels_won_physical": 0, "possession_contests_won": 0, "clearances": 0, "loose_ball_receptions": 8, "pushing_on": 0, "pushing_on_into_pressing": 0, "possession_regains": 3, "possession_interrupted": 0 },
+        "physical_data": { "total_distance_m": 5354.4, "zone_1_m": 3767.7, "zone_2_m": 1394.0, "zone_3_m": 167.5, "zone_4_m": 25.2, "zone_5_m": 0.0, "high_speed_runs": 18.0, "sprints": 2.0, "top_speed_kmh": 24.1 }
+      },
+      {
+        "player": "Alistair JOHNSTON",
+        "in_possession": {
+          "passes_attempted": 47, "passes_completed": 31, "pass_completion_pct": "66%", "switches_of_play": 0, "crosses_attempted": 2, "crosses_completed": 0, "line_breaks_attempted": 24, "line_breaks_completed": 14, "line_break_completion_pct": "58%", "ball_progressions": 1, "take_ons": 1, "step_ins": 0, "attempts_at_goal": 1, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 19, "offers_in_front": 4, "offers_in_between": 4, "offers_out_to_in": 0, "offers_in_to_out": 0, "offers_in_behind": 1, "offers_no_movement": 10, "offers_received": 9 }
+        },
+        "out_of_possession": { "tackles_made_won": "3/0", "blocks": 2, "interceptions": 0, "pressing_direct": 2, "pressing_indirect": 7, "duels_won_aerial": 5, "duels_won_physical": 0, "possession_contests_won": 5, "clearances": 6, "loose_ball_receptions": 7, "pushing_on": 17, "pushing_on_into_pressing": 2, "possession_regains": 5, "possession_interrupted": 3 },
+        "physical_data": { "total_distance_m": 10720.1, "zone_1_m": 3769.8, "zone_2_m": 4243.0, "zone_3_m": 1797.4, "zone_4_m": 526.3, "zone_5_m": 383.6, "high_speed_runs": 145.0, "sprints": 48.0, "top_speed_kmh": 33.3 }
+      },
+      {
+        "player": "Luc DE FOUGEROLLES",
+        "in_possession": {
+          "passes_attempted": 43, "passes_completed": 38, "pass_completion_pct": "88%", "switches_of_play": 1, "crosses_attempted": 1, "crosses_completed": 0, "line_breaks_attempted": 9, "line_breaks_completed": 5, "line_break_completion_pct": "56%", "ball_progressions": 2, "take_ons": 0, "step_ins": 2, "attempts_at_goal": 0, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 10, "offers_in_front": 0, "offers_in_between": 0, "offers_out_to_in": 0, "offers_in_to_out": 0, "offers_in_behind": 3, "offers_no_movement": 7, "offers_received": 5 }
+        },
+        "out_of_possession": { "tackles_made_won": "3/2", "blocks": 0, "interceptions": 0, "pressing_direct": 3, "pressing_indirect": 4, "duels_won_aerial": 4, "duels_won_physical": 1, "possession_contests_won": 5, "clearances": 10, "loose_ball_receptions": 4, "pushing_on": 14, "pushing_on_into_pressing": 3, "possession_regains": 13, "possession_interrupted": 4 },
+        "physical_data": { "total_distance_m": 10376.3, "zone_1_m": 3594.7, "zone_2_m": 4713.9, "zone_3_m": 1312.4, "zone_4_m": 609.9, "zone_5_m": 145.4, "high_speed_runs": 125.0, "sprints": 38.0, "top_speed_kmh": 31.6 }
+      },
+      {
+        "player": "Stephen EUSTAQUIO",
+        "in_possession": {
+          "passes_attempted": 49, "passes_completed": 42, "pass_completion_pct": "86%", "switches_of_play": 1, "crosses_attempted": 9, "crosses_completed": 4, "line_breaks_attempted": 13, "line_breaks_completed": 9, "line_break_completion_pct": "69%", "ball_progressions": 1, "take_ons": 1, "step_ins": 0, "attempts_at_goal": 1, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 35, "offers_in_front": 6, "offers_in_between": 11, "offers_out_to_in": 0, "offers_in_to_out": 3, "offers_in_behind": 9, "offers_no_movement": 6, "offers_received": 12 }
+        },
+        "out_of_possession": { "tackles_made_won": "2/0", "blocks": 1, "interceptions": 2, "pressing_direct": 2, "pressing_indirect": 18, "duels_won_aerial": 1, "duels_won_physical": 0, "possession_contests_won": 1, "clearances": 1, "loose_ball_receptions": 10, "pushing_on": 10, "pushing_on_into_pressing": 4, "possession_regains": 3, "possession_interrupted": 3 },
+        "physical_data": { "total_distance_m": 11718.5, "zone_1_m": 3350.9, "zone_2_m": 4854.8, "zone_3_m": 2542.4, "zone_4_m": 862.4, "zone_5_m": 108.0, "high_speed_runs": 204.0, "sprints": 58.0, "top_speed_kmh": 29.8 }
+      },
+      {
+        "player": "Ismael KONE",
+        "in_possession": {
+          "passes_attempted": 58, "passes_completed": 49, "pass_completion_pct": "84%", "switches_of_play": 0, "crosses_attempted": 1, "crosses_completed": 0, "line_breaks_attempted": 23, "line_breaks_completed": 15, "line_break_completion_pct": "65%", "ball_progressions": 4, "take_ons": 3, "step_ins": 1, "attempts_at_goal": 1, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 27, "offers_in_front": 14, "offers_in_between": 7, "offers_out_to_in": 1, "offers_in_to_out": 1, "offers_in_behind": 1, "offers_no_movement": 3, "offers_received": 7 }
+        },
+        "out_of_possession": { "tackles_made_won": "7/0", "blocks": 1, "interceptions": 0, "pressing_direct": 4, "pressing_indirect": 16, "duels_won_aerial": 1, "duels_won_physical": 0, "possession_contests_won": 1, "clearances": 1, "loose_ball_receptions": 10, "pushing_on": 12, "pushing_on_into_pressing": 4, "possession_regains": 3, "possession_interrupted": 2 },
+        "physical_data": { "total_distance_m": 10875.7, "zone_1_m": 3922.5, "zone_2_m": 4958.0, "zone_3_m": 1443.4, "zone_4_m": 436.4, "zone_5_m": 115.4, "high_speed_runs": 124.0, "sprints": 28.5, "top_speed_kmh": 28.0 }
+      },
+      {
+        "player": "Jonathan DAVID",
+        "in_possession": {
+          "passes_attempted": 10, "passes_completed": 8, "pass_completion_pct": "80%", "switches_of_play": 0, "crosses_attempted": 3, "crosses_completed": 0, "line_breaks_attempted": 1, "line_breaks_completed": 0, "line_break_completion_pct": "0%", "ball_progressions": 0, "take_ons": 0, "step_ins": 0, "attempts_at_goal": 3, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 21, "offers_in_front": 0, "offers_in_between": 5, "offers_out_to_in": 3, "offers_in_to_out": 2, "offers_in_behind": 10, "offers_no_movement": 1, "offers_received": 5 }
+        },
+        "out_of_possession": { "tackles_made_won": "2/0", "blocks": 0, "interceptions": 1, "pressing_direct": 4, "pressing_indirect": 9, "duels_won_aerial": 0, "duels_won_physical": 0, "possession_contests_won": 0, "clearances": 0, "loose_ball_receptions": 5, "pushing_on": 13, "pushing_on_into_pressing": 6, "possession_regains": 1, "possession_interrupted": 0 },
+        "physical_data": { "total_distance_m": 7432.5, "zone_1_m": 2594.0, "zone_2_m": 3247.8, "zone_3_m": 1071.1, "zone_4_m": 314.3, "zone_5_m": 205.3, "high_speed_runs": 84.0, "sprints": 32.0, "top_speed_kmh": 31.7 }
+      },
+      {
+        "player": "Liam MILLAR",
+        "in_possession": {
+          "passes_attempted": 29, "passes_completed": 19, "pass_completion_pct": "66%", "switches_of_play": 0, "crosses_attempted": 4, "crosses_completed": 0, "line_breaks_attempted": 14, "line_breaks_completed": 7, "line_break_completion_pct": "50%", "ball_progressions": 5, "take_ons": 4, "step_ins": 1, "attempts_at_goal": 0, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 31, "offers_in_front": 2, "offers_in_between": 1, "offers_out_to_in": 0, "offers_in_to_out": 1, "offers_in_behind": 17, "offers_no_movement": 10, "offers_received": 10 }
+        },
+        "out_of_possession": { "tackles_made_won": "6/0", "blocks": 3, "interceptions": 0, "pressing_direct": 6, "pressing_indirect": 5, "duels_won_aerial": 2, "duels_won_physical": 0, "possession_contests_won": 2, "clearances": 0, "loose_ball_receptions": 5, "pushing_on": 8, "pushing_on_into_pressing": 4, "possession_regains": 3, "possession_interrupted": 1 },
+        "physical_data": { "total_distance_m": 7110.3, "zone_1_m": 2529.1, "zone_2_m": 2804.1, "zone_3_m": 1023.5, "zone_4_m": 464.7, "zone_5_m": 289.0, "high_speed_runs": 86.0, "sprints": 41.0, "top_speed_kmh": 32.8 }
+      },
+      {
+        "player": "Tani OLUWASEYI",
+        "in_possession": {
+          "passes_attempted": 13, "passes_completed": 6, "pass_completion_pct": "46%", "switches_of_play": 1, "crosses_attempted": 2, "crosses_completed": 0, "line_breaks_attempted": 6, "line_breaks_completed": 2, "line_break_completion_pct": "33%", "ball_progressions": 3, "take_ons": 2, "step_ins": 1, "attempts_at_goal": 2, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 48, "offers_in_front": 2, "offers_in_between": 12, "offers_out_to_in": 0, "offers_in_to_out": 0, "offers_in_behind": 34, "offers_no_movement": 0, "offers_received": 8 }
+        },
+        "out_of_possession": { "tackles_made_won": "1/0", "blocks": 0, "interceptions": 2, "pressing_direct": 2, "pressing_indirect": 18, "duels_won_aerial": 6, "duels_won_physical": 1, "possession_contests_won": 8, "clearances": 0, "loose_ball_receptions": 3, "pushing_on": 20, "pushing_on_into_pressing": 11, "possession_regains": 4, "possession_interrupted": 0 },
+        "physical_data": { "total_distance_m": 7844.6, "zone_1_m": 3147.6, "zone_2_m": 2887.1, "zone_3_m": 1050.5, "zone_4_m": 459.8, "zone_5_m": 299.6, "high_speed_runs": 89.0, "sprints": 42.0, "top_speed_kmh": 33.4 }
+      },
+      {
+        "player": "Derek CORNELIUS",
+        "in_possession": {
+          "passes_attempted": 52, "passes_completed": 42, "pass_completion_pct": "81%", "switches_of_play": 0, "crosses_attempted": 1, "crosses_completed": 0, "line_breaks_attempted": 15, "line_breaks_completed": 7, "line_break_completion_pct": "47%", "ball_progressions": 0, "take_ons": 0, "step_ins": 0, "attempts_at_goal": 1, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 1, "offers_in_front": 0, "offers_in_between": 0, "offers_out_to_in": 0, "offers_in_to_out": 0, "offers_in_behind": 0, "offers_no_movement": 1, "offers_received": 1 }
+        },
+        "out_of_possession": { "tackles_made_won": "4/3", "blocks": 4, "interceptions": 2, "pressing_direct": 1, "pressing_indirect": 4, "duels_won_aerial": 8, "duels_won_physical": 0, "possession_contests_won": 8, "clearances": 13, "loose_ball_receptions": 8, "pushing_on": 4, "pushing_on_into_pressing": 2, "possession_regains": 17, "possession_interrupted": 10 },
+        "physical_data": { "total_distance_m": 9065.3, "zone_1_m": 4167.6, "zone_2_m": 3441.6, "zone_3_m": 1026.4, "zone_4_m": 346.5, "zone_5_m": 83.1, "high_speed_runs": 86.0, "sprints": 28.2, "top_speed_kmh": 23.0 }
+      },
+      {
+        "player": "Tajon BUCHANAN",
+        "in_possession": {
+          "passes_attempted": 10, "passes_completed": 8, "pass_completion_pct": "80%", "switches_of_play": 0, "crosses_attempted": 3, "crosses_completed": 0, "line_breaks_attempted": 3, "line_breaks_completed": 2, "line_break_completion_pct": "67%", "ball_progressions": 6, "take_ons": 5, "step_ins": 1, "attempts_at_goal": 1, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 18, "offers_in_front": 2, "offers_in_between": 2, "offers_out_to_in": 0, "offers_in_to_out": 1, "offers_in_behind": 10, "offers_no_movement": 3, "offers_received": 4 }
+        },
+        "out_of_possession": { "tackles_made_won": "2/0", "blocks": 0, "interceptions": 0, "pressing_direct": 3, "pressing_indirect": 7, "duels_won_aerial": 0, "duels_won_physical": 0, "possession_contests_won": 0, "clearances": 0, "loose_ball_receptions": 1, "pushing_on": 13, "pushing_on_into_pressing": 6, "possession_regains": 1, "possession_interrupted": 1 },
+        "physical_data": { "total_distance_m": 7110.9, "zone_1_m": 2537.5, "zone_2_m": 3041.0, "zone_3_m": 800.7, "zone_4_m": 460.2, "zone_5_m": 271.6, "high_speed_runs": 69.0, "sprints": 31.2, "top_speed_kmh": 35.0 }
+      },
+      {
+        "player": "Richie LARYEA",
+        "in_possession": {
+          "passes_attempted": 45, "passes_completed": 34, "pass_completion_pct": "76%", "switches_of_play": 0, "crosses_attempted": 0, "crosses_completed": 0, "line_breaks_attempted": 16, "line_breaks_completed": 13, "line_break_completion_pct": "81%", "ball_progressions": 1, "take_ons": 1, "step_ins": 0, "attempts_at_goal": 1, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 33, "offers_in_front": 2, "offers_3_between": 3, "offers_out_to_in": 1, "offers_in_to_out": 3, "offers_in_behind": 17, "offers_no_movement": 7, "offers_received": 9 }
+        },
+        "out_of_possession": { "tackles_made_won": "6/2", "blocks": 1, "interceptions": 0, "pressing_direct": 6, "pressing_indirect": 12, "duels_won_aerial": 1, "duels_won_physical": 1, "possession_contests_won": 2, "clearances": 3, "loose_ball_receptions": 9, "pushing_on": 7, "pushing_on_into_pressing": 6, "possession_regains": 7, "possession_interrupted": 3 },
+        "physical_data": { "total_distance_m": 9971.5, "zone_1_m": 3996.4, "zone_2_m": 4089.9, "zone_3_m": 1081.4, "zone_4_m": 433.5, "zone_5_m": 370.3, "high_speed_runs": 95.0, "sprints": 34.6, "top_speed_kmh": 36.0 }
+      },
+      {
+        "player": "Cyle LARIN",
+        "in_possession": {
+          "passes_attempted": 0, "passes_completed": 0, "pass_completion_pct": "0%", "switches_of_play": 0, "crosses_attempted": 0, "crosses_completed": 0, "line_breaks_attempted": 0, "line_breaks_completed": 0, "line_break_completion_pct": "0%", "ball_progressions": 1, "take_ons": 0, "step_ins": 1, "attempts_at_goal": 2, "goals": 1,
+          "offers_and_receptions": { "total_offers_made": 8, "offers_in_front": 0, "offers_in_between": 0, "offers_out_to_in": 0, "offers_in_to_out": 2, "offers_in_behind": 5, "offers_no_movement": 1, "offers_received": 11 }
+        },
+        "out_of_possession": { "tackles_made_won": "0/0", "blocks": 0, "interceptions": 0, "pressing_direct": 0, "pressing_indirect": 2, "duels_won_aerial": 1, "duels_won_physical": 0, "possession_contests_won": 1, "clearances": 1, "loose_ball_receptions": 11, "pushing_on": 1, "pushing_on_into_pressing": 1, "possession_regains": 0, "possession_interrupted": 0 },
+        "physical_data": { "total_distance_m": 2068.2, "zone_1_m": 823.9, "zone_2_m": 802.0, "zone_3_m": 228.5, "zone_4_m": 144.1, "zone_5_m": 69.7, "high_speed_runs": 21.0, "sprints": 10.0, "top_speed_kmh": 31.3 }
+      },
+      {
+        "player": "Jacob SHAFFELBURG",
+        "in_possession": {
+          "passes_attempted": 7, "passes_completed": 5, "pass_completion_pct": "71%", "switches_of_play": 0, "crosses_attempted": 1, "crosses_completed": 1, "line_breaks_attempted": 4, "line_breaks_completed": 2, "line_break_completion_pct": "50%", "ball_progressions": 1, "take_ons": 1, "step_ins": 0, "attempts_at_goal": 0, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 18, "offers_in_front": 2, "offers_in_between": 1, "offers_out_to_in": 0, "offers_in_to_out": 0, "offers_in_behind": 9, "offers_no_movement": 6, "offers_received": 5 }
+        },
+        "out_of_possession": { "tackles_made_won": "1/1", "blocks": 0, "interceptions": 0, "pressing_direct": 2, "pressing_indirect": 2, "duels_won_aerial": 0, "duels_won_physical": 0, "possession_contests_won": 0, "clearances": 0, "loose_ball_receptions": 1, "pushing_on": 3, "pushing_on_into_pressing": 2, "possession_regains": 1, "possession_interrupted": 0 },
+        "physical_data": { "total_distance_m": 4045.5, "zone_1_m": 1441.7, "zone_2_m": 1679.6, "zone_3_m": 515.2, "zone_4_m": 227.2, "zone_5_m": 181.7, "high_speed_runs": 46.0, "sprints": 20.0, "top_speed_kmh": 31.6 }
+      },
+      {
+        "player": "Ali AHMED",
+        "in_possession": {
+          "passes_attempted": 16, "passes_completed": 11, "pass_completion_pct": "69%", "switches_of_play": 0, "crosses_attempted": 3, "crosses_completed": 0, "line_breaks_attempted": 6, "line_breaks_completed": 2, "line_break_completion_pct": "33%", "ball_progressions": 4, "take_ons": 3, "step_ins": 1, "attempts_at_goal": 0, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 17, "offers_in_front": 1, "offers_in_between": 4, "offers_out_to_in": 0, "offers_in_to_out": 1, "offers_in_behind": 5, "offers_no_movement": 6, "offers_received": 7 }
+        },
+        "out_of_possession": { "tackles_made_won": "2/1", "blocks": 3, "interceptions": 0, "pressing_direct": 2, "pressing_indirect": 15, "duels_won_aerial": 0, "duels_won_physical": 0, "possession_contests_won": 0, "clearances": 0, "loose_ball_receptions": 2, "pushing_on": 13, "pushing_on_into_pressing": 11, "possession_regains": 1, "possession_interrupted": 2 },
+        "physical_data": { "total_distance_m": 3903.0, "zone_1_m": 1524.3, "zone_2_m": 1433.9, "zone_3_m": 556.8, "zone_4_m": 312.5, "zone_5_m": 75.6, "high_speed_runs": 47.0, "sprints": 26.0, "top_speed_kmh": 26.6 }
+      },
+      {
+        "player": "Jonathan OSORIO",
+        "in_possession": {
+          "passes_attempted": 4, "passes_completed": 3, "pass_completion_pct": "75%", "switches_of_play": 0, "crosses_attempted": 0, "crosses_completed": 0, "line_breaks_attempted": 2, "line_breaks_completed": 2, "line_break_completion_pct": "100%", "ball_progressions": 1, "take_ons": 0, "step_ins": 1, "attempts_at_goal": 0, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 2, "offers_in_front": 0, "offers_in_between": 0, "offers_out_to_in": 0, "offers_in_to_out": 0, "offers_in_behind": 0, "offers_no_movement": 2, "offers_received": 2 }
+        },
+        "out_of_possession": { "tackles_made_won": "1/0", "blocks": 0, "interceptions": 0, "pressing_direct": 1, "pressing_indirect": 0, "duels_won_aerial": 0, "duels_won_physical": 0, "possession_contests_won": 0, "clearances": 1, "loose_ball_receptions": 0, "pushing_on": 0, "pushing_on_into_pressing": 0, "possession_regains": 0, "possession_interrupted": 1 },
+        "physical_data": { "total_distance_m": 644.0, "zone_1_m": 182.7, "zone_2_m": 298.2, "zone_3_m": 123.2, "zone_4_m": 40.0, "zone_5_m": 0.0, "high_speed_runs": 10.0, "sprints": 4.0, "top_speed_kmh": 23.0 }
+      },
+      {
+        "player": "Promise DAVID",
+        "in_possession": {
+          "passes_attempted": 3, "passes_completed": 1, "pass_completion_pct": "33%", "switches_of_play": 0, "crosses_attempted": 0, "crosses_completed": 0, "line_breaks_attempted": 1, "line_breaks_completed": 1, "line_break_completion_pct": "100%", "ball_progressions": 0, "take_ons": 0, "step_ins": 0, "attempts_at_goal": 1, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 4, "offers_in_front": 1, "offers_in_between": 1, "offers_out_to_in": 1, "offers_in_to_out": 0, "offers_in_behind": 1, "offers_no_movement": 0, "offers_received": 1 }
+        },
+        "out_of_possession": { "tackles_made_won": "1/1", "blocks": 0, "interceptions": 0, "pressing_direct": 0, "pressing_indirect": 3, "duels_won_aerial": 1, "duels_won_physical": 0, "possession_contests_won": 1, "clearances": 1, "loose_ball_receptions": 3, "pushing_on": 3, "pushing_on_into_pressing": 3, "possession_regains": 2, "possession_interrupted": 1 },
+        "physical_data": { "total_distance_m": 3097.9, "zone_1_m": 1676.4, "zone_2_m": 994.4, "zone_3_m": 284.5, "zone_4_m": 112.8, "zone_5_m": 29.8, "high_speed_runs": 26.0, "sprints": 9.0, "top_speed_kmh": 30.0 }
+      }
+    ],
+    "Bosnia_and_Herzegovina": [
+      {
+        "player": "Nikola VASILJ",
+        "in_possession": {
+          "passes_attempted": 33, "passes_completed": 14, "pass_completion_pct": "42%", "switches_of_play": 0, "crosses_attempted": 0, "crosses_completed": 0, "line_breaks_attempted": 21, "line_breaks_completed": 5, "line_break_completion_pct": "24%", "ball_progressions": 0, "take_ons": 0, "step_ins": 0, "attempts_at_goal": 0, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 3, "offers_in_front": 0, "offers_in_between": 0, "offers_out_to_in": 0, "offers_in_to_out": 0, "offers_in_behind": 0, "offers_no_movement": 3, "offers_received": 3 }
+        },
+        "out_of_possession": { "tackles_made_won": "0/0", "blocks": 0, "interceptions": 0, "pressing_direct": 0, "pressing_indirect": 0, "duels_won_aerial": 0, "duels_won_physical": 0, "possession_contests_won": 0, "clearances": 0, "loose_ball_receptions": 3, "pushing_on": 0, "pushing_on_into_pressing": 0, "possession_regains": 9, "possession_interrupted": 0 },
+        "physical_data": { "total_distance_m": 5298.5, "zone_1_m": 3990.0, "zone_2_m": 1201.2, "zone_3_m": 78.8, "zone_4_m": 17.3, "zone_5_m": 11.3, "high_speed_runs": 8.0, "sprints": 2.0, "top_speed_kmh": 26.3 }
+      },
+      {
+        "player": "Tarik MUHAREMOVIC",
+        "in_possession": {
+          "passes_attempted": 30, "passes_completed": 24, "pass_completion_pct": "80%", "switches_of_play": 1, "crosses_attempted": 0, "crosses_completed": 0, "line_breaks_attempted": 9, "line_breaks_completed": 6, "line_break_completion_pct": "67%", "ball_progressions": 1, "take_ons": 1, "step_ins": 0, "attempts_at_goal": 1, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 1, "offers_in_front": 0, "offers_in_between": 0, "offers_out_to_in": 0, "offers_in_to_out": 0, "offers_in_behind": 0, "offers_no_movement": 1, "offers_received": 1 }
+        },
+        "out_of_possession": { "tackles_made_won": "1/1", "blocks": 5, "interceptions": 1, "pressing_direct": 2, "pressing_indirect": 4, "duels_won_aerial": 7, "duels_won_physical": 0, "possession_contests_won": 8, "clearances": 14, "loose_ball_receptions": 5, "pushing_on": 7, "pushing_on_into_pressing": 3, "possession_regains": 10, "possession_interrupted": 11 },
+        "physical_data": { "total_distance_m": 9823.9, "zone_1_m": 4085.5, "zone_2_m": 4176.9, "zone_3_m": 1112.2, "zone_4_m": 328.4, "zone_5_m": 121.0, "high_speed_runs": 87.0, "sprints": 24.0, "top_speed_kmh": 30.7 }
+      },
+      {
+        "player": "Sead KOLASINAC",
+        "in_possession": {
+          "passes_attempted": 32, "passes_completed": 21, "pass_completion_pct": "66%", "switches_of_play": 0, "crosses_attempted": 0, "crosses_completed": 0, "line_breaks_attempted": 12, "line_breaks_completed": 10, "line_break_completion_pct": "83%", "ball_progressions": 1, "take_ons": 1, "step_ins": 0, "attempts_at_goal": 0, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 6, "offers_in_front": 4, "offers_in_between": 0, "offers_out_to_in": 1, "offers_in_to_out": 0, "offers_in_behind": 1, "offers_no_movement": 0, "offers_received": 5 }
+        },
+        "out_of_possession": { "tackles_made_won": "6/2", "blocks": 5, "interceptions": 1, "pressing_direct": 6, "pressing_indirect": 7, "duels_won_aerial": 2, "duels_won_physical": 0, "possession_contests_won": 2, "clearances": 6, "loose_ball_receptions": 6, "pushing_on": 14, "pushing_on_into_pressing": 3, "possession_regains": 7, "possession_interrupted": 4 },
+        "physical_data": { "total_distance_m": 8967.6, "zone_1_m": 3777.8, "zone_2_m": 3618.8, "zone_3_m": 869.7, "zone_4_m": 442.4, "zone_5_m": 259.0, "high_speed_runs": 77.0, "sprints": 32.0, "top_speed_kmh": 32.0 }
+      },
+      {
+        "player": "Benjamin TAHIROVIC",
+        "in_possession": {
+          "passes_attempted": 22, "passes_completed": 16, "pass_completion_pct": "73%", "switches_of_play": 0, "crosses_attempted": 2, "crosses_completed": 0, "line_breaks_attempted": 8, "line_breaks_completed": 3, "line_break_completion_pct": "38%", "ball_progressions": 0, "take_ons": 0, "step_ins": 0, "attempts_at_goal": 1, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 21, "offers_in_front": 10, "offers_in_between": 8, "offers_out_to_in": 0, "offers_in_to_out": 0, "offers_in_behind": 2, "offers_no_movement": 1, "offers_received": 10 }
+        },
+        "out_of_possession": { "tackles_made_won": "4/0", "blocks": 2, "interceptions": 0, "pressing_direct": 1, "pressing_indirect": 27, "duels_won_aerial": 0, "duels_won_physical": 0, "possession_contests_won": 1, "clearances": 6, "loose_ball_receptions": 10, "pushing_on": 20, "pushing_on_into_pressing": 7, "possession_regains": 2, "possession_interrupted": 6 },
+        "physical_data": { "total_distance_m": 10911.0, "zone_1_m": 4139.6, "zone_2_m": 4376.0, "zone_3_m": 1723.2, "zone_4_m": 595.8, "zone_5_m": 76.5, "high_speed_runs": 143.0, "sprints": 35.0, "top_speed_kmh": 28.4 }
+      },
+      {
+        "player": "Amar DEDIC",
+        "in_possession": {
+          "passes_attempted": 31, "passes_completed": 23, "pass_completion_pct": "74%", "switches_of_play": 0, "crosses_attempted": 0, "crosses_completed": 0, "line_breaks_attempted": 14, "line_breaks_completed": 10, "line_break_completion_pct": "71%", "ball_progressions": 2, "take_ons": 1, "step_ins": 1, "attempts_at_goal": 0, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 1, "offers_in_front": 0, "offers_in_between": 1, "offers_out_to_in": 0, "offers_in_to_out": 0, "offers_in_behind": 0, "offers_no_movement": 0, "offers_received": 0 }
+        },
+        "out_of_possession": { "tackles_made_won": "4/1", "blocks": 7, "interceptions": 2, "pressing_direct": 3, "pressing_indirect": 21, "duels_won_aerial": 4, "duels_won_physical": 0, "possession_contests_won": 4, "clearances": 10, "loose_ball_receptions": 1, "pushing_on": 22, "pushing_on_into_pressing": 15, "possession_regains": 9, "possession_interrupted": 11 },
+        "physical_data": { "total_distance_m": 9525.1, "zone_1_m": 3967.9, "zone_2_m": 3992.5, "zone_3_m": 982.1, "zone_4_m": 408.9, "zone_5_m": 173.7, "high_speed_runs": 94.0, "sprints": 35.0, "top_speed_kmh": 32.5 }
+      },
+      {
+        "player": "Ermedin DEMIROVIC",
+        "in_possession": {
+          "passes_attempted": 13, "passes_completed": 10, "pass_completion_pct": "77%", "switches_of_play": 0, "crosses_attempted": 0, "crosses_completed": 0, "line_breaks_attempted": 3, "line_breaks_completed": 2, "line_break_completion_pct": "67%", "ball_progressions": 2, "take_ons": 2, "step_ins": 0, "attempts_at_goal": 1, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 11, "offers_in_front": 1, "offers_in_between": 2, "offers_out_to_in": 1, "offers_in_to_out": 1, "offers_in_behind": 5, "offers_no_movement": 1, "offers_received": 0 }
+        },
+        "out_of_possession": { "tackles_made_won": "1/0", "blocks": 1, "interceptions": 0, "pressing_direct": 3, "pressing_indirect": 24, "duels_won_aerial": 7, "duels_won_physical": 0, "possession_contests_won": 7, "clearances": 3, "loose_ball_receptions": 7, "pushing_on": 12, "pushing_on_into_pressing": 10, "possession_regains": 2, "possession_interrupted": 2 },
+        "physical_data": { "total_distance_m": 10123.8, "zone_1_m": 4373.2, "zone_2_m": 3826.8, "zone_3_m": 1068.6, "zone_4_m": 640.9, "zone_5_m": 214.4, "high_speed_runs": 91.0, "sprints": 43.0, "top_speed_kmh": 33.0 }
+      },
+      {
+        "player": "Ivan BASIC",
+        "in_possession": {
+          "passes_attempted": 22, "passes_completed": 18, "pass_completion_pct": "82%", "switches_of_play": 0, "crosses_attempted": 5, "crosses_completed": 5, "line_breaks_attempted": 12, "line_breaks_completed": 10, "line_break_completion_pct": "83%", "ball_progressions": 1, "take_ons": 1, "step_ins": 0, "attempts_at_goal": 0, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 9, "offers_in_front": 8, "offers_in_between": 1, "offers_out_to_in": 0, "offers_in_to_out": 0, "offers_in_behind": 0, "offers_no_movement": 0, "offers_received": 4 }
+        },
+        "out_of_possession": { "tackles_made_won": "3/0", "blocks": 0, "interceptions": 1, "pressing_direct": 4, "pressing_indirect": 7, "duels_won_aerial": 1, "duels_won_physical": 0, "possession_contests_won": 1, "clearances": 1, "loose_ball_receptions": 6, "pushing_on": 20, "pushing_on_into_pressing": 5, "possession_regains": 1, "possession_interrupted": 0 },
+        "physical_data": { "total_distance_m": 6984.8, "zone_1_m": 2373.2, "zone_2_m": 3256.0, "zone_3_m": 938.3, "zone_4_m": 279.8, "zone_5_m": 137.6, "high_speed_runs": 82.0, "sprints": 24.0, "top_speed_kmh": 31.2 }
+      },
+      {
+        "player": "Amar MEMIC",
+        "in_possession": {
+          "passes_attempted": 8, "passes_completed": 3, "pass_completion_pct": "38%", "switches_of_play": 0, "crosses_attempted": 0, "crosses_completed": 0, "line_breaks_attempted": 3, "line_breaks_completed": 0, "line_break_completion_pct": "0%", "ball_progressions": 3, "take_ons": 2, "step_ins": 1, "attempts_at_goal": 1, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 10, "offers_in_front": 0, "offers_in_between": 0, "offers_out_to_in": 1, "offers_in_to_out": 0, "offers_in_behind": 8, "offers_no_movement": 1, "offers_received": 1 }
+        },
+        "out_of_possession": { "tackles_made_won": "2/0", "blocks": 4, "interceptions": 0, "pressing_direct": 0, "pressing_indirect": 16, "duels_won_aerial": 2, "duels_won_physical": 0, "possession_contests_won": 2, "clearances": 3, "loose_ball_receptions": 2, "pushing_on": 11, "pushing_on_into_pressing": 6, "possession_regains": 2, "possession_interrupted": 5 },
+        "physical_data": { "total_distance_m": 8469.3, "zone_1_m": 3184.3, "zone_2_m": 3156.9, "zone_3_m": 1140.3, "zone_4_m": 539.6, "zone_5_m": 448.2, "high_speed_runs": 82.0, "sprints": 45.0, "top_speed_kmh": 33.9 }
+      },
+      {
+        "player": "Nikola KATIC",
+        "in_possession": {
+          "passes_attempted": 22, "passes_completed": 15, "pass_completion_pct": "68%", "switches_of_play": 0, "crosses_attempted": 0, "crosses_completed": 0, "line_breaks_attempted": 9, "line_breaks_completed": 5, "line_break_completion_pct": "56%", "ball_progressions": 0, "take_ons": 0, "step_ins": 0, "attempts_at_goal": 0, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 2, "offers_in_front": 1, "offers_in_between": 0, "offers_out_to_in": 0, "offers_in_to_out": 0, "offers_in_behind": 0, "offers_no_movement": 1, "offers_received": 2 }
+        },
+        "out_of_possession": { "tackles_made_won": "7/1", "blocks": 5, "interceptions": 1, "pressing_direct": 8, "pressing_indirect": 5, "duels_won_aerial": 11, "duels_won_physical": 0, "possession_contests_won": 12, "clearances": 12, "loose_ball_receptions": 2, "pushing_on": 15, "pushing_on_into_pressing": 3, "possession_regains": 11, "possession_interrupted": 7 },
+        "physical_data": { "total_distance_m": 9950.4, "zone_1_m": 4186.7, "zone_2_m": 3905.5, "zone_3_m": 1286.0, "zone_4_m": 422.8, "zone_5_m": 149.3, "high_speed_runs": 111.0, "sprints": 39.0, "top_speed_kmh": 30.3 }
+      },
+      {
+        "player": "Esmir BAJRAKTAREVIC",
+        "in_possession": {
+          "passes_attempted": 14, "passes_completed": 6, "pass_completion_pct": "43%", "switches_of_play": 0, "crosses_attempted": 0, "crosses_completed": 0, "line_breaks_attempted": 4, "line_breaks_completed": 0, "line_break_completion_pct": "0%", "ball_progressions": 0, "take_ons": 5, "step_ins": 5, "attempts_at_goal": 0, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 23, "offers_in_front": 1, "offers_in_between": 6, "offers_out_to_in": 1, "offers_in_to_out": 0, "offers_in_behind": 9, "offers_no_movement": 6, "offers_received": 7 }
+        },
+        "out_of_possession": { "tackles_made_won": "2/0", "blocks": 6, "interceptions": 2, "pressing_direct": 1, "pressing_indirect": 16, "duels_won_aerial": 1, "duels_won_physical": 0, "possession_contests_won": 1, "clearances": 4, "loose_ball_receptions": 3, "pushing_on": 30, "pushing_on_into_pressing": 8, "possession_regains": 6, "possession_interrupted": 6 },
+        "physical_data": { "total_distance_m": 8601.3, "zone_1_m": 3073.1, "zone_2_m": 3844.6, "zone_3_m": 941.8, "zone_4_m": 413.3, "zone_5_m": 328.5, "high_speed_runs": 87.0, "sprints": 36.0, "top_speed_kmh": 34.8 }
+      },
+      {
+        "player": "Jovo LUKIC",
+        "in_possession": {
+          "passes_attempted": 11, "passes_completed": 5, "pass_completion_pct": "45%", "switches_of_play": 0, "crosses_attempted": 0, "crosses_completed": 0, "line_breaks_attempted": 2, "line_breaks_completed": 0, "line_break_completion_pct": "0%", "ball_progressions": 0, "take_ons": 1, "step_ins": 1, "attempts_at_goal": 3, "goals": 1,
+          "offers_and_receptions": { "total_offers_made": 9, "offers_in_front": 0, "offers_in_between": 3, "offers_out_to_in": 0, "offers_in_to_out": 0, "offers_in_behind": 4, "offers_no_movement": 2, "offers_received": 2 }
+        },
+        "out_of_possession": { "tackles_made_won": "1/0", "blocks": 0, "interceptions": 0, "pressing_direct": 2, "pressing_indirect": 14, "duels_won_aerial": 9, "duels_won_physical": 1, "possession_contests_won": 10, "clearances": 4, "loose_ball_receptions": 11, "pushing_on": 17, "pushing_on_into_pressing": 11, "possession_regains": 0, "possession_interrupted": 0 },
+        "physical_data": { "total_distance_m": 6993.3, "zone_1_m": 2732.0, "zone_2_m": 2813.6, "zone_3_m": 930.9, "zone_4_m": 357.3, "zone_5_m": 159.5, "high_speed_runs": 79.0, "sprints": 27.0, "top_speed_kmh": 32.1 }
+      },
+      {
+        "player": "Armin GIGOVIC",
+        "in_possession": {
+          "passes_attempted": 16, "passes_completed": 13, "pass_completion_pct": "81%", "switches_of_play": 1, "crosses_attempted": 0, "crosses_completed": 0, "line_breaks_attempted": 6, "line_breaks_completed": 4, "line_break_completion_pct": "67%", "ball_progressions": 1, "take_ons": 1, "step_ins": 1, "attempts_at_goal": 0, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 12, "offers_in_front": 7, "offers_in_between": 4, "offers_out_to_in": 0, "offers_in_to_out": 0, "offers_in_behind": 1, "offers_no_movement": 0, "offers_received": 6 }
+        },
+        "out_of_possession": { "tackles_made_won": "1/1", "blocks": 0, "interceptions": 0, "pressing_direct": 3, "pressing_indirect": 8, "duels_won_aerial": 1, "duels_won_physical": 0, "possession_contests_won": 2, "clearances": 2, "loose_ball_receptions": 4, "pushing_on": 7, "pushing_on_into_pressing": 2, "possession_regains": 3, "possession_interrupted": 2 },
+        "physical_data": { "total_distance_m": 3998.3, "zone_1_m": 1360.4, "zone_2_m": 1640.7, "zone_3_m": 544.3, "zone_4_m": 318.0, "zone_5_m": 135.0, "high_speed_runs": 45.0, "sprints": 22.0, "top_speed_kmh": 29.5 }
+      },
+      {
+        "player": "Samed BAZDAR",
+        "in_possession": {
+          "passes_attempted": 5, "passes_completed": 2, "pass_completion_pct": "40%", "switches_of_play": 0, "crosses_attempted": 0, "crosses_completed": 0, "line_breaks_attempted": 3, "line_breaks_completed": 0, "line_break_completion_pct": "0%", "ball_progressions": 3, "take_ons": 3, "step_ins": 0, "attempts_at_goal": 0, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 3, "offers_in_front": 0, "offers_in_between": 0, "offers_out_to_in": 0, "offers_in_to_out": 0, "offers_in_behind": 1, "offers_no_movement": 1, "offers_received": 0 }
+        },
+        "out_of_possession": { "tackles_made_won": "3/0", "blocks": 0, "interceptions": 0, "pressing_direct": 2, "pressing_indirect": 4, "duels_won_aerial": 1, "duels_won_physical": 0, "possession_contests_won": 2, "clearances": 0, "loose_ball_receptions": 2, "pushing_on": 2, "pushing_on_into_pressing": 2, "possession_regains": 0, "possession_interrupted": 1 },
+        "physical_data": { "total_distance_m": 3649.9, "zone_1_m": 1445.6, "zone_2_m": 1428.9, "zone_3_m": 437.5, "zone_4_m": 213.4, "zone_5_m": 124.5, "high_speed_runs": 28.0, "sprints": 13.0, "top_speed_kmh": 29.8 }
+      },
+      {
+        "player": "Ivan SUNJIC",
+        "in_possession": {
+          "passes_attempted": 13, "passes_completed": 10, "pass_completion_pct": "77%", "switches_of_play": 0, "crosses_attempted": 0, "crosses_completed": 0, "line_breaks_attempted": 5, "line_breaks_completed": 3, "line_break_completion_pct": "60%", "ball_progressions": 1, "take_ons": 0, "step_ins": 1, "attempts_at_goal": 0, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 8, "offers_in_front": 6, "offers_in_between": 2, "offers_out_to_in": 0, "offers_in_to_out": 0, "offers_in_behind": 0, "offers_no_movement": 0, "offers_received": 3 }
+        },
+        "out_of_possession": { "tackles_made_won": "1/0", "blocks": 1, "interceptions": 0, "pressing_direct": 0, "pressing_indirect": 6, "duels_won_aerial": 1, "duels_won_physical": 0, "possession_contests_won": 1, "clearances": 0, "loose_ball_receptions": 6, "pushing_on": 4, "pushing_on_into_pressing": 2, "possession_regains": 1, "possession_interrupted": 0 },
+        "physical_data": { "total_distance_m": 2526.1, "zone_1_m": 828.9, "zone_2_m": 1115.3, "zone_3_m": 443.9, "zone_4_m": 108.0, "zone_5_m": 30.1, "high_speed_runs": 37.0, "sprints": 10.0, "top_speed_kmh": 26.5 }
+      },
+      {
+        "player": "Dzenis BURNIC",
+        "in_possession": {
+          "passes_attempted": 3, "passes_completed": 2, "pass_completion_pct": "67%", "switches_of_play": 0, "crosses_attempted": 0, "crosses_completed": 0, "line_breaks_attempted": 3, "line_breaks_completed": 2, "line_break_completion_pct": "67%", "ball_progressions": 0, "take_ons": 0, "step_ins": 0, "attempts_at_goal": 1, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 2, "offers_in_front": 1, "offers_in_between": 0, "offers_out_to_in": 0, "offers_in_to_out": 0, "offers_in_behind": 0, "offers_no_movement": 1, "offers_received": 1 }
+        },
+        "out_of_possession": { "tackles_made_won": "0/0", "blocks": 0, "interceptions": 0, "pressing_direct": 0, "pressing_indirect": 5, "duels_won_aerial": 0, "duels_won_physical": 0, "possession_contests_won": 0, "clearances": 0, "loose_ball_receptions": 2, "pushing_on": 7, "pushing_on_into_pressing": 3, "possession_regains": 0, "possession_interrupted": 0 },
+        "physical_data": { "total_distance_m": 1352.0, "zone_1_m": 506.5, "zone_2_m": 631.8, "zone_3_m": 160.1, "zone_4_m": 37.9, "zone_5_m": 15.6, "high_speed_runs": 15.0, "sprints": 3.0, "top_speed_kmh": 26.7 }
+      },
+      {
+        "player": "Kerim ALAJBEGOVIC",
+        "in_possession": {
+          "passes_attempted": 4, "passes_completed": 4, "pass_completion_pct": "100%", "switches_of_play": 0, "crosses_attempted": 1, "crosses_completed": 0, "line_breaks_attempted": 1, "line_breaks_completed": 1, "line_break_completion_pct": "100%", "ball_progressions": 1, "take_ons": 1, "step_ins": 0, "attempts_at_goal": 0, "goals": 0,
+          "offers_and_receptions": { "total_offers_made": 5, "offers_in_front": 0, "offers_in_between": 0, "offers_out_to_in": 1, "offers_in_to_out": 0, "offers_in_behind": 1, "offers_no_movement": 3, "offers_received": 2 }
+        },
+        "out_of_possession": { "tackles_made_won": "0/0", "blocks": 0, "interceptions": 0, "pressing_direct": 0, "pressing_indirect": 4, "duels_won_aerial": 0, "duels_won_physical": 0, "possession_contests_won": 0, "clearances": 0, "loose_ball_receptions": 1, "pushing_on": 2, "pushing_on_into_pressing": 1, "possession_regains": 0, "possession_interrupted": 0 },
+        "physical_data": { "total_distance_m": 2352.7, "zone_1_m": 987.1, "zone_2_m": 980.5, "zone_3_m": 234.3, "zone_4_m": 93.0, "zone_5_m": 57.8, "high_speed_runs": 25.0, "sprints": 7.0, "top_speed_kmh": 31.6 }
+      }
+    ]
+  }
+}

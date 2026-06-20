@@ -1,0 +1,108 @@
+{
+  "match_info": {
+    "match_id_or_code": "M19",
+    "date": "16 June 2026",
+    "stadium": "Kansas City Stadium",
+    "match": "Group J - Match 19",
+    "teams": {
+      "home": "Argentina",
+      "away": "Algeria"
+    }
+  },
+  "team_statistics": {
+    "phases_of_play": {
+      "in_possession_pct": {
+        "Argentina": "44.6%",
+        "Algeria": "50.8%"
+      },
+      "in_possession_details": {
+        "build_up_unopposed": { "Argentina": "44%", "Algeria": "49%" },
+        "build_up_opposed": { "Argentina": "19%", "Algeria": "18%" },
+        "progression": { "Argentina": "13%", "Algeria": "14%" },
+        "final_third": { "Argentina": "7%", "Algeria": "16%" },
+        "long_ball": { "Argentina": "2%", "Algeria": "0%" },
+        "attacking_transition": { "Argentina": "12%", "Algeria": "8%" },
+        "counter_attack": { "Argentina": "2%", "Algeria": "0%" },
+        "set_piece": { "Argentina": "3%", "Algeria": "5%" }
+      },
+      "out_of_possession_pct": {
+        "Argentina": "33%",
+        "Algeria": "39%"
+      },
+      "out_of_possession_details": {
+        "high_press": { "Argentina": "1%", "Algeria": "7%" },
+        "mid_press": { "Argentina": "2%", "Algeria": "6%" },
+        "low_press": { "Argentina": "1%", "Algeria": "0%" },
+        "high_block": { "Argentina": "3%", "Algeria": "7%" },
+        "mid_block": { "Argentina": "33%", "Algeria": "32%" },
+        "low_block": { "Argentina": "53%", "Algeria": "11%" },
+        "recovery": { "Argentina": "0%", "Algeria": "5%" },
+        "defensive_transition": { "Argentina": "8%", "Algeria": "12%" },
+        "counter_press": { "Argentina": "8%", "Algeria": "8%" }
+      }
+    },
+    "line_breaks": {
+      "Argentina": {
+        "total_attempted": 131,
+        "total_completed": 102,
+        "by_units": {
+          "4_units": { "attempted": 6, "completed": 5 },
+          "3_units": { "attempted": 90, "completed": 67 },
+          "2_units": { "attempted": 35, "completed": 30 }
+        },
+        "by_shape": {
+          "inside_shape": { "attempted": 88, "completed": 54 },
+          "outside_shape": { "attempted": 37, "completed": 32 }
+        },
+        "by_direction": {
+          "through": { "attempted": 49, "completed": 38 },
+          "around": { "attempted": 48, "completed": 46 },
+          "over": { "attempted": 34, "completed": 18 }
+        }
+      },
+      "Algeria": {
+        "total_attempted": 135,
+        "total_completed": 115,
+        "by_units": {
+          "4_units": { "attempted": 5, "completed": 2 },
+          "3_units": { "attempted": 94, "completed": 78 },
+          "2_units": { "attempted": 36, "completed": 32 }
+        },
+        "by_shape": {
+          "inside_shape": { "attempted": 115, "completed": 47 },
+          "outside_shape": { "attempted": 20, "completed": 12 }
+        },
+        "by_direction": {
+          "through": { "attempted": 43, "completed": 34 },
+          "around": { "attempted": 69, "completed": 67 },
+          "over": { "attempted": 23, "completed": 14 }
+        }
+      }
+    },
+    "offering_to_receive": {
+      "Argentina": {
+        "total_offers_made": 421,
+        "total_offers_received": 166,
+        "by_third": { "defensive_third": 200, "middle_third": 221, "final_third": 94 },
+        "by_shape": { "inside_shape": 242, "outside_shape": 175 }
+      },
+      "Algeria": {
+        "total_offers_made": 472,
+        "total_offers_received": 172,
+        "by_third": { "defensive_third": 234, "middle_third": 238, "final_third": 200 },
+        "by_shape": { "inside_shape": 250, "outside_shape": 222 }
+      }
+    },
+    "defensive_actions": {
+      "forced_turnovers": { "Argentina": 46, "Algeria": 40 },
+      "possession_regained": { "Argentina": 44, "Algeria": 31 },
+      "interceptions": { "Argentina": 15, "Algeria": 30 },
+      "tackles": { "Argentina": 46, "Algeria": 14 }
+    },
+    "defensive_pressure": {
+      "total_pressures": { "Argentina": 288, "Algeria": 332 },
+      "direct_pressures": { "Argentina": 57, "Algeria": 37 },
+      "ball_recovery_time": { "Argentina": "18.45s", "Algeria": "20.18s" }
+    }
+  }
+}

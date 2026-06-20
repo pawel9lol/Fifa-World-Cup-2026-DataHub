@@ -1,0 +1,65 @@
+{
+  "match_info": {
+    "match_id_or_code": "M15",
+    "date": "15 June 2026",
+    "stadium": "Los Angeles Stadium",
+    "match": "Group G - Match 15",
+    "teams": { "home": "IR Iran", "away": "New Zealand" }
+  },
+  "team_statistics": {
+    "phases_of_play": {
+      "in_possession_pct": { "IR_Iran": "43.3%", "New_Zealand": "45.3%" },
+      "in_possession_details": {
+        "build_up_unopposed": { "IR_Iran": "33%", "New_Zealand": "43%" },
+        "build_up_opposed": { "IR_Iran": "13%", "New_Zealand": "12%" },
+        "progression": { "IR_Iran": "20%", "New_Zealand": "13%" },
+        "final_third": { "IR_Iran": "17%", "New_Zealand": "13%" },
+        "long_ball": { "IR_Iran": "4%", "New_Zealand": "4%" },
+        "attacking_transition": { "IR_Iran": "17%", "New_Zealand": "16%" },
+        "counter_attack": { "IR_Iran": "3%", "New_Zealand": "1%" },
+        "set_piece": { "IR_Iran": "7%", "New_Zealand": "7%" }
+      },
+      "out_of_possession_pct": { "IR_Iran": "45.3%", "New_Zealand": "43.3%" },
+      "out_of_possession_details": {
+        "high_press": { "IR_Iran": "4%", "New_Zealand": "5%" },
+        "mid_press": { "IR_Iran": "5%", "New_Zealand": "5%" },
+        "low_press": { "IR_Iran": "1%", "New_Zealand": "1%" },
+        "high_block": { "IR_Iran": "4%", "New_Zealand": "4%" },
+        "mid_block": { "IR_Iran": "27%", "New_Zealand": "26%" },
+        "low_block": { "IR_Iran": "12%", "New_Zealand": "15%" },
+        "recovery": { "IR_Iran": "3%", "New_Zealand": "7%" },
+        "defensive_transition": { "IR_Iran": "16%", "New_Zealand": "17%" },
+        "counter_press": { "IR_Iran": "10%", "New_Zealand": "10%" }
+      }
+    },
+    "line_breaks": {
+      "IR_Iran": {
+        "total_attempted": 118, "total_completed": 75,
+        "by_units": { "4_units": { "attempted": 11, "completed": 3 }, "3_units": { "attempted": 65, "completed": 42 }, "2_units": { "attempted": 42, "completed": 30 } },
+        "by_shape": { "inside_shape": { "attempted": 89, "completed": 46 }, "outside_shape": { "attempted": 29, "completed": 29 } },
+        "by_direction": { "through": { "attempted": 37, "completed": 14 }, "around": { "attempted": 33, "completed": 33 }, "over": { "attempted": 48, "completed": 28 } }
+      },
+      "New_Zealand": {
+        "total_attempted": 118, "total_completed": 89,
+        "by_units": { "4_units": { "attempted": 7, "completed": 3 }, "3_units": { "attempted": 72, "completed": 56 }, "2_units": { "attempted": 39, "completed": 30 } },
+        "by_shape": { "inside_shape": { "attempted": 80, "completed": 68 }, "outside_shape": { "attempted": 38, "completed": 21 } },
+        "by_direction": { "through": { "attempted": 38, "completed": 31 }, "around": { "attempted": 33, "completed": 32 }, "over": { "attempted": 47, "completed": 26 } }
+      }
+    },
+    "offering_to_receive": {
+      "IR_Iran": { "total_offers_made": 355, "total_offers_received": 112, "by_third": { "defensive_third": 192, "middle_third": 146, "final_third": 150 }, "by_shape": { "inside_shape": 163, "outside_shape": 150 } },
+      "New_Zealand": { "total_offers_made": 396, "total_offers_received": 154, "by_third": { "defensive_third": 190, "middle_third": 211, "final_third": 129 }, "by_shape": { "inside_shape": 206, "outside_shape": 129 } }
+    },
+    "defensive_actions": {
+      "forced_turnovers": { "IR_Iran": 46, "New_Zealand": 47 },
+      "possession_regained": { "IR_Iran": 56, "New_Zealand": 67 },
+      "interceptions": { "IR_Iran": 12, "New_Zealand": 8 },
+      "tackles": { "IR_Iran": 37, "New_Zealand": 29 }
+    },
+    "defensive_pressure": {
+      "total_pressures": { "IR_Iran": 253, "New_Zealand": 234 },
+      "direct_pressures": { "IR_Iran": 54, "New_Zealand": 42 },
+      "ball_recovery_time": { "IR_Iran": "12.89s", "New_Zealand": "12.89s" }
+    }
+  }
+}

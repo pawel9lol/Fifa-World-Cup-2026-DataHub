@@ -1,0 +1,65 @@
+{
+  "match_info": {
+    "match_id_or_code": "M14",
+    "date": "15 June 2026",
+    "stadium": "Atlanta Stadium",
+    "match": "Group H - Match 14",
+    "teams": { "home": "Spain", "away": "Cabo Verde" }
+  },
+  "team_statistics": {
+    "phases_of_play": {
+      "in_possession_pct": { "Spain": "65.7%", "Cabo_Verde": "25.4%" },
+      "in_possession_details": {
+        "build_up_unopposed": { "Spain": "48%", "Cabo_Verde": "26%" },
+        "build_up_opposed": { "Spain": "20%", "Cabo_Verde": "15%" },
+        "progression": { "Spain": "16%", "Cabo_Verde": "11%" },
+        "final_third": { "Spain": "4%", "Cabo_Verde": "5%" },
+        "long_ball": { "Spain": "0%", "Cabo_Verde": "8%" },
+        "attacking_transition": { "Spain": "6%", "Cabo_Verde": "23%" },
+        "counter_attack": { "Spain": "1%", "Cabo_Verde": "2%" },
+        "set_piece": { "Spain": "5%", "Cabo_Verde": "7%" }
+      },
+      "out_of_possession_pct": { "Spain": "25.4%", "Cabo_Verde": "65.7%" },
+      "out_of_possession_details": {
+        "high_press": { "Spain": "10%", "Cabo_Verde": "1%" },
+        "mid_press": { "Spain": "3%", "Cabo_Verde": "1%" },
+        "low_press": { "Spain": "0%", "Cabo_Verde": "0%" },
+        "high_block": { "Spain": "16%", "Cabo_Verde": "0%" },
+        "mid_block": { "Spain": "12%", "Cabo_Verde": "18%" },
+        "low_block": { "Spain": "2%", "Cabo_Verde": "60%" },
+        "recovery": { "Spain": "5%", "Cabo_Verde": "2%" },
+        "defensive_transition": { "Spain": "23%", "Cabo_Verde": "6%" },
+        "counter_press": { "Spain": "14%", "Cabo_Verde": "5%" }
+      }
+    },
+    "line_breaks": {
+      "Spain": {
+        "total_attempted": 174, "total_completed": 144,
+        "by_units": { "4_units": { "attempted": 2, "completed": 2 }, "3_units": { "attempted": 35, "completed": 35 }, "2_units": { "attempted": 137, "completed": 115 } },
+        "by_shape": { "inside_shape": { "attempted": 53, "completed": 14 }, "outside_shape": { "attempted": 84, "completed": 21 } },
+        "by_direction": { "through": { "attempted": 34, "completed": 29 }, "around": { "attempted": 98, "completed": 91 }, "over": { "attempted": 42, "completed": 24 } }
+      },
+      "Cabo_Verde": {
+        "total_attempted": 106, "total_completed": 57,
+        "by_units": { "4_units": { "attempted": 9, "completed": 6 }, "3_units": { "attempted": 85, "completed": 59 }, "2_units": { "attempted": 12, "completed": 10 } },
+        "by_shape": { "inside_shape": { "attempted": 59, "completed": 10 }, "outside_shape": { "attempted": 26, "completed": 2 } },
+        "by_direction": { "through": { "attempted": 17, "completed": 11 }, "around": { "attempted": 36, "completed": 26 }, "over": { "attempted": 53, "completed": 20 } }
+      }
+    },
+    "offering_to_receive": {
+      "Spain": { "total_offers_made": 634, "total_offers_received": 247, "by_third": { "defensive_third": 246, "middle_third": 388, "final_third": 140 }, "by_shape": { "inside_shape": 246, "outside_shape": 473 } },
+      "Cabo_Verde": { "total_offers_made": 238, "total_offers_received": 80, "by_third": { "defensive_third": 124, "middle_third": 114, "final_third": 91 }, "by_shape": { "inside_shape": 38, "outside_shape": 109 } }
+    },
+    "defensive_actions": {
+      "forced_turnovers": { "Spain": 53, "Cabo_Verde": 47 },
+      "possession_regained": { "Spain": 41, "Cabo_Verde": 71 },
+      "interceptions": { "Spain": 7, "Cabo_Verde": 33 },
+      "tackles": { "Spain": 21, "Cabo_Verde": 1.93 }
+    },
+    "defensive_pressure": {
+      "total_pressures": { "Spain": 200, "Cabo_Verde": 398 },
+      "direct_pressures": { "Spain": 37, "Cabo_Verde": 44 },
+      "ball_recovery_time": { "Spain": "9.61s", "Cabo_Verde": "24.76s" }
+    }
+  }
+}

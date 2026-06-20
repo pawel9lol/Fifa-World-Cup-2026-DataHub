@@ -1,0 +1,65 @@
+{
+  "match_info": {
+    "match_id_or_code": "M20",
+    "date": "16 June 2026",
+    "stadium": "San Francisco Bay Area Stadium",
+    "match": "Group J - Match 20",
+    "teams": { "home": "Austria", "away": "Jordan" }
+  },
+  "team_statistics": {
+    "phases_of_play": {
+      "in_possession_pct": { "Austria": "53.3%", "Jordan": "33%" },
+      "in_possession_details": {
+        "build_up_unopposed": { "Austria": "37%", "Jordan": "21%" },
+        "build_up_opposed": { "Austria": "12%", "Jordan": "9%" },
+        "progression": { "Austria": "17%", "Jordan": "19%" },
+        "final_third": { "Austria": "14%", "Jordan": "19%" },
+        "long_ball": { "Austria": "3%", "Jordan": "7%" },
+        "attacking_transition": { "Austria": "13%", "Jordan": "13%" },
+        "counter_attack": { "Austria": "1%", "Jordan": "3%" },
+        "set_piece": { "Austria": "5%", "Jordan": "10%" }
+      },
+      "out_of_possession_pct": { "Austria": "33%", "Jordan": "53.3%" },
+      "out_of_possession_details": {
+        "high_press": { "Austria": "8%", "Jordan": "4%" },
+        "mid_press": { "Austria": "3%", "Jordan": "4%" },
+        "low_press": { "Austria": "1%", "Jordan": "0%" },
+        "high_block": { "Austria": "3%", "Jordan": "3%" },
+        "mid_block": { "Austria": "14%", "Jordan": "22%" },
+        "low_block": { "Austria": "13%", "Jordan": "24%" },
+        "recovery": { "Austria": "7%", "Jordan": "6%" },
+        "defensive_transition": { "Austria": "25%", "Jordan": "13%" },
+        "counter_press": { "Austria": "16%", "Jordan": "10%" }
+      }
+    },
+    "line_breaks": {
+      "Austria": {
+        "total_attempted": 155, "total_completed": 97,
+        "by_units": { "4_units": { "attempted": 4, "completed": 2 }, "3_units": { "attempted": 97, "completed": 54 }, "2_units": { "attempted": 54, "completed": 41 } },
+        "by_shape": { "inside_shape": { "attempted": 3, "completed": 54 }, "outside_shape": { "attempted": 1, "completed": 43 } },
+        "by_direction": { "through": { "attempted": 44, "completed": 33 }, "around": { "attempted": 54, "completed": 52 }, "over": { "attempted": 57, "completed": 27 } }
+      },
+      "Jordan": {
+        "total_attempted": 114, "total_completed": 78,
+        "by_units": { "4_units": { "attempted": 12, "completed": 6 }, "3_units": { "attempted": 78, "completed": 44 }, "2_units": { "attempted": 24, "completed": 28 } },
+        "by_shape": { "inside_shape": { "attempted": 5, "completed": 54 }, "outside_shape": { "attempted": 7, "completed": 24 } },
+        "by_direction": { "through": { "attempted": 24, "completed": 17 }, "around": { "attempted": 29, "completed": 21 }, "over": { "attempted": 61, "completed": 26 } }
+      }
+    },
+    "offering_to_receive": {
+      "Austria": { "total_offers_made": 468, "total_offers_received": 180, "by_third": { "defensive_third": 203, "middle_third": 243, "final_third": 175 }, "by_shape": { "inside_shape": 265, "outside_shape": 388 } },
+      "Jordan": { "total_offers_made": 295, "total_offers_received": 89, "by_third": { "defensive_third": 175, "middle_third": 120, "final_third": 94 }, "by_shape": { "inside_shape": 159, "outside_shape": 141 } }
+    },
+    "defensive_actions": {
+      "forced_turnovers": { "Austria": 54, "Jordan": 55 },
+      "possession_regained": { "Austria": 37, "Jordan": 46 },
+      "interceptions": { "Austria": 13, "Jordan": 30 },
+      "tackles": { "Austria": 39, "Jordan": 26 }
+    },
+    "defensive_pressure": {
+      "total_pressures": { "Austria": 206, "Jordan": 322 },
+      "direct_pressures": { "Austria": 44, "Jordan": 42 },
+      "ball_recovery_time": { "Austria": "11.84s", "Jordan": "17.53s" }
+    }
+  }
+}

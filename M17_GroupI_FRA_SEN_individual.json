@@ -1,0 +1,132 @@
+{
+  "match_info": {
+    "match_id_or_code": "M17",
+    "teams": { "home": "France", "away": "Senegal" }
+  },
+  "individual_player_data": {
+    "France": [
+      {
+        "player": "Mike MAIGNAN",
+        "in_possession": { "passes_attempted": 46, "passes_completed": 35, "pass_completion_pct": "76%", "line_breaks_completed": 9, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 12, "offers_received": 6 } },
+        "out_of_possession": { "tackles_made_won": "0/0", "blocks": 0, "interceptions": 0, "possession_regains": 8 },
+        "physical_data": { "total_distance_m": 5819.7, "high_speed_runs": 16.0, "sprints": 1.0, "top_speed_kmh": 21.7 }
+      },
+      {
+        "player": "Dayot UPAMECANO",
+        "in_possession": { "passes_attempted": 80, "passes_completed": 71, "pass_completion_pct": "89%", "line_breaks_completed": 21, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 27, "offers_received": 13 } },
+        "out_of_possession": { "tackles_made_won": "5/4", "blocks": 1, "interceptions": 3, "possession_regains": 11 },
+        "physical_data": { "total_distance_m": 11136.2, "high_speed_runs": 91.0, "sprints": 50.0, "top_speed_kmh": 33.5 }
+      },
+      {
+        "player": "Jules KOUNDE",
+        "in_possession": { "passes_attempted": 64, "passes_completed": 55, "pass_completion_pct": "86%", "line_breaks_completed": 6, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 36, "offers_received": 14 } },
+        "out_of_possession": { "tackles_made_won": "3/0", "blocks": 1, "interceptions": 1, "possession_regains": 3 },
+        "physical_data": { "total_distance_m": 11434.7, "high_speed_runs": 148.0, "sprints": 56.0, "top_speed_kmh": 31.0 }
+      },
+      {
+        "player": "Ousmane DEMBELE",
+        "in_possession": { "passes_attempted": 35, "passes_completed": 27, "pass_completion_pct": "77%", "line_breaks_completed": 6, "attempts_at_goal": 1, "goals": 0, "offers_and_receptions": { "total_offers_made": 19, "offers_received": 8 } },
+        "out_of_possession": { "tackles_made_won": "2/1", "blocks": 0, "interceptions": 1, "possession_regains": 2 },
+        "physical_data": { "total_distance_m": 9298.9, "high_speed_runs": 114.0, "sprints": 39.0, "top_speed_kmh": 27.6 }
+      },
+      {
+        "player": "Aurelien TCHOUAMENI",
+        "in_possession": { "passes_attempted": 66, "passes_completed": 63, "pass_completion_pct": "95%", "line_breaks_completed": 12, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 45, "offers_received": 31 } },
+        "out_of_possession": { "tackles_made_won": "5/1", "blocks": 3, "interceptions": 1, "possession_regains": 4 },
+        "physical_data": { "total_distance_m": 12156.8, "high_speed_runs": 197.0, "sprints": 41.0, "top_speed_kmh": 30.1 }
+      },
+      {
+        "player": "Kylian MBAPPE",
+        "in_possession": { "passes_attempted": 16, "passes_completed": 14, "pass_completion_pct": "88%", "line_breaks_completed": 2, "attempts_at_goal": 4, "goals": 2, "offers_and_receptions": { "total_offers_made": 50, "offers_received": 11 } },
+        "out_of_possession": { "tackles_made_won": "0/0", "blocks": 0, "interceptions": 1, "possession_regains": 1 },
+        "physical_data": { "total_distance_m": 9686.1, "high_speed_runs": 87.0, "sprints": 45.0, "top_speed_kmh": 35.1 }
+      },
+      {
+        "player": "Michael OLISE",
+        "in_possession": { "passes_attempted": 58, "passes_completed": 50, "pass_completion_pct": "86%", "line_breaks_completed": 19, "attempts_at_goal": 2, "offers_and_receptions": { "total_offers_made": 43, "offers_received": 21 } },
+        "out_of_possession": { "tackles_made_won": "2/0", "blocks": 2, "interceptions": 0, "possession_regains": 1 },
+        "physical_data": { "total_distance_m": 12627.9, "high_speed_runs": 149.0, "sprints": 79.0, "top_speed_kmh": 31.3 }
+      },
+      {
+        "player": "Adrien RABIOT",
+        "in_possession": { "passes_attempted": 50, "passes_completed": 44, "pass_completion_pct": "88%", "line_breaks_completed": 14, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 22, "offers_received": 8 } },
+        "out_of_possession": { "tackles_made_won": "2/2", "blocks": 4, "interceptions": 0, "possession_regains": 2 },
+        "physical_data": { "total_distance_m": 12307.0, "high_speed_runs": 176.0, "sprints": 54.0, "top_speed_kmh": 29.0 }
+      },
+      {
+        "player": "William SALIBA",
+        "in_possession": { "passes_attempted": 71, "passes_completed": 71, "pass_completion_pct": "100%", "line_breaks_completed": 8, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 17, "offers_received": 11 } },
+        "out_of_possession": { "tackles_made_won": "1/0", "blocks": 2, "interceptions": 1, "possession_regains": 2 },
+        "physical_data": { "total_distance_m": 10595.2, "high_speed_runs": 97.0, "sprints": 44.0, "top_speed_kmh": 32.3 }
+      },
+      {
+        "player": "Theo HERNANDEZ",
+        "in_possession": { "passes_attempted": 48, "passes_completed": 44, "pass_completion_pct": "92%", "line_breaks_completed": 14, "attempts_at_goal": 1, "offers_and_receptions": { "total_offers_made": 24, "offers_received": 11 } },
+        "out_of_possession": { "tackles_made_won": "5/3", "blocks": 1, "interceptions": 1, "possession_regains": 5 },
+        "physical_data": { "total_distance_m": 10782.5, "high_speed_runs": 101.0, "sprints": 49.0, "top_speed_kmh": 33.2 }
+      },
+      {
+        "player": "Desire DOUE",
+        "in_possession": { "passes_attempted": 36, "passes_completed": 31, "pass_completion_pct": "86%", "line_breaks_completed": 5, "attempts_at_goal": 2, "offers_and_receptions": { "total_offers_made": 60, "offers_received": 18 } },
+        "out_of_possession": { "tackles_made_won": "4/0", "blocks": 2, "interceptions": 1, "possession_regains": 3 },
+        "physical_data": { "total_distance_m": 10381.6, "high_speed_runs": 121.0, "sprints": 55.0, "top_speed_kmh": 31.7 }
+      }
+    ],
+    "Senegal": [
+      {
+        "player": "Edouard MENDY",
+        "in_possession": { "passes_attempted": 41, "passes_completed": 35, "pass_completion_pct": "85%", "line_breaks_completed": 10, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 9, "offers_received": 4 } },
+        "out_of_possession": { "tackles_made_won": "0/0", "blocks": 0, "interceptions": 0, "possession_regains": 7 },
+        "physical_data": { "total_distance_m": 6149.5, "high_speed_runs": 11.0, "sprints": 2.0, "top_speed_kmh": 22.6 }
+      },
+      {
+        "player": "Kalidou KOULIBALY",
+        "in_possession": { "passes_attempted": 45, "passes_completed": 39, "pass_completion_pct": "87%", "line_breaks_completed": 9, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 7, "offers_received": 4 } },
+        "out_of_possession": { "tackles_made_won": "9/1", "blocks": 1, "interceptions": 3, "possession_regains": 4 },
+        "physical_data": { "total_distance_m": 9420.3, "high_speed_runs": 85.0, "sprints": 27.0, "top_speed_kmh": 31.1 }
+      },
+      {
+        "player": "Idrissa Gana GUEYE",
+        "in_possession": { "passes_attempted": 63, "passes_completed": 57, "pass_completion_pct": "90%", "line_breaks_completed": 12, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 36, "offers_received": 19 } },
+        "out_of_possession": { "tackles_made_won": "4/2", "blocks": 1, "interceptions": 0, "possession_regains": 2 },
+        "physical_data": { "total_distance_m": 9040.0, "high_speed_runs": 112.0, "sprints": 32.0, "top_speed_kmh": 27.9 }
+      },
+      {
+        "player": "Lamine CAMARA",
+        "in_possession": { "passes_attempted": 29, "passes_completed": 26, "pass_completion_pct": "90%", "line_breaks_completed": 1, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 40, "offers_received": 13 } },
+        "out_of_possession": { "tackles_made_won": "2/1", "blocks": 0, "interceptions": 0, "possession_regains": 1 },
+        "physical_data": { "total_distance_m": 9411.9, "high_speed_runs": 137.0, "sprints": 42.0, "top_speed_kmh": 31.2 }
+      },
+      {
+        "player": "Sadio MANE",
+        "in_possession": { "passes_attempted": 29, "passes_completed": 26, "pass_completion_pct": "90%", "line_breaks_completed": 6, "attempts_at_goal": 1, "offers_and_receptions": { "total_offers_made": 47, "offers_received": 14 } },
+        "out_of_possession": { "tackles_made_won": "1/1", "blocks": 2, "interceptions": 1, "possession_regains": 5 },
+        "physical_data": { "total_distance_m": 10774.5, "high_speed_runs": 118.0, "sprints": 52.0, "top_speed_kmh": 32.3 }
+      },
+      {
+        "player": "Nicolas JACKSON",
+        "in_possession": { "passes_attempted": 17, "passes_completed": 12, "pass_completion_pct": "71%", "line_breaks_completed": 1, "attempts_at_goal": 1, "offers_and_receptions": { "total_offers_made": 50, "offers_received": 11 } },
+        "out_of_possession": { "tackles_made_won": "6/1", "blocks": 3, "interceptions": 0, "possession_regains": 2 },
+        "physical_data": { "total_distance_m": 9620.0, "high_speed_runs": 101.0, "sprints": 58.0, "top_speed_kmh": 33.5 }
+      },
+      {
+        "player": "Krepin DIATTA",
+        "in_possession": { "passes_attempted": 59, "passes_completed": 51, "pass_completion_pct": "86%", "line_breaks_completed": 15, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 12, "offers_received": 5 } },
+        "out_of_possession": { "tackles_made_won": "4/2", "blocks": 2, "interceptions": 2, "possession_regains": 7 },
+        "physical_data": { "total_distance_m": 10772.1, "high_speed_runs": 127.0, "sprints": 42.0, "top_speed_kmh": 32.8 }
+      },
+      {
+        "player": "Ismaila SARR",
+        "in_possession": { "passes_attempted": 14, "passes_completed": 11, "pass_completion_pct": "79%", "line_breaks_completed": 3, "attempts_at_goal": 3, "offers_and_receptions": { "total_offers_made": 24, "offers_received": 9 } },
+        "out_of_possession": { "tackles_made_won": "0/0", "blocks": 1, "interceptions": 0, "possession_regains": 0 },
+        "physical_data": { "total_distance_m": 9161.3, "high_speed_runs": 107.0, "sprints": 40.0, "top_speed_kmh": 33.8 }
+      },
+      {
+        "player": "Moussa NIAKHATE",
+        "in_possession": { "passes_attempted": 81, "passes_completed": 75, "pass_completion_pct": "93%", "line_breaks_completed": 16, "attempts_at_goal": 0, "offers_and_receptions": { "total_offers_made": 12, "offers_received": 4 } },
+        "out_of_possession": { "tackles_made_won": "0/0", "blocks": 2, "interceptions": 1, "possession_regains": 5 },
+        "physical_data": { "total_distance_m": 10063.2, "high_speed_runs": 103.0, "sprints": 29.0, "top_speed_kmh": 30.8 }
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "match_info": {
+    "match_id_or_code": "M17",
+    "date": "16 June 2026",
+    "stadium": "New York/New Jersey Stadium",
+    "match": "Group I - Match 17",
+    "teams": {
+      "home": "France",
+      "away": "Senegal"
+    }
+  },
+  "team_statistics": {
+    "phases_of_play": {
+      "in_possession_pct": {
+        "France": "44.5%",
+        "Senegal": "49.4%"
+      },
+      "in_possession_details": {
+        "build_up_unopposed": { "France": "41%", "Senegal": "38%" },
+        "build_up_opposed": { "France": "15%", "Senegal": "16%" },
+        "progression": { "France": "19%", "Senegal": "17%" },
+        "final_third": { "France": "12%", "Senegal": "11%" },
+        "long_ball": { "France": "2%", "Senegal": "3%" },
+        "attacking_transition": { "France": "11%", "Senegal": "11%" },
+        "counter_attack": { "France": "2%", "Senegal": "2%" },
+        "set_piece": { "France": "4%", "Senegal": "4%" }
+      },
+      "out_of_possession_pct": {
+        "France": "34%",
+        "Senegal": "31%"
+      },
+      "out_of_possession_details": {
+        "high_press": { "France": "5%", "Senegal": "5%" },
+        "mid_press": { "France": "4%", "Senegal": "3%" },
+        "low_press": { "France": "1%", "Senegal": "0%" },
+        "high_block": { "France": "9%", "Senegal": "8%" },
+        "mid_block": { "France": "30%", "Senegal": "31%" },
+        "low_block": { "France": "13%", "Senegal": "17%" },
+        "recovery": { "France": "4%", "Senegal": "5%" },
+        "defensive_transition": { "France": "11%", "Senegal": "11%" },
+        "counter_press": { "France": "8%", "Senegal": "8%" }
+      }
+    },
+    "line_breaks": {
+      "France": {
+        "total_attempted": 156,
+        "total_completed": 118,
+        "by_units": {
+          "4_units": { "attempted": 8, "completed": 4 },
+          "3_units": { "attempted": 100, "completed": 56 },
+          "2_units": { "attempted": 48, "completed": 44 }
+        },
+        "by_shape": {
+          "inside_shape": { "attempted": 56, "completed": 37 },
+          "outside_shape": { "attempted": 22, "completed": 27 }
+        },
+        "by_direction": {
+          "through": { "attempted": 37, "completed": 27 },
+          "around": { "attempted": 81, "completed": 73 },
+          "over": { "attempted": 38, "completed": 18 }
+        }
+      },
+      "Senegal": {
+        "total_attempted": 143,
+        "total_completed": 101,
+        "by_units": {
+          "4_units": { "attempted": 8, "completed": 3 },
+          "3_units": { "attempted": 92, "completed": 46 },
+          "2_units": { "attempted": 43, "completed": 52 }
+        },
+        "by_shape": {
+          "inside_shape": { "attempted": 40, "completed": 24 },
+          "outside_shape": { "attempted": 19, "completed": 19 }
+        },
+        "by_direction": {
+          "through": { "attempted": 46, "completed": 36 },
+          "around": { "attempted": 51, "completed": 42 },
+          "over": { "attempted": 46, "completed": 23 }
+        }
+      }
+    },
+    "offering_to_receive": {
+      "France": {
+        "total_offers_made": 373,
+        "total_offers_received": 161,
+        "by_third": { "defensive_third": 62, "middle_third": 171, "final_third": 140 },
+        "by_shape": { "inside_shape": 212, "outside_shape": 161 }
+      },
+      "Senegal": {
+        "total_offers_made": 350,
+        "total_offers_received": 124,
+        "by_third": { "defensive_third": 60, "middle_third": 221, "final_third": 103 },
+        "by_shape": { "inside_shape": 129, "outside_shape": 187 }
+      }
+    },
+    "defensive_actions": {
+      "forced_turnovers": { "France": 54, "Senegal": 39 },
+      "possession_regained": { "France": 42, "Senegal": 46 },
+      "interceptions": { "France": 10, "Senegal": 11 },
+      "tackles": { "France": 30, "Senegal": 30 }
+    },
+    "defensive_pressure": {
+      "total_pressures": { "France": 277, "Senegal": 308 },
+      "direct_pressures": { "France": 49, "Senegal": 44 },
+      "ball_recovery_time": { "France": "16.75s", "Senegal": "19.16s" }
+    }
+  }
+}
